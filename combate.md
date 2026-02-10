@@ -1,23 +1,37 @@
 # ⚔ Combate
 
-## 🗡 Ataque (quando você age)
+## 🎲 Regra única de rolagem (recomendado)
 
-Faça a rolagem com o atributo apropriado e use o **melhor dado**:
+**Sempre o jogador rola.** Ataque e defesa seguem a mesma lógica:
 
-- **4–5**: causa **1 dano**
-- **6**: causa **2 dano**
-- **1**: falha crítica (efeito narrado pelo mestre: queda, desarme etc.)
+| Melhor dado | Resultado |
+|---|---|
+| 6 | Deu certo **e algo legal acontece** |
+| 4–5 | Deu certo |
+| 2–3 | Não deu certo (você sofre a consequência) |
+| 1 | Não deu certo **e algo engraçado dá errado** |
 
-## 🛡 Defesa (player-facing)
+## 🗡 Quando você ataca
 
-Monstros normalmente **não rolam dados**.
+Role o atributo apropriado:
 
-Quando um monstro ataca, o jogador rola a defesa com o atributo apropriado:
+- **4–5**: você acerta e causa **1 dano**
+- **6**: você acerta, causa **1 dano** e ativa o efeito especial da sua **arma/magia/poder/pet**
+- **2–3**: você erra (normalmente nada acontece, ou você fica em má posição)
+- **1**: você erra e acontece uma complicação engraçada (cai, perde algo, se expõe, etc.)
 
-- **4–5**: evita o dano
-- **6**: evita o dano **e** causa **1 dano**
-- **2–3**: sofre **1 dano**
-- **1**: sofre **2 dano**
+> Se você quiser um modo mais “heroico”: no **6**, em vez de só efeito, você pode causar **2 dano**.
+
+## 🛡 Quando você é atacado (player-facing)
+
+Monstros normalmente **não rolam dados**. Eles descrevem o perigo; você rola para reagir.
+
+Role o atributo apropriado:
+
+- **4–5**: você evita o dano
+- **6**: você evita o dano e ativa um efeito legal (contra-ataca, empurra, protege alguém, etc.)
+- **2–3**: você sofre **1 dano**
+- **1**: você sofre **2 dano** e algo dá errado (escorrega, perde a arma, etc.)
 
 ## 🩸 Vida 0
 

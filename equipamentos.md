@@ -1,29 +1,23 @@
 # 🧰 Equipamentos
 
-## 🛡 Armadura (durabilidade)
+## 🛡 Armadura (escudo visual)
 
-Armadura possui **cargas**.
+Armadura possui **marcas** (você pode desenhar na ficha e ir apagando).
 
-Quando você **sofreria dano**, pode gastar **1 carga** para **ignorar todo o dano**.
+Quando você **sofreria dano**, pode apagar **1 marca** para **ignorar todo o dano**.
 
-Quando as cargas acabam, a armadura fica **quebrada**.
+Quando as marcas acabam, a armadura fica **quebrada**.
 
 ### 🛡 Tipos de armadura
 
-- **Leve**: 2 cargas
-- **Média**: 3 cargas
-- **Pesada**: 4 cargas
-
-Penalidades:
-
-- **Leve**: nenhuma
-- **Média**: **-1D6 em Destreza** fora de combate
-- **Pesada**: não pode usar **Destreza** para **defender magia**
+- **Armadura fraca**: 🟦🟦 (2 marcas)
+- **Armadura média**: 🟦🟦🟦 (3 marcas)
+- **Armadura forte**: 🟦🟦🟦🟦 (4 marcas)
 
 ## 🔮 Armadura Arcana (Mago)
 
-- **Durabilidade**: 2
-- Funciona como armadura leve
+- **Marcas**: 🟦🟦 (2)
+- Funciona como armadura fraca
 - Recupera após **descanso completo**
 - Não precisa de conserto
 
@@ -39,6 +33,26 @@ Penalidades:
 ### 🏹 Ranger
 
 - **Arco**: no **6**, mover após ataque
-- **Besta**: no **6**, ignora armadura (o alvo não pode gastar carga para reduzir esse dano a 0)
+- **Besta**: no **6**, ignora armadura (o alvo não pode apagar marca para reduzir esse dano a 0)
 - **Duas adagas**: no **6**, ataque extra
 - **Lança de arremesso**: no **6**, impede movimento (**Imobilizado**)
+
+## 🐾 Pets (opcional, muito recomendado)
+
+Pets são companheiros simples e desejáveis para crianças:
+
+- não têm vida
+- não rolam dado
+- fazem **1 coisa fixa**
+
+Uso sugerido:
+
+- **1 vez por cena**, ou
+- quando você tira **6** (o pet “entra em cena”)
+
+Exemplos:
+
+- 🐺 **Lobo**: ajuda a atacar (você pode transformar um **4–5** em **6** uma vez por cena)
+- 🦉 **Coruja**: avisa perigos (o mestre dá uma pista clara antes de uma armadilha)
+- 🐉 **Dragão pequeno**: assusta/espalha inimigos (no 6, empurra ou derruba um alvo)
+- 🐱 **Gato mágico**: protege 1 vez (transforma 1 dano em 0 uma vez por cena)

@@ -32,14 +32,31 @@ Exemplos válidos:
 2. Role todos os D6 daquele atributo.
 3. Use **apenas o melhor resultado**.
 
-> Observação: bônus/penalidades de **+1D6 / -1D6** significam rolar **1 dado a mais ou a menos** naquele teste (mínimo 1D6).
+> Regra principal (modo infantil): **toda rolagem funciona igual** e o **6 sempre faz algo legal**.
 
 | Melhor dado | Efeito |
 |---|---|
-| 6 | Sucesso crítico |
-| 4–5 | Sucesso |
-| 2–3 | Falha |
-| 1 | Falha crítica |
+| 6 | Deu certo **e algo legal acontece** |
+| 4–5 | Deu certo |
+| 2–3 | Não deu certo (você perde tempo, erra, ou sofre consequência) |
+| 1 | Não deu certo **e algo engraçado dá errado** |
+
+## 🧒 Modo infantil (recomendado)
+
+Para jogar com crianças, priorize escolhas visíveis:
+
+- 🗡 arma nova
+- 🛡 armadura melhor (marcas na folha)
+- 🐾 pet
+- ✨ poder especial (1 frase)
+
+Evite ficar dando bônus abstratos o tempo todo.
+
+## ⚙️ Bônus simples (opcional)
+
+Se você quiser usar bônus/penalidades:
+
+- **+1D6 / -1D6**: role **1 dado a mais ou a menos** naquele teste (mínimo 1D6)
 
 ## ⚔ Vantagem narrativa
 
@@ -65,11 +82,15 @@ Armadura física precisa de reparo na cidade (ver `equipamentos.md`).
 
 ## 📈 Evolução
 
-Após **3 aventuras**, escolha:
+Ao final de **cada aventura**, escolha **1 recompensa**:
 
-- **+1 Vida**
-  - OU
-- **+1D6** em um atributo (máximo **5D6**)
+- 🗡 arma nova
+- 🛡 armadura melhor
+- 🐾 pet
+- ✨ poder especial (1 frase)
+- ❤️ +1 vida
+
+(Se quiser um modo mais “tradicional”: em vez de recompensa, +1D6 em um atributo, máximo **5D6**.)
 
 ## 🎯 Filosofia do sistema
 

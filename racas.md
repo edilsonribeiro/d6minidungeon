@@ -2,9 +2,12 @@
 
 Raças viram **truques visíveis**, não bônus abstratos.
 
-Regra: **1 vez por cena**, você pode usar o truque da sua raça para “virar a história”.
+Regra (duas opções):
 
-- 🧔 **Anão — Teimoso**: ignora **uma** condição (Derrubado/Atordoado/Imobilizado/Enfraquecido) e continua agindo
+- **Modo 6–8 (recomendado)**: quando você tirar **6**, você pode “puxar” o truque da sua raça pra deixar o sucesso ainda mais legal.
+- **Modo 8–10 (opcional)**: **1 vez por cena**, você pode usar o truque da sua raça para “virar a história”.
+
+- 🧔 **Anão — Teimoso**: ignora **uma** condição (Caído/Tonto/Preso) e continua agindo
 - 🧝 **Elfo — Olhos atentos**: o mestre te dá uma pista clara sobre armadilhas, segredos ou perigos
 - 😈 **Tiefling — Assustador**: um inimigo pequeno recua ou perde o próximo movimento (o mestre descreve)
 - 🧑 **Humano — Improviso**: declare um item simples que você “tinha na mochila” (corda, giz, gancho, etc.)

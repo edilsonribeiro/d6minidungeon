@@ -43,6 +43,23 @@ Sempre que fizer algo arriscado ou importante:
 
 Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer alguém, etc.
 
+## 🧠 Modo 6–8 anos (super simples): “Regra do 6”
+
+Para crianças menores (ou mesas bem rápidas), use este atalho:
+
+- Se tirou **6**, acontece **o extra** (arma, poder, pet, truque da raça, etc.).
+- Se não tirou 6, acontece só o **básico** do resultado.
+
+Isso reduz muito a quantidade de “gatilhos diferentes” para lembrar.
+
+## 🎬 O que é “cena”, “combate” e “aventura” (pra não confundir)
+
+Você não precisa falar essas palavras na mesa. O mestre só decide:
+
+- **Combate**: quando tem inimigo tentando machucar vocês **agora**.
+- **Cena**: até mudar **o lugar**, **o problema** ou **o clima da história**.
+- **Aventura**: a história inteira do dia (quando termina, tem recompensa/evolução).
+
 ## 🧩 Ajuda e atrapalho (opcional)
 
 Quando estiver muito fácil ou muito difícil:
@@ -117,7 +134,8 @@ Um pet:
 
 - não tem vida
 - não rola dado
-- ajuda **1 vez por cena** ou quando você tira **6**
+- **Modo 6–8 (recomendado)**: ajuda quando você tira **6**
+- **Modo 8–10 (opcional)**: ajuda **1 vez por cena**
 
 Exemplos:
 
@@ -161,6 +179,12 @@ Você pode escolher de duas formas:
 ## 🧠 Regra de ouro do mestre
 
 > Se a regra atrapalhar a diversão, ignore.
+
+🧙 **Regra do mestre (bem explícita)**:
+
+- Se a criança tiver uma ideia legal: **funciona**.
+- Talvez precise rolar 1D6.
+- No **6**, fica **ainda mais legal**.
 
 Pergunta mais importante do jogo:
 

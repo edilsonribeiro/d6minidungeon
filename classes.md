@@ -28,7 +28,7 @@ Recompensas prontas para escolher: `arvore-de-recompensas.md`.
 - 🗡️ Arma sugerida: Arco / Duas adagas / Lança
 - ✨ Poder (escolha 1):
   - **Ágil**: quando tirar **6** atacando à distância, você pode se mover e se esconder
-  - **Caçador**: 1 vez por cena, você pode declarar que “já tinha visto pegadas” e ganhar uma pista clara
+  - **Caçador**: quando tirar **6** explorando, você pode declarar que “já tinha visto pegadas” e ganhar uma pista clara
 
 ## 🔥 Mago
 

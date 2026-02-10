@@ -21,10 +21,10 @@ Armas não dão bônus. Elas mudam **o efeito do seu 6** quando você ataca.
 Escolha uma (ou invente uma parecida):
 
 - 🗡 **Espada**: empurra o inimigo
-- 🪓 **Machado**: derruba (Derrubado)
-- 🔨 **Martelo**: deixa tonto (Atordoado)
+- 🪓 **Machado**: derruba (Caído)
+- 🔨 **Martelo**: deixa tonto (Tonto)
 - 🏹 **Arco longo**: acerta “muito longe” sem complicação
-- 🗡 **Lança**: impede de fugir (Imobilizado)
+- 🗡 **Lança**: impede de fugir (Preso)
 - 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
 - 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
 - 🎯 **Besta pesada**: no 6, o alvo não pode apagar escudo para zerar esse dano
@@ -37,7 +37,14 @@ Pets:
 
 - não têm vida
 - não rolam dados
-- ajudam **1 vez por cena** (ou quando você tirar 6, se preferir)
+- **Modo 6–8 (recomendado)**: ajudam quando você tirar **6**
+- **Modo 8–10 (opcional)**: ajudam **1 vez por cena**
+
+Atalho: se quiser simplificar qualquer pet para crianças menores, trate como:
+
+- “quando eu tirar **6**, meu pet faz isso”
+
+Se um pet tiver texto “1 vez por cena”, no modo 6–8 você pode ignorar isso e usar só a frase acima.
 
 ### 🐺 Pets de combate
 
@@ -63,8 +70,8 @@ Poder = **1 frase simples**.
 
 Use:
 
-- **1 vez por combate**, ou
-- quando você tirar **6** (se o poder combinar com a cena)
+- **Modo 6–8 (recomendado)**: quando você tirar **6** (se combinar com a cena)
+- **Modo 8–10 (opcional)**: **1 vez por combate** ou no **6**
 
 Escolha um (ou invente um parecido):
 

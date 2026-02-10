@@ -27,6 +27,14 @@ Depois disso, evoluções devem ser principalmente:
 - armas únicas/nomeadas
 - coisas narrativas (“agora eu tenho um mapa do castelo”, “sou amigo do ferreiro”, etc.)
 
+## 🔑 Atalho (modo 6–8): menos gatilhos para lembrar
+
+Para crianças menores, prefira que “coisas especiais” aconteçam **no 6** (ataque, defesa, magia, etc.).
+
+Se alguma melhoria falar “1 vez por combate/cena/aventura”, o mestre pode simplificar para:
+
+- “quando você tirar **6**, você pode usar isso”
+
 ## ⚔ Guerreiro — evolução
 
 ### 🛡️ Caminho do Protetor (escolha 1 por evolução)
@@ -46,12 +54,12 @@ Depois disso, evoluções devem ser principalmente:
 ### 🏃 Caminho da Agilidade (escolha 1 por evolução)
 
 - 🏃 **Muito rápido**: você pode se mover **antes e depois** de atacar (no mesmo turno).
-- 🌲 **Desaparecer**: **1 vez por combate**, você some/escapa e inimigos te perdem de vista por um momento.
+- 🌲 **Desaparecer**: quando você tirar **6**, você pode se esconder/sumir depois da sua ação (inimigos te perdem de vista por um momento).
 - ❤️ **Sobrevivente**: ganhe **+1 coração** (até ❤️❤️❤️❤️❤️).
 
 ### 🐾 Caminho do Companheiro (escolha 1 por evolução)
 
-- 🐾 **Pet treinado**: seu pet pode ajudar **duas vezes por cena**.
+- 🐾 **Pet treinado**: quando você tirar **6**, seu pet pode ajudar de um jeito ainda melhor (defina em 1 frase; exemplo: “no 6 eu viro um 4–5 em 6”, “no 6 eu anulo 1 dano”, “no 6 eu ganho uma pista”).
 - 🦅 **Pet especial**: seu pet ganha **uma habilidade nova** (defina em 1 frase).
 - 🤝 **Ataque em dupla**: quando você tirar **6**, você e o pet agem juntos (ex.: causar efeito extra, empurrar, derrubar, distrair).
 
@@ -81,7 +89,7 @@ Depois disso, evoluções devem ser principalmente:
 
 - 🛡️ **Escudo de luz**: **1 vez por combate**, dê **Protegido** para um aliado perto sem precisar rolar.
 - ✨ **Milagre**: **1 vez por aventura**, algo “impossível” acontece (o mestre só pede que você descreva bonito).
-- 🕊 **Pet sagrado**: ganhe um pet que ajuda na cura ou proteção (1 frase; 1 vez por cena).
+- 🕊 **Pet sagrado**: ganhe um pet que ajuda na cura ou proteção (1 frase; no seu **6**, ele entra em cena).
 
 ## 💬 Regra de ouro da evolução
 

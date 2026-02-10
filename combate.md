@@ -81,14 +81,23 @@ Quando estiver muito fácil ou muito difícil:
 
 Use isso no lugar de bônus numéricos.
 
-## 🧎 Condições (simples)
+## 🧎 Condições (modo infantil recomendado — 4 estados)
 
-- **Derrubado**: você cai; levantar gasta sua ação; enquanto no chão, não pode se mover
-- **Atordoado**: perde sua próxima ação
-- **Enfraquecido**: sua próxima rolagem tem **Atrapalho**
-- **Imobilizado**: não pode se mover; ainda pode agir
-- **Desarmado**: sua arma cai perto; gasta uma ação para pegar
-- **Protegido**: o próximo dano vira **0** (depois acaba)
+Para crianças de 6–8, use **só quatro** condições fáceis de lembrar:
+
+- 🟡 **Caído**: você caiu; não se move até levantar (levantar gasta sua ação).
+- 🔴 **Tonto**: perde sua próxima ação.
+- 🔵 **Preso**: não pode se mover; ainda pode agir.
+- 🟢 **Protegido**: o próximo dano vira **0** (depois acaba).
+
+Coisas como “arma caiu”, “escorregou”, “ficou com medo” podem existir, mas ficam só na **narração** (sem virar estado fixo).
+
+### 🔁 Se você já usava as condições antigas
+
+- Derrubado → **Caído**
+- Atordoado → **Tonto**
+- Imobilizado → **Preso**
+- Enfraquecido / Desarmado → **narração**
 
 ## 🧱 Módulo opcional: combate em grid (quadrados)
 

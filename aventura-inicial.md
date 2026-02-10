@@ -18,6 +18,7 @@ Os heróis vão investigar, lidar com criaturinhas bagunceiras e decidir como re
 
 - Tenha à mão: `nucleo-infantil.md`, `combate.md` e `arvore-de-recompensas.md` (ou `evolucao.md`).
 - Se quiser fichas prontas: `fichas/infantil/README.md`.
+- Para 6–8 anos: use a “Regra do 6” (em `nucleo-infantil.md`) e só 4 condições (em `combate.md`).
 - Regra do mestre: pergunte muito e explique pouco. A tabela do D6 aparece naturalmente.
 
 ## 🧭 Estrutura (modular)
@@ -104,7 +105,8 @@ Durante o combate (ou logo depois), apareça com:
 Se o grupo quiser, ele vira um **pet**:
 
 - não tem vida, não rola dados
-- ajuda **1 vez por cena** (ex.: achar chave, distrair ratinho, pegar item pequeno)
+- **Modo 6–8 (recomendado)**: ajuda quando um herói tirar **6**
+- **Modo 8–10 (opcional)**: ajuda **1 vez por cena** (ex.: achar chave, distrair ratinho, pegar item pequeno)
 
 ## 🤝 Cena 4 — A escolha final (5 min)
 
@@ -143,4 +145,3 @@ Feche com:
 - Uma armadilha boba: “tábua rangendo” (rolagem para passar sem barulho).
 - Um “chefão” social: a padeira brava (rolagem para convencer que vocês ajudaram de verdade).
 - Uma pista para a próxima aventura: “alguém viu um goblin na floresta” (gancho para `monstros.md`).
-

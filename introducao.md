@@ -39,7 +39,7 @@ Nada de contas ou tabelas.
 
 Sempre que fizer algo arriscado ou importante:
 
-👉 **Role 1D6**
+👉 **Role 1D6 por ponto do recurso usado** e use **apenas o melhor dado**
 
 | Resultado | O que acontece |
 |---|---|
@@ -52,8 +52,8 @@ Sempre que fizer algo arriscado ou importante:
 
 Quando estiver muito fácil ou muito difícil:
 
-- **Ajuda**: role **2D6** e pegue o **melhor**
-- **Atrapalho**: role **2D6** e pegue o **pior**
+- **Ajuda (Vantagem)**: role **+1D6** (um dado extra) e use **apenas o melhor dado**
+- **Atrapalho (Desvantagem)**: role **-1D6** (um dado a menos, mínimo 1 dado)
 
 Use isso no lugar de bônus numéricos.
 

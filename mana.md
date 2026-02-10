@@ -40,9 +40,11 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
   - você não consegue usar magia arcana
   - você não consegue resistir magia arcana (o impacto vai para ❤️ Vida)
 
-## ✨ Truque arcano (qualquer classe)
+## ✨ Truque arcano (qualquer personagem)
 
 > Gaste **🔵1**: faça um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
+
+Se for disputado/perigoso, role **1D6 por ponto de 🔵 Mana** e use **apenas o melhor dado** (mesma tabela do sistema).
 
 Exemplos (simples e imediatos):
 
@@ -83,7 +85,7 @@ Em termos simples (pra criança):
 
 Qualquer personagem pode gastar Alma para mexer na **rolagem**, não no dano:
 
-> **Gaste 🟣1:** dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem.  
+> **Gaste 🟣1:** dê **Ajuda** (**+1D6**) a uma rolagem **OU** dê **Atrapalho** (**-1D6, mínimo 1 dado**) a uma rolagem.  
 > Declare antes do dado; vale só para 1 rolagem. Um personagem não recebe mais de 1 Destino na mesma rolagem.
 
 ## 🎁 Itens de recuperação (opcional)

@@ -37,7 +37,7 @@ Primeira aventura pronta (tutorial de ~30 min): `aventura-inicial.md`.
 
 Sempre que fizer algo arriscado ou importante:
 
-👉 **Role 1D6**
+👉 **Role 1D6 por ponto do recurso usado** e use **apenas o melhor dado**
 
 | Resultado | O que acontece |
 |---|---|
@@ -69,8 +69,8 @@ Você não precisa falar essas palavras na mesa. O mestre só decide:
 
 Quando estiver muito fácil ou muito difícil:
 
-- **Ajuda**: role **2D6** e pegue o **melhor**
-- **Atrapalho**: role **2D6** e pegue o **pior**
+- **Ajuda (Vantagem)**: role **+1D6** (um dado extra) e use **apenas o melhor dado**
+- **Atrapalho (Desvantagem)**: role **-1D6** (um dado a menos, mínimo 1 dado)
 
 Use isso no lugar de bônus numéricos.
 
@@ -81,7 +81,7 @@ Use isso no lugar de bônus numéricos.
 - Recuperam apenas em **descanso completo**.
 - Se um recurso chega a **0**, ele **não pode mais ser usado**.
 - Ações universais:
-  - 🟣 **Destino**: gaste **🟣1** para dar **Ajuda** ou **Atrapalho** em uma rolagem (2D6 melhor/pior).
+  - 🟣 **Destino**: gaste **🟣1** para dar **Ajuda** (**+1D6**) ou **Atrapalho** (**-1D6, mínimo 1 dado**) em uma rolagem.
   - 🔵 **Truque arcano**: gaste **🔵1** para um efeito mágico simples (ou dano arcano máximo **1**).
 
 ## ⚔ Combate (sem complicação)
@@ -93,8 +93,8 @@ Escolha o tipo do ataque e role **1D6**:
 - **Físico** → dano vai para 🛡️ **Defesa** do alvo (se estiver em 0, vai para ❤️ **Vida**)
 - **Arcano**
   - **Truque arcano (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
-  - **Magia arcana (Mago / habilidade)**: gaste **🔵1** → dano normal do sistema
-- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade (ex.: Curandeiro). Gaste **🟣1**.
+  - **Magia arcana (especialização/habilidade)**: gaste **🔵1** → dano normal do sistema
+- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade. Gaste **🟣1**.
 
 Efeitos espirituais/mentais (medo, controle, drenagem) atingem 🟣 **Alma**.
 

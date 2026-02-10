@@ -89,7 +89,7 @@ Cada ratinho:
 ### 🧠 Ensinar combate sem travar
 
 - No turno do herói: ele se move + faz 1 ação (atacar, correr, empurrar saco, gritar, pegar algo).
-- Para atacar: escolha o tipo (físico/arcano/espiritual) e role 1D6 (4–5 = 1 dano; 6 = 2 dano).
+- Para atacar: escolha o tipo (físico/arcano/espiritual) e role **1D6 por ponto do recurso** (use só o melhor dado).
 - Para usar uma habilidade/magia: gaste **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵).
 - No turno do monstro: peça a defesa (6 evita e pode contra-atacar; 4–5 evita; 2–3 toma 1; 1 toma 2 ou condição).
 

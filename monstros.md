@@ -19,6 +19,7 @@ Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano
 
 Resultados rápidos na defesa (resumo):
 
+- O jogador rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e usa **apenas o melhor dado**.
 - **6**: evita e faz algo legal
 - **4–5**: evita
 - **2–3**: toma 1 dano no recurso do tipo do ataque

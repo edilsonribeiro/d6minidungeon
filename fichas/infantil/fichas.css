@@ -212,6 +212,14 @@ body {
   margin-bottom: 8px;
 }
 
+.rulebox__hint {
+  margin-top: -4px;
+  margin-bottom: 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 850;
+}
+
 .rulebox__grid {
   display: grid;
   gap: 6px;

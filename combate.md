@@ -6,7 +6,7 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 
 Sempre que fizer algo arriscado ou importante:
 
-👉 **Role 1D6**
+👉 **Role 1D6 por ponto do recurso usado** e use **apenas o melhor dado**
 
 | Resultado | O que acontece |
 |---|---|
@@ -34,66 +34,42 @@ Regras fixas:
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
   - Se você precisar resistir algo e o recurso correto estiver em **0**, o impacto vai para ❤️ **Vida**.
 
-Distribuição por classe (total **10 pontos**, na ordem **Vida – Defesa – Alma – Mana**):
+## ⚔️ Combate básico (motor)
 
-- ⚔ **Guerreiro**: ❤️ 4 / 🛡️ 3 / 🟣 2 / 🔵 1
-- 🏹 **Patrulheiro**: ❤️ 3 / 🛡️ 4 / 🟣 1 / 🔵 2
-- ✝️ **Curandeiro**: ❤️ 2 / 🛡️ 1 / 🟣 4 / 🔵 3
-- 🔥 **Mago**: ❤️ 1 / 🛡️ 2 / 🟣 3 / 🔵 4
+No combate básico, **classes não existem ainda**. Só o motor:
 
-## 🧩 Ações universais de gasto (qualquer classe)
+1) Escolha o recurso usado (❤️/🛡️/🟣/🔵).  
+2) Role **1D6 por ponto** desse recurso.  
+3) Use **apenas o melhor resultado** e aplique a tabela do jogo.
 
-Todo mundo pode gastar qualquer recurso, com estes usos **básicos**:
+Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo assim — mas **qualquer dano/impacto vai direto para ❤️ Vida**.
+
+## 🧩 Gastos universais (qualquer personagem)
 
 - ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
-- 🛡️ **Esquiva total**: antes de rolar uma defesa física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
-- 🟣 **Destino (Alma)**: gaste **🟣1** → dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem (declare antes; vale só para 1 rolagem).
-  - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem.
-  - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (do Curandeiro) ou coisa de **item/ritual**.
-- 🔵 **Truque arcano**: gaste **🔵1** → produza um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
-  - Em combate, isso pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
+- 🛡️ **Esquiva total**: antes de uma defesa física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
+- 🟣 **Destino (Alma)**: gaste **🟣1** → dê **Ajuda** (**+1D6**) a uma rolagem **OU** dê **Atrapalho** (**-1D6, mínimo 1 dado**) a uma rolagem.
+  - declare antes; vale para **1** rolagem
+  - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem
+  - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (habilidade) ou coisa de **item/ritual**.
+- 🔵 **Truque arcano**: gaste **🔵1** → produza um efeito mágico **simples e imediato** (luz, faísca, vento, empurrão leve, destravar/travar simples).
+  - em combate, pode virar um ataque arcano **simples** (dano máximo **1**, sem área)
 
-## 🎭 Identidade de classe (como “quebrar as regras”)
+## 📋 Tabela resumo (combate básico)
 
-Além das **ações universais** acima, cada classe domina um recurso para fazer coisas que os outros não fazem bem:
-
-- ⚔ **Guerreiro (❤️ dominante)**: transforma dor/fôlego em poder.
-  - gaste **❤️1**: seu ataque físico causa **+1 dano** (ação universal; o Guerreiro aguenta fazer isso mais vezes)
-  - gaste **❤️1**: você age mesmo ferido (ignore 1 condição **Tonto** por 1 turno)
-- 🏹 **Patrulheiro (🛡️ dominante)**: transforma movimento em ataque.
-  - gaste **🛡️1**: ataque e depois saia sem risco (recuo/movimento livre)
-  - gaste **🛡️1**: seu ataque ignora 🟦 **Armadura** do alvo
-- ✝️ **Curandeiro (🟣 dominante)**: transforma vontade em milagre.
-  - gaste **🟣1**: um aliado recupera **+1 ❤️ Vida** (no 6, **+2**)
-  - gaste **🟣1**: remova **1 condição** (Caído/Tonto/Preso)
-- 🔥 **Mago (🔵 dominante)**: transforma energia arcana em magia.
-  - gaste **🔵1**: magia arcana de verdade (dano normal do sistema)
-  - gaste **🔵1**: explosão/área pequena (efeito forte)
-
-Tabela rápida:
-
-| Recurso | Todos podem gastar para… | A classe domina para… |
-|---|---|---|
-| ❤️ Vida | +1 dano físico | trocas brutais (Guerreiro) |
-| 🛡️ Defesa/Esquiva | anular 1 ataque físico (auto 4–5) | ataques/movimento extra (Patrulheiro) |
-| 🟣 Alma | mudar o destino (Ajuda/Atrapalho) | curar/purificar (Curandeiro) |
-| 🔵 Mana | truque arcano simples | magia poderosa (Mago) |
-
-Lista de técnicas/milagres/magias por classe:
-
-- `classes.md`
+| Situação | Recurso | Rolagem | Gasto opcional |
+|---|---|---|---|
+| Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | ❤️1: +1 dano |
+| Defesa física | 🛡️ Defesa | 1D6 por Defesa (melhor) | 🛡️1: desvio automático |
+| Defesa arcana | 🔵 Mana | 1D6 por Mana (melhor) | — |
+| Truque/ataque arcano simples | 🔵 Mana | 1D6 por Mana (melhor) | 🔵1: efeito simples (dano máx 1) |
+| Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | 🟣1: Destino (+1D6 / -1D6) |
 
 ## 🟣 Destino (Alma) — texto oficial
 
 > **Destino (🟣 Alma)**  
-> Ao gastar **🟣1**, você interfere no destino: conceda **Ajuda (Vantagem)** a uma rolagem **ou** imponha **Atrapalho (Desvantagem)** a uma rolagem.  
-> Declare **antes** do dado ser rolado; vale apenas para **aquela rolagem**.
-
-Regras:
-
-- alvo: você, um aliado ou um inimigo **visível**
-- efeito: uma única rolagem
-- limite: um personagem **não pode receber mais de um Destino na mesma rolagem**
+> Ao gastar **🟣1**, você interfere no destino: dê **Ajuda** (**+1D6**) a uma rolagem ou dê **Atrapalho** (**-1D6**) a uma rolagem.  
+> Declare antes do dado; vale só para aquela rolagem. Um personagem não recebe mais de 1 Destino na mesma rolagem.
 
 ## ⚔ Combate (sem complicação)
 
@@ -103,11 +79,11 @@ Regras:
 
 - **Físico** (arma, soco, chute) → usa ❤️ **Vida**
 - **Arcano**
-  - **Truque arcano (qualquer classe)**: gaste **🔵1** → dano máximo **1**
-  - **Magia arcana (Mago / habilidade)**: gaste **🔵1** (ou custo indicado) → dano normal do sistema
-- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade (ex.: Curandeiro). Gaste **🟣1**.
+  - **Truque arcano (qualquer personagem)**: gaste **🔵1** → dano máximo **1**
+  - **Magia arcana (especialização/habilidade)**: gaste **🔵1** (ou custo indicado) → dano normal do sistema
+- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade. Gaste **🟣1**.
 
-2) Role **1D6** e aplique no **recurso do alvo**:
+2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵/🟣) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
 - Ataque **físico** tira pontos de 🛡️ **Defesa** do alvo; se a Defesa estiver em **0**, o dano vai para ❤️ **Vida**.
 - Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
@@ -126,7 +102,9 @@ Se o ataque arcano foi um **Truque arcano**, o dano máximo é **1** (mesmo no *
 
 Você **rola o dado**, não o monstro:
 
-O mestre diz qual é o tipo do ataque (físico / arcano / espiritual-mental). A rolagem define se você resiste:
+O mestre diz qual é o tipo do ataque (físico / arcano / espiritual-mental).
+
+Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e usa **apenas o melhor dado**. A rolagem define se você resiste:
 
 - **6**: você resiste e pode contra-atacar (se fizer sentido)
 - **4–5**: você resiste
@@ -181,8 +159,8 @@ Sem contar quadrados.
 
 Quando estiver muito fácil ou muito difícil:
 
-- **Ajuda (Vantagem)**: role **2D6** e pegue o **melhor**
-- **Atrapalho (Desvantagem)**: role **2D6** e pegue o **pior**
+- **Ajuda (Vantagem)**: role **+1D6** (um dado extra) e use **apenas o melhor dado**
+- **Atrapalho (Desvantagem)**: role **-1D6** (um dado a menos, mínimo 1 dado)
 
 Use isso no lugar de bônus numéricos.
 

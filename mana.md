@@ -61,6 +61,13 @@ Em termos simples (pra criança):
 - 🟣 **Alma** = “força do coração”
 - 🔵 **Mana** = “bateria da magia”
 
+## ✝️ Milagre (Curandeiro) — Alma como destino
+
+O Curandeiro pode gastar Alma para mexer na **rolagem**, não no dano:
+
+> **Gaste 🟣1:** dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem.  
+> Declare antes do dado; vale só para 1 rolagem. Um personagem não recebe mais de 1 Milagre na mesma rolagem.
+
 ## 🎁 Itens de recuperação (opcional)
 
 - 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez.

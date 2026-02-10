@@ -66,6 +66,7 @@ Escolha **2** milagres:
 - 🟣 **Proteção** (custa 🟣1): dê 🟢 **Protegido** para um aliado.
 - 🟣 **Purificar** (custa 🟣1): remova **1 condição** (Caído/Tonto/Preso) de um aliado.
 - 🟣 **Comando sagrado** (custa 🟣1): um inimigo hesita e perde a próxima ação.
+- 🟣 **Milagre (Destino)** (custa 🟣1): dê **Ajuda (Vantagem)** ou **Atrapalho (Desvantagem)** a uma rolagem (declare antes; vale só para aquela rolagem; não acumula mais de 1 Milagre por rolagem).
 
 Limite recomendado:
 

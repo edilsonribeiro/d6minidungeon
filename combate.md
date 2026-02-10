@@ -65,6 +65,7 @@ Além das **ações universais** acima, cada classe domina um recurso para fazer
 - ✝️ **Curandeiro (🟣 dominante)**: transforma vontade em milagre.
   - gaste **🟣1**: um aliado recupera **+1 ❤️ Vida** (no 6, **+2**)
   - gaste **🟣1**: remova **1 condição** (Caído/Tonto/Preso)
+  - gaste **🟣1 (Milagre)**: dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem (declare antes; vale só para 1 rolagem)
 - 🔥 **Mago (🔵 dominante)**: transforma energia arcana em magia.
   - gaste **🔵1**: magia arcana de verdade (dano normal do sistema)
   - gaste **🔵1**: explosão/área pequena (efeito forte)
@@ -81,6 +82,18 @@ Tabela rápida:
 Lista de técnicas/milagres/magias por classe:
 
 - `classes.md`
+
+## ✝️ Milagre (Curandeiro) — texto oficial
+
+> **Milagre (🟣 Alma)**  
+> Ao gastar **🟣1**, você interfere no destino: conceda **Ajuda (Vantagem)** a uma rolagem **ou** imponha **Atrapalho (Desvantagem)** a uma rolagem.  
+> Declare **antes** do dado ser rolado; vale apenas para **aquela rolagem**.
+
+Regras:
+
+- alvo: você, um aliado ou um inimigo **visível**
+- efeito: uma única rolagem
+- limite: um personagem **não pode receber mais de um Milagre na mesma rolagem**
 
 ## ⚔ Combate (sem complicação)
 
@@ -168,8 +181,8 @@ Sem contar quadrados.
 
 Quando estiver muito fácil ou muito difícil:
 
-- **Ajuda**: role **2D6** e pegue o **melhor**
-- **Atrapalho**: role **2D6** e pegue o **pior**
+- **Ajuda (Vantagem)**: role **2D6** e pegue o **melhor**
+- **Atrapalho (Desvantagem)**: role **2D6** e pegue o **pior**
 
 Use isso no lugar de bônus numéricos.
 

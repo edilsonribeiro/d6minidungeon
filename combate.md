@@ -19,12 +19,12 @@ Sempre que fizer algo arriscado ou importante:
 
 Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
 
-| Recurso | Serve para atacar com… | Serve para resistir… |
+| Recurso | Uso padrão ofensivo | Uso padrão defensivo | Conceito |
 |---|---|---|
-| ❤️ **Vida** | ataque físico | “dano de verdade” (quando as defesas acabam) |
-| 🛡️ **Defesa** | — | desviar / bloquear ataques físicos |
-| 🟣 **Alma** | milagres / influência | controle, medo, drenagem, efeitos espirituais |
-| 🔵 **Mana** | magia arcana | magia arcana “bruta” |
+| ❤️ **Vida** | ataque físico | “dano real” (quando tudo falha) | corpo, força, fôlego |
+| 🛡️ **Defesa (Esquiva)** | — | desviar / bloquear ameaças físicas | reflexo, agilidade |
+| 🟣 **Alma** | milagres / influência | resistir efeitos espirituais/mentais | vontade, fé, espírito |
+| 🔵 **Mana** | magia arcana | resistir magia arcana | energia mágica bruta |
 
 Regras fixas:
 
@@ -40,6 +40,27 @@ Distribuição por classe (total **10 pontos**, na ordem **Vida – Defesa – A
 - 🏹 **Patrulheiro**: ❤️ 3 / 🛡️ 4 / 🟣 1 / 🔵 2
 - ✝️ **Curandeiro**: ❤️ 2 / 🛡️ 1 / 🟣 4 / 🔵 3
 - 🔥 **Mago**: ❤️ 1 / 🛡️ 2 / 🟣 3 / 🔵 4
+
+## 🎭 Identidade de classe (como “quebrar as regras”)
+
+Todo mundo usa os mesmos 4 recursos, mas cada classe é “melhor” em gastar **um** deles para fazer coisas além do básico:
+
+- ⚔ **Guerreiro (❤️ dominante)**: transforma dor/fôlego em poder.
+  - gaste **❤️1**: seu ataque físico causa **+1 dano**
+  - gaste **❤️1**: você age mesmo ferido (ignore 1 condição **Tonto** por 1 turno)
+- 🏹 **Patrulheiro (🛡️ dominante)**: transforma movimento em ataque.
+  - gaste **🛡️1**: ataque e depois saia sem risco (recuo/movimento livre)
+  - gaste **🛡️1**: seu ataque ignora 🟦 **Armadura** do alvo
+- ✝️ **Curandeiro (🟣 dominante)**: transforma vontade em milagre.
+  - gaste **🟣1**: um aliado recupera **+1 ❤️ Vida** (no 6, **+2**)
+  - gaste **🟣1**: remova **1 condição** (Caído/Tonto/Preso)
+- 🔥 **Mago (🔵 dominante)**: transforma energia arcana em magia.
+  - gaste **🔵1**: ataque arcano ou crie um efeito mágico (empurrar/prender/proteger etc.)
+  - gaste **🔵1**: explosão/área pequena (efeito forte)
+
+Lista de técnicas/milagres/magias por classe:
+
+- `classes.md`
 
 ## ⚔ Combate (sem complicação)
 

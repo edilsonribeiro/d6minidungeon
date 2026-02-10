@@ -26,25 +26,39 @@ Equipamentos e efeitos de armas: `equipamentos.md`.
 
 Recursos: ❤️ 4 / 🛡️ 3 / 🟣 2 / 🔵 1
 
+Ideia-chave:
+
+> O guerreiro transforma dor, fôlego e esforço em poder.
+
 Escolha **2** técnicas:
 
 - 🛡️ **Protetor** (custa 🛡️1): redirecione um ataque físico que acertaria um aliado perto para você (você rola a defesa).
 - 🛡️ **Resistente** (custa 🛡️1): após rolar uma defesa, trate um **2–3** como **4–5**.
 - ❤️ **Golpe poderoso** (custa ❤️1): após acertar um ataque físico, cause **+1 dano** (total 2→3 ou 1→2).
+- ❤️ **Último esforço** (custa ❤️1): ignore **Tonto** por 1 turno e aja normalmente.
 
 ## 🏹 Patrulheiro (Ranger) — Agilidade
 
 Recursos: ❤️ 3 / 🛡️ 4 / 🟣 1 / 🔵 2
+
+Ideia-chave:
+
+> O patrulheiro transforma movimento e reflexo em ataque.
 
 Escolha **2** técnicas:
 
 - 🛡️ **Disparo preciso** (custa 🛡️1): seu dano físico ignora 🟦 **Armadura** do alvo (ele não pode apagar 🟦 contra esse dano).
 - 🛡️ **Movimento fantasma** (custa 🛡️1): ataque e depois se mova livremente para longe/para cobertura, sem complicação.
 - 🛡️ **Olhos do caçador** (custa 🛡️1): em um ataque ou teste de rastrear/evitar emboscada, trate um **2–3** como **4–5**.
+- 🛡️ **Ataque duplo** (custa 🛡️1): após acertar um ataque físico, faça **mais 1 ataque** leve (se errar no segundo, nada ruim acontece).
 
 ## ✝ Curandeiro — Vontade / Fé
 
 Recursos: ❤️ 2 / 🛡️ 1 / 🟣 4 / 🔵 3
+
+Ideia-chave:
+
+> A força do curandeiro vem da vontade, fé e compaixão.
 
 Escolha **2** milagres:
 
@@ -60,6 +74,10 @@ Limite recomendado:
 ## 🔥 Mago — Inteligência
 
 Recursos: ❤️ 1 / 🛡️ 2 / 🟣 3 / 🔵 4
+
+Ideia-chave:
+
+> Mana não é fé nem emoção: é combustível arcano bruto.
 
 Escolha **2** magias e **1 elemento**:
 

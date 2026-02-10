@@ -38,6 +38,22 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
   - você não consegue usar magia arcana
   - você não consegue resistir magia arcana (o impacto vai para ❤️ Vida)
 
+## 🟣 Alma vs 🔵 Mana (explicação direta)
+
+Os dois parecem “mágicos”, mas são coisas diferentes:
+
+| 🟣 Alma | 🔵 Mana |
+|---|---|
+| vontade | energia |
+| fé | técnica |
+| espírito | arcano |
+| emoção | cálculo |
+
+Em termos simples (pra criança):
+
+- 🟣 **Alma** = “força do coração”
+- 🔵 **Mana** = “bateria da magia”
+
 ## 🎁 Itens de recuperação (opcional)
 
 - 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez.

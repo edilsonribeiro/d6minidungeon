@@ -5,13 +5,13 @@ No sistema fechado, a classe define **qual recurso você domina** e quais **habi
 Regras rápidas:
 
 - 🎲 Toda rolagem: **1D6**
-- 🧩 Todo herói tem **4 recursos**: ❤️ Vida / 🛡️ Defesa / 🟣 Alma / 🔵 Mana
-- 📌 Cada classe tem **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem Vida/Defesa/Alma/Mana
+ - 🧩 Todo herói tem **4 recursos**: ❤️ Vida / 🛡️ Esquiva / 🟣 Alma / 🔵 Mana
+ - 📌 Cada classe tem **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem Vida/Esquiva/Alma/Mana
 - ✨ Toda habilidade especial custa **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵)
 
 Distribuição oficial:
 
-| Classe | ❤️ Vida | 🛡️ Defesa | 🟣 Alma | 🔵 Mana |
+| Classe | ❤️ Vida | 🛡️ Esquiva | 🟣 Alma | 🔵 Mana |
 |---|---:|---:|---:|---:|
 | ⚔ Guerreiro | 4 | 3 | 2 | 1 |
 | 🏹 Patrulheiro | 3 | 4 | 1 | 2 |
@@ -32,8 +32,8 @@ Ideia-chave:
 
 Escolha **2** técnicas:
 
-- 🛡️ **Protetor** (custa 🛡️1): redirecione um ataque físico que acertaria um aliado perto para você (você rola a defesa).
-- 🛡️ **Resistente** (custa 🛡️1): após rolar uma defesa, trate um **2–3** como **4–5**.
+- 🛡️ **Protetor** (custa 🛡️1): redirecione um ataque físico que acertaria um aliado perto para você (você rola a esquiva).
+- 🛡️ **Resistente** (custa 🛡️1): após rolar uma esquiva, trate um **2–3** como **4–5**.
 - ❤️ **Golpe poderoso** (custa ❤️1): após acertar um ataque físico, cause **+1 dano** (total 2→3 ou 1→2).
 - ❤️ **Último esforço** (custa ❤️1): ignore **Tonto** por 1 turno e aja normalmente.
 

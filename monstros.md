@@ -4,20 +4,20 @@ Monstros normalmente:
 
 - atacam
 - impõem condição
-- forçam defesa
+- forçam esquiva
 
 ## 🎭 Como narrar para crianças
 
 Em vez de “números”, dê ao monstro **um truque visível**:
 
-- 👊 **Bate forte** (ataque físico → ameaça 🛡️ Defesa / ❤️ Vida)
-- 🪨 **Derruba** (no 1 da defesa física, você fica **Caído**)
-- 🕸 **Prende** (no 1 da defesa física, você fica **Preso**)
+- 👊 **Bate forte** (ataque físico → ameaça 🛡️ Esquiva / ❤️ Vida)
+- 🪨 **Derruba** (no 1 da esquiva física, você fica **Caído**)
+- 🕸 **Prende** (no 1 da esquiva física, você fica **Preso**)
 - 😱 **Assusta** (ataque espiritual/mental → ameaça 🟣 Alma; no 1, você fica **Tonto**)
 
-Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano / espiritual-mental) e peça a rolagem de defesa do jogador (ver `combate.md`).
+Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano / espiritual-mental) e peça a rolagem de esquiva do jogador (ver `combate.md`).
 
-Resultados rápidos na defesa (resumo):
+Resultados rápidos na esquiva (resumo):
 
 - O jogador rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e usa **apenas o melhor dado**.
 - **6**: evita e faz algo legal
@@ -29,7 +29,7 @@ Resultados rápidos na defesa (resumo):
 
 Você pode dar ao monstro só **1–2 recursos** e pronto:
 
-- Monstro **físico**: 🛡️ Defesa + ❤️ Vida
+- Monstro **físico**: 🛡️ Esquiva + ❤️ Vida
 - Monstro **arcano**: 🔵 Mana + ❤️ Vida
 - Monstro **sombrio**: 🟣 Alma + ❤️ Vida
 

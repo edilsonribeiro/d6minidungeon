@@ -25,7 +25,7 @@ Para começar sem confundir:
 Cada herói tem:
 
 - ❤️ **Vida** (0–4)
-- 🛡️ **Defesa** (0–4)
+- 🛡️ **Esquiva** (0–4)
 - 🟣 **Alma** (0–4)
 - 🔵 **Mana** (0–4)
 - 🟦 **Armadura** (opcional, equipamento com escudos que você apaga)
@@ -90,7 +90,7 @@ Para as primeiras mesas, use só isto:
 
 Detalhes e valores por classe:
 
-- `mana.md`
+- `recursos.md`
 
 ## 📎 Apêndice — Modo heroico (quando a mesa crescer)
 

@@ -1,13 +1,14 @@
-# 🧩 Recursos (Vida / Defesa / Alma / Mana)
+```markdown
+# 🧩 Recursos (Vida / Esquiva / Alma / Mana)
 
 Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 
 | Recurso | Função ofensiva | Função defensiva |
-|---|---|---|
-| ❤️ **Vida** | ataque físico | “dano de verdade” (quando as defesas acabam) |
-| 🛡️ **Defesa** | — | desviar / bloquear ataques físicos |
+|---|---|---| 
+| ❤️ **Vida** | ataque físico | “dano de verdade” (quando as esquivas acabam) |
+| 🛡️ **Esquiva** | — | desviar / bloquear ataques físicos |
 | 🟣 **Alma** | milagres / influência | controle, medo, drenagem, efeitos espirituais |
-| 🔵 **Mana** | magia arcana | resistir magia arcana “bruta” |
+| 🔵 **Mana** | magia arcana | resistir magia arcana | energia arcana bruta |
 
 ## 🎯 Regras globais (fixas)
 
@@ -21,9 +22,9 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 
 Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem:
 
-**❤️ Vida – 🛡️ Defesa – 🟣 Alma – 🔵 Mana**
+**❤️ Vida – 🛡️ Esquiva – 🟣 Alma – 🔵 Mana**
 
-| Classe | ❤️ Vida | 🛡️ Defesa | 🟣 Alma | 🔵 Mana | Total |
+| Classe | ❤️ Vida | 🛡️ Esquiva | 🟣 Alma | 🔵 Mana | Total |
 |---|---:|---:|---:|---:|---:|
 | ⚔ Guerreiro | 4 | 3 | 2 | 1 | 10 |
 | 🏹 Patrulheiro | 3 | 4 | 1 | 2 | 10 |
@@ -99,7 +100,7 @@ Regra de ouro (para preservar o Mago):
 - segurar algo por um instante
 - desequilibrar uma criatura brevemente
 
-**🛡️ Defesa leve (não cumulativa)**
+**🛡️ Esquiva leve (não cumulativa)**
 
 - reduzir em **1** o dano arcano que você sofreria (declare antes de aplicar o dano)
 - bloquear um **efeito mágico simples** (outra magia improvisada)
@@ -151,3 +152,5 @@ Qualquer personagem pode gastar Alma para mexer na **rolagem**, não no dano:
 ## 🎁 Itens de recuperação (opcional)
 
 - 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez.
+
+```

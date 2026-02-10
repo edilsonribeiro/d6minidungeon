@@ -22,7 +22,7 @@ Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
 | Recurso | Uso padrão ofensivo | Uso padrão defensivo | Conceito |
 |---|---|---|---|
 | ❤️ **Vida** | ataque físico | “dano real” (quando tudo falha) | corpo, força, fôlego |
-| 🛡️ **Defesa (Esquiva)** | — | desviar / bloquear ameaças físicas | reflexo, agilidade |
+| 🛡️ **Esquiva** | — | desviar / bloquear ameaças físicas | reflexo, agilidade |
 | 🟣 **Alma** | milagres / influência | resistir efeitos espirituais/mentais | vontade, fé, espírito |
 | 🔵 **Mana** | magia arcana | resistir magia arcana | energia mágica bruta |
 
@@ -47,7 +47,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 ## 🧩 Gastos universais (qualquer personagem)
 
 - ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
-- 🛡️ **Esquiva total**: antes de uma defesa física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
+ - 🛡️ **Esquiva total**: antes de uma esquiva física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
 - 🟣 **Destino (Alma)**: gaste **🟣1** → dê **Ajuda** (**+1D6**) a uma rolagem **OU** dê **Atrapalho** (**-1D6, mínimo 1 dado**) a uma rolagem.
   - declare antes; vale para **1** rolagem
   - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem
@@ -57,15 +57,15 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
   - não tem área e não sustenta efeito
   - se causar dano, o dano máximo é **1**
   - por padrão, você **não repete o mesmo efeito** mais de uma vez por combate (a não ser que alguma habilidade permita)
-  - lista oficial: `mana.md`
+  - lista oficial: `recursos.md`
 
 ## 📋 Tabela resumo (combate básico)
 
 | Situação | Recurso | Rolagem | Gasto opcional |
 |---|---|---|---|
 | Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | ❤️1: +1 dano |
-| Defesa física | 🛡️ Defesa | 1D6 por Defesa (melhor) | 🛡️1: desvio automático |
-| Defesa arcana | 🔵 Mana | 1D6 por Mana (melhor) | — |
+| Esquiva física | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | 🛡️1: desvio automático |
+| Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | — |
 | Magia improvisada | 🔵 Mana | 1D6 por Mana (melhor) | 🔵1: magia básica (dano máx 1) |
 | Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | 🟣1: Destino (+1D6 / -1D6) |
 
@@ -89,7 +89,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 
 2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵/🟣) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
-- Ataque **físico** tira pontos de 🛡️ **Defesa** do alvo; se a Defesa estiver em **0**, o dano vai para ❤️ **Vida**.
+- Ataque **físico** tira pontos de 🛡️ **Esquiva** do alvo; se a Esquiva estiver em **0**, o dano vai para ❤️ **Vida**.
 - Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
 - Ataque **espiritual/mental** tira pontos de 🟣 **Alma** do alvo; se a Alma estiver em **0**, o dano vai para ❤️ **Vida**.
 
@@ -113,19 +113,19 @@ Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e us
 - **6**: você resiste e pode contra-atacar (se fizer sentido)
 - **4–5**: você resiste
 - **2–3**: você sofre **1 de dano** no recurso de resistência:
-  - físico → 🛡️ **Defesa** (se estiver 0, vai para ❤️ **Vida**)
+  - físico → 🛡️ **Esquiva** (se estiver 0, vai para ❤️ **Vida**)
   - arcano → 🔵 **Mana** (se estiver 0, vai para ❤️ **Vida**)
   - espiritual/mental → 🟣 **Alma** (se estiver 0, vai para ❤️ **Vida**)
 - **1**: você sofre **2 de dano** (e o monstro pode impor uma condição se tiver esse “truque”)
 
-Lembrete: antes de uma defesa física, você pode gastar **🛡️1** para resistir automaticamente (ação universal).
+Lembrete: antes de uma esquiva física, você pode gastar **🛡️1** para resistir automaticamente (ação universal).
 
 ## 🛡️️️ Armadura (escudo visual)
 
-Armadura é **equipamento** (🟦), diferente de 🛡️ **Defesa** (recurso).
+Armadura é **equipamento** (🟦), diferente de 🛡️ **Esquiva** (recurso).
 
 - armadura tem **escudos desenhados** (🟦)
-- quando você tomaria **dano físico** (que reduziria 🛡️ Defesa ou ❤️ Vida), pode apagar **1 🟦** para zerar aquele dano
+- quando você tomaria **dano físico** (que reduziria 🛡️ Esquiva ou ❤️ Vida), pode apagar **1 🟦** para zerar aquele dano
 - quando acaba → armadura quebra (ver `equipamentos.md`)
 
 ## 🩸 Vida 0
@@ -212,12 +212,12 @@ Use se quiser tática visual no tabuleiro.
 
 ### 🛑 Sair do corpo a corpo
 
-Se estiver adjacente a inimigo e sair sem usar a ação **Recuar**, o inimigo te “pressiona” e você rola uma defesa.
+Se estiver adjacente a inimigo e sair sem usar a ação **Recuar**, o inimigo te “pressiona” e você rola uma esquiva.
 
-**Recuar**: move até **2 quadrados** e não sofre essa defesa.
+**Recuar**: move até **2 quadrados** e não sofre essa esquiva.
 
 ### 🎛 Regras opcionais (grid)
 
-- **Cobertura**: defesa com **Ajuda** contra ataques à distância
+- **Cobertura**: esquiva com **Ajuda** contra ataques à distância
 - **Flanquear**: ataque com **Ajuda** quando dois aliados cercam o inimigo
 - **Terreno difícil**: alguns quadrados custam **2** de movimento para entrar

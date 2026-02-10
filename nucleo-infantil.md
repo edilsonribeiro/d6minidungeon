@@ -19,7 +19,7 @@ Pensado para:
 Cada herói tem:
 
 - ❤️ **Vida** (0–4)
-- 🛡️ **Defesa** (0–4)
+ - 🛡️ **Esquiva** (0–4)
 - 🟣 **Alma** (0–4)
 - 🔵 **Mana** (0–4)
 - 🟦 **Armadura** (opcional, equipamento com escudos que você apaga)
@@ -91,7 +91,7 @@ Use isso no lugar de bônus numéricos.
 
 Escolha o tipo do ataque e role **1D6**:
 
-- **Físico** → dano vai para 🛡️ **Defesa** do alvo (se estiver em 0, vai para ❤️ **Vida**)
+- **Físico** → dano vai para 🛡️ **Esquiva** do alvo (se estiver em 0, vai para ❤️ **Vida**)
 - **Arcano**
   - **Magia improvisada (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
   - **Magia arcana (especialização/habilidade)**: gaste **🔵1** → dano normal do sistema
@@ -227,4 +227,4 @@ Pergunta mais importante do jogo:
 👉 **“O que você quer fazer?”**
 
 ## 🧩 Recursos (detalhes)
-Veja: `mana.md`
+Veja: `recursos.md`

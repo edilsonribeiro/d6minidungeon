@@ -5,7 +5,7 @@
 🎲 Sistema: RPG D6 Heroico (modo infantil)  
 👥 Grupo: 1–4 crianças
 
-Objetivo: ensinar as regras **jogando** (rolagem, combate, defesa player-facing, recursos, escolhas, pet e recompensa).
+Objetivo: ensinar as regras **jogando** (rolagem, combate, esquiva player-facing, recursos, escolhas, pet e recompensa).
 
 ## 🌟 Sinopse (para o mestre)
 
@@ -17,7 +17,7 @@ Os heróis vão investigar, lidar com criaturinhas bagunceiras e decidir como re
 ## ✅ Preparação (2 minutos)
 
 - Tenha à mão: `nucleo-infantil.md`, `combate.md` e `arvore-de-recompensas.md`.
-- Marque os **recursos iniciais** de cada herói (❤️/🛡️/🟣/🔵) conforme a classe (ver `classes.md` e `mana.md`).
+- Marque os **recursos iniciais** de cada herói (❤️/🛡️/🟣/🔵) conforme a classe (ver `classes.md` e `recursos.md`).
 - Se quiser fichas prontas: `fichas/infantil/README.md`.
 - Para 6–8 anos: use a “Regra do 6” (em `nucleo-infantil.md`) e só 4 condições (em `combate.md`).
 - Regra do mestre: pergunte muito e explique pouco. A tabela do D6 aparece naturalmente.
@@ -82,16 +82,16 @@ No andar de cima tem **Ratinhos Bagunceiros** 🐀. Eles não são maus — só 
 
 Cada ratinho:
 
-- 🛡️ Defesa: **1**
+- 🛡️ Esquiva: **1**
 - ❤️ Vida: **1**
-- “Ataque” (no turno deles): tentam morder/empurrar/roubar comida → forçam **defesa do jogador** (monstro não rola).
+- “Ataque” (no turno deles): tentam morder/empurrar/roubar comida → forçam **esquiva do jogador** (monstro não rola).
 
 ### 🧠 Ensinar combate sem travar
 
 - No turno do herói: ele se move + faz 1 ação (atacar, correr, empurrar saco, gritar, pegar algo).
 - Para atacar: escolha o tipo (físico/arcano/espiritual) e role **1D6 por ponto do recurso** (use só o melhor dado).
 - Para usar uma habilidade/magia: gaste **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵).
-- No turno do monstro: peça a defesa (6 evita e pode contra-atacar; 4–5 evita; 2–3 toma 1; 1 toma 2 ou condição).
+- No turno do monstro: peça a esquiva (6 evita e pode contra-atacar; 4–5 evita; 2–3 toma 1; 1 toma 2 ou condição).
 
 Use o cenário:
 

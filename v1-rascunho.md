@@ -69,11 +69,11 @@ Falha crítica é narrada pelo mestre (queda, desarme etc).
 
 ---
 
-## Defesa (Player Facing)
+## Esquiva (Player Facing)
 
 Monstros não rolam dados.
 
-O jogador rola defesa com atributo apropriado.
+O jogador rola esquiva com atributo apropriado.
 
 4–5 → evita dano
 6 → evita + causa 1 dano
@@ -148,7 +148,7 @@ Ignora uma falha crítica por combate.
 Machado Pesado → 6 derruba
 Martelo → 6 alvo perde ação
 Espada Longa → 6 empurra ou desarma
-Escudo + Espada → 6 na defesa causa 1 dano
+Escudo + Espada → 6 na esquiva causa 1 dano
 
 ---
 
@@ -212,7 +212,7 @@ Orc → 4 vida
 Ogro → 6 vida
 Chefe → 8–10 vida
 
-Sempre forçam defesa do jogador.
+Sempre forçam esquiva do jogador.
 
 ---
 
@@ -323,7 +323,7 @@ Se você está em corpo a corpo com um inimigo:
 
 Se tentar sair sem usar sua ação para “Recuar”:
 
-O inimigo força uma defesa contra você.
+O inimigo força uma esquiva contra você.
 
 Isso cria risco.
 
@@ -427,7 +427,7 @@ Monstros normalmente:
 
 * Atacam
 * Impõem condição
-* Forçam defesa
+* Forçam esquiva
 
 Chefes podem:
 
@@ -555,7 +555,7 @@ Se alvo estiver além disso → fora de alcance.
 
 Se estiver adjacente a inimigo e sair do alcance sem usar ação de "Recuar":
 
-O inimigo força uma defesa contra você.
+O inimigo força uma esquiva contra você.
 
 (Ataque de oportunidade simplificado)
 
@@ -618,7 +618,7 @@ Precisa gastar ação para pegar.
 
 Se metade do corpo estiver atrás de obstáculo:
 
-* Defesa com +1D6 contra ataques à distância.
+* Esquiva com +1D6 contra ataques à distância.
 
 Nunca contra corpo a corpo.
 

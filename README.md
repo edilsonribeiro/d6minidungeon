@@ -14,7 +14,7 @@ Este repositório está organizado por módulos em arquivos `.md`.
   - `equipamentos.md`
   - `combate.md`
   - `monstros.md`
-- 🧩 Recursos (mecânica): `mana.md`
+ - 🧩 Recursos (mecânica): `recursos.md`
 
 O sistema inclui um **modo infantil recomendado** (regra única de rolagem + recompensas visíveis + pets).
 

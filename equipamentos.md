@@ -34,7 +34,7 @@ No núcleo infantil, a regra é:
 - **4–5**: acerta e causa **1 dano**
 - **6**: acerta e causa **2 dano** + ativa o efeito da arma
 
-Por padrão, armas causam **dano físico** (normalmente reduz 🛡️ Defesa do alvo; se a Defesa estiver em 0, vai para ❤️ Vida — veja `combate.md`).
+Por padrão, armas causam **dano físico** (normalmente reduz 🛡️ Esquiva do alvo; se a Esquiva estiver em 0, vai para ❤️ Vida — veja `combate.md`).
 
 Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
 

@@ -5,7 +5,7 @@
 🎲 Sistema: RPG D6 Heroico (modo infantil)  
 👥 Grupo: 1–4 crianças
 
-Objetivo: ensinar as regras **jogando** (rolagem, combate, defesa player-facing, escolhas, pet e recompensa).
+Objetivo: ensinar as regras **jogando** (rolagem, combate, defesa player-facing, Mana, escolhas, pet e recompensa).
 
 ## 🌟 Sinopse (para o mestre)
 
@@ -17,6 +17,7 @@ Os heróis vão investigar, lidar com criaturinhas bagunceiras e decidir como re
 ## ✅ Preparação (2 minutos)
 
 - Tenha à mão: `nucleo-infantil.md`, `combate.md` e `arvore-de-recompensas.md`.
+- Marque a **Mana inicial** de cada herói (🔵) conforme a classe (ver `classes.md` ou `mana.md`).
 - Se quiser fichas prontas: `fichas/infantil/README.md`.
 - Para 6–8 anos: use a “Regra do 6” (em `nucleo-infantil.md`) e só 4 condições (em `combate.md`).
 - Regra do mestre: pergunte muito e explique pouco. A tabela do D6 aparece naturalmente.
@@ -29,7 +30,7 @@ Os heróis vão investigar, lidar com criaturinhas bagunceiras e decidir como re
 | 2 | Exploração + 1ª rolagem | 5 min |
 | 3 | Combate curto | 10 min |
 | 4 | Escolha final (moral simples) | 5 min |
-| 5 | Recompensa / evolução | 5 min |
+| 5 | Recompensa | 5 min |
 
 Se o tempo apertar: corte a cena 2 **ou** encurte o combate (menos inimigos).
 
@@ -88,6 +89,7 @@ Cada ratinho:
 
 - No turno do herói: ele se move + faz 1 ação (atacar, correr, empurrar saco, gritar, pegar algo).
 - Para atacar: role 1D6 (4–5 = 1 dano; 6 = 2 dano + efeito legal).
+- Para usar uma **magia/poder**: apague **1 🔵** (Mana).
 - No turno do monstro: peça a defesa (6 evita e pode contra-atacar; 4–5 evita; 2–3 toma 1; 1 toma 2 ou condição).
 
 Use o cenário:
@@ -127,7 +129,7 @@ Ideias (todas funcionam):
 
 Não existe escolha errada.
 
-## 🎁 Cena 5 — Recompensa / evolução (5 min)
+## 🎁 Cena 5 — Recompensa (5 min)
 
 A vila agradece (pão quentinho, aplausos, uma medalha de papel, etc.).
 

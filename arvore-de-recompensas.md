@@ -67,14 +67,11 @@ Se um pet tiver texto “1 vez por cena”, no modo 6–8 você pode ignorar iss
 - 🦋 **Espírito luminoso**: acalma/ilumina (dissipa medo e revela algo escondido)
 - 🕊 **Pássaro da luz**: cura 1 vez (1 vez por cena, cure 1 coração de alguém)
 
-## ✨ Ramo 3 — Poderes (uma frase)
+## ✨ Ramo 3 — Magias (uma frase)
 
-Poder = **1 frase simples**.
+Magia = **1 frase simples**.
 
-Use:
-
-- **Modo 6–8 (recomendado)**: quando você tirar **6** (se combinar com a cena)
-- **Modo 8–10 (opcional)**: **1 vez por combate** ou no **6**
+Para usar uma magia, gaste **1 Mana (🔵)**.
 
 Escolha um (ou invente um parecido):
 

@@ -21,7 +21,7 @@ Sempre que fizer algo arriscado ou importante:
 
 Role 1D6:
 
-- **6**: causa **2 de dano** e ativa algo legal da sua arma, poder ou pet
+- **6**: causa **2 de dano** e ativa algo legal da sua arma, magia (gastando **1 Mana**) ou pet
 - **4–5**: causa **1 de dano**
 - **2–3**: erra ou só empurra/assusta
 - **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
@@ -80,6 +80,14 @@ Quando estiver muito fácil ou muito difícil:
 - **Atrapalho**: role **2D6** e pegue o **pior**
 
 Use isso no lugar de bônus numéricos.
+
+## 🔵 Mana (poderes)
+
+Magias/poderes especiais de classe custam **1 Mana (🔵)**.
+
+Detalhes e lista de magias por classe:
+
+- `mana.md`
 
 ## 🧎 Condições (modo infantil recomendado — 4 estados)
 

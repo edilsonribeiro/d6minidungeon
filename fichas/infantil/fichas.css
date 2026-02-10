@@ -390,6 +390,19 @@ body {
   stroke: #0d47a1;
 }
 
+.token--mana {
+  color: #4a148c;
+}
+
+.token--mana.is-on {
+  background: rgba(156, 39, 176, 0.14);
+}
+
+.token--mana.is-on svg circle {
+  fill: rgba(156, 39, 176, 0.32);
+  stroke: #4a148c;
+}
+
 .checks {
   display: grid;
   gap: 8px;

@@ -20,8 +20,9 @@ Cada herói tem:
 
 - ❤️ **Vida**: corações (veja na sua ficha)
 - 🛡️️️ **Armadura**: 0 a 4 escudos (🟦)
+- 🔵 **Mana**: bolinhas (🔵) para usar magias/poderes
 - 🗡 **Arma**: 1 (faz algo especial no 6)
-- ✨ **Poder especial**: 1 frase
+- ✨ **Magias**: frases curtas (cada uso custa **1 Mana**)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
 Nada de atributos, contas ou tabelas.
@@ -50,6 +51,7 @@ Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer a
 Para crianças menores (ou mesas bem rápidas), use este atalho:
 
 - Se tirou **6**, acontece **o extra** (arma, poder, pet, truque da raça, etc.).
+- Se tirou **6**, acontece **o extra** (arma, magia, pet, truque da raça, etc.).
 - Se não tirou 6, acontece só o **básico** do resultado.
 
 Isso reduz muito a quantidade de “gatilhos diferentes” para lembrar.
@@ -60,7 +62,7 @@ Você não precisa falar essas palavras na mesa. O mestre só decide:
 
 - **Combate**: quando tem inimigo tentando machucar vocês **agora**.
 - **Cena**: até mudar **o lugar**, **o problema** ou **o clima da história**.
-- **Aventura**: a história inteira do dia (quando termina, tem recompensa/evolução).
+- **Aventura**: a história inteira do dia (quando termina, tem recompensa).
 
 ## 🧩 Ajuda e atrapalho (opcional)
 
@@ -71,13 +73,22 @@ Quando estiver muito fácil ou muito difícil:
 
 Use isso no lugar de bônus numéricos.
 
+## 🔵 Mana (poderes sem spam)
+
+- Toda magia/poder especial de classe custa **1 Mana**.
+- Para usar, apague **1 🔵**.
+- Mana é **por aventura** (não volta no meio do combate).
+- **Descanso completo** recupera toda a Mana.
+
+Detalhes e lista de magias por classe: `mana.md`.
+
 ## ⚔ Combate (sem complicação)
 
 ### 🗡 Atacar um inimigo
 
 Role 1D6:
 
-- **6**: causa **2 de dano** e ativa algo legal da sua arma, poder ou pet
+- **6**: causa **2 de dano** e ativa algo legal da sua arma, magia (gastando **1 Mana**) ou pet
 - **4–5**: causa **1 de dano**
 - **2–3**: erra ou só empurra/assusta
 - **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
@@ -120,15 +131,19 @@ Quando você tira **6**, sua arma faz algo especial:
 
 Sem listas. Sem exceções.
 
-## ✨ Poder especial
+## ✨ Magias (poderes)
 
-Cada herói tem **1 poder** (uma frase).
+Cada herói tem magias/poderes (frases curtas).
 
-Exemplos:
+Para usar uma magia:
 
-- “Uma vez por luta, posso curar um amigo”
-- “Quando tiro 6, posso atacar dois inimigos”
-- “Posso proteger alguém do dano”
+- gaste **1 Mana (🔵)** e descreva o efeito
+
+Exemplos de magia:
+
+- “Eu posso curar um amigo”
+- “Eu posso proteger alguém do dano”
+- “Eu posso empurrar um inimigo com vento”
 
 ## 🐾 Pets (opcional, mas incrível)
 
@@ -192,3 +207,6 @@ Para não confundir no início, use só a árvore:
 Pergunta mais importante do jogo:
 
 👉 **“O que você quer fazer?”**
+
+## 🔵 Mana (detalhes)
+Veja: `mana.md`

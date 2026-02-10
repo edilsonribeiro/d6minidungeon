@@ -35,6 +35,16 @@
           stroke-linejoin="round"
         />
       </symbol>
+      <symbol id="icon-orb" viewBox="0 0 24 24">
+        <circle
+          cx="12"
+          cy="12"
+          r="9"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+        />
+      </symbol>
     </svg>
 
     <header class="toolbar" role="banner">
@@ -126,6 +136,15 @@
 
               <div class="card">
                 <div class="card__head">
+                  <div class="card__title">🔵 Mana</div>
+                  <div class="card__hint">marque conforme classe</div>
+                </div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="0"></div>
+                <div class="card__note">Apague 1 🔵 para usar uma magia/poder.</div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
                   <div class="card__title">🎒 Coisas legais</div>
                 </div>
                 <div class="checks">
@@ -177,9 +196,15 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Poder especial</div>
+                  <div class="card__title">✨ Magias</div>
+                  <div class="card__hint">cada uso custa 1 🔵</div>
                 </div>
-                <textarea class="textarea" rows="3" data-field="powerText" placeholder="Escreva em 1 frase..."></textarea>
+                <textarea
+                  class="textarea"
+                  rows="3"
+                  data-field="powerText"
+                  placeholder="Escreva frases curtas (ex.: Cura / Proteção / Empurrão de vento)..."
+                ></textarea>
               </div>
 
               <div class="card">
@@ -249,9 +274,18 @@
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">🛡️️️ Armadura</div>
-                  <div class="card__hint">comece com 🟦🟦🟦</div>
+                  <div class="card__hint">comece com 🟦🟦🟦🟦</div>
                 </div>
-                <div class="token-row" data-kind="armor" data-max="4" data-start="3"></div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="4"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🔵 Mana</div>
+                  <div class="card__hint">comece com 1</div>
+                </div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="1"></div>
+                <div class="card__note">Apague 1 🔵 para usar uma magia/poder.</div>
               </div>
 
               <div class="card">
@@ -315,14 +349,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Poder</div>
-                  <div class="card__hint">1 vez por combate</div>
+                  <div class="card__title">✨ Magias</div>
+                  <div class="card__hint">escolha 1 • custa 1 🔵</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="🛡️️ Protetor — Posso levar o dano por um amigo próximo."
+                  data-default="Escolha 1: Protetor / Resistente / Golpe poderoso."
                 ></textarea>
               </div>
 
@@ -404,6 +438,14 @@
 
               <div class="card">
                 <div class="card__head">
+                  <div class="card__title">🔵 Mana</div>
+                  <div class="card__hint">comece com 2</div>
+                </div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
                   <div class="card__title">🎒 Coisas legais</div>
                 </div>
                 <div class="checks">
@@ -458,14 +500,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Poder</div>
-                  <div class="card__hint">1 vez por combate</div>
+                  <div class="card__title">✨ Magias</div>
+                  <div class="card__hint">escolha 2 • custa 1 🔵</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="🏃 Ágil — Posso me mover depois de atacar."
+                  data-default="Escolha 2: Disparo preciso / Movimento fantasma / Olhos do caçador."
                 ></textarea>
               </div>
 
@@ -553,6 +595,14 @@
 
               <div class="card">
                 <div class="card__head">
+                  <div class="card__title">🔵 Mana</div>
+                  <div class="card__hint">comece com 4</div>
+                </div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="4"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
                   <div class="card__title">🎒 Coisas legais</div>
                 </div>
                 <div class="checks">
@@ -610,14 +660,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Poder</div>
-                  <div class="card__hint">no 6, faz algo do elemento</div>
+                  <div class="card__title">✨ Magias</div>
+                  <div class="card__hint">custa 1 🔵</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="🔮 Magia elemental — No meu 6, além de funcionar, acontece algo do meu elemento."
+                  data-default="Magia elemental / Efeito elemental / Explosão arcana / Escudo arcano."
                 ></textarea>
               </div>
 
@@ -704,6 +754,14 @@
 
               <div class="card">
                 <div class="card__head">
+                  <div class="card__title">🔵 Mana</div>
+                  <div class="card__hint">comece com 3</div>
+                </div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="3"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
                   <div class="card__title">🎒 Coisas legais</div>
                 </div>
                 <div class="checks">
@@ -758,14 +816,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Poder</div>
-                  <div class="card__hint">1 vez por combate</div>
+                  <div class="card__title">✨ Magias</div>
+                  <div class="card__hint">custa 1 🔵</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="✨ Cura — Posso curar 1 amigo ou levantar alguém."
+                  data-default="Cura / Proteção / Comando sagrado."
                 ></textarea>
               </div>
 

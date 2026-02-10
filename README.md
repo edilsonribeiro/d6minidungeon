@@ -5,6 +5,7 @@ Este repositório está organizado por módulos em arquivos `.md`.
 - Comece por: `introducao.md`
 - Núcleo infantil (1 página): `nucleo-infantil.md`
 - Evolução por classe (infantil): `evolucao.md`
+- Aventura inicial (tutorial): `aventura-inicial.md`
 - Árvore de recompensas: `arvore-de-recompensas.md`
 - Fichas prontas: `fichas/infantil/README.md`
 - Regras por tema:

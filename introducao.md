@@ -61,10 +61,12 @@ Ao final de **cada aventura**, escolha **1**:
 - ✨ poder especial (1 frase)
 - ❤️ +1 vida (máximo 5)
 
-Você pode pegar essa recompensa de duas formas:
+### ✅ Escolha UM modelo de progressão (não misture no começo)
 
-- evolução **por classe**: `evolucao.md`
-- lista pronta e “colecionável”: `arvore-de-recompensas.md`
+Para evitar confusão nas primeiras mesas, use **ou um ou outro**:
+
+- 🌳 **Árvore livre (recomendado para começar)**: `arvore-de-recompensas.md`
+- 📈 **Evolução por classe (mais identidade)**: `evolucao.md`
 
 ## 🎯 Filosofia do sistema
 
@@ -74,9 +76,11 @@ Você pode pegar essa recompensa de duas formas:
 - Fácil para criança
 - Profundo para adulto
 
-## ⚙️ Modo heroico (opcional — com atributos)
+## 📎 Apêndice — Modo heroico (quando a mesa crescer)
 
-Se você quiser uma versão mais “tradicional”, use atributos como um módulo opcional.
+Este apêndice é para uma versão mais “tradicional”, com atributos. Ele **não é o padrão** do modo infantil.
+
+Use quando as crianças já estiverem confortáveis com o núcleo (ou para jogar com adultos).
 
 ### 📊 Atributos
 

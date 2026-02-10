@@ -32,14 +32,20 @@ No núcleo infantil, a regra é:
 
 Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
 
+- **Modo 6–8 (recomendado)**: use as 5 armas básicas (efeitos bem visíveis).
+- **Modo 8–10 (opcional)**: use também os “extras”.
+
 - 🗡 **Espada**: empurra o inimigo para longe (ou abre espaço para um aliado)
 - 🪓 **Machado**: derruba (**Caído**)
 - 🔨 **Martelo**: deixa tonto (**Tonto**)
 - 🏹 **Arco**: acerta de longe (ou atinge um alvo difícil)
 - 🗡 **Lança**: impede de fugir (**Preso**)
+
+🧠 **Extras (8–10 opcional)**:
+
 - 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
 - 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
-- 🎯 **Besta pesada**: no 6, o alvo não pode apagar escudo para zerar esse dano
+- 🎯 **Besta pesada**: no 6, a armadura do alvo **não consegue bloquear** esse dano
 
 > Se você quiser variedade sem regra extra: mude só o “skin” (espada de cristal, martelo gigante, arco de elfo, etc.).
 

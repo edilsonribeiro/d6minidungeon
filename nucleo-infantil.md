@@ -171,10 +171,12 @@ No fim da aventura, escolha **1**:
 
 Sempre algo legal. Nunca só número.
 
-Você pode escolher de duas formas:
+### ✅ Escolha UM modelo (não misture no começo)
 
-- evolução por classe: `evolucao.md`
-- lista pronta para escolher: `arvore-de-recompensas.md`
+Para não confundir nas primeiras mesas, use **ou um ou outro**:
+
+- 🌳 **Árvore livre (recomendado para começar)**: `arvore-de-recompensas.md`
+- 📈 **Evolução por classe (mais identidade)**: `evolucao.md`
 
 ## 🧠 Regra de ouro do mestre
 

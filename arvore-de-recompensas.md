@@ -6,7 +6,7 @@ Isso funciona como um “álbum de figurinhas” do herói:
 - tudo é **visual e colecionável**
 - nada tem pré-requisito
 
-Se você preferir progressão **por classe** (também “escolha 1 coisa legal”), use:
+✅ **Use este modelo OU evolução por classe** (não misture nos primeiros jogos):
 
 - `evolucao.md`
 
@@ -18,6 +18,8 @@ Pergunta do mestre:
 
 Armas não dão bônus. Elas mudam **o efeito do seu 6** quando você ataca.
 
+Para 6–8 anos, escolha uma das **5 armas básicas**. Os “extras” são opcionais.
+
 Escolha uma (ou invente uma parecida):
 
 - 🗡 **Espada**: empurra o inimigo
@@ -25,9 +27,12 @@ Escolha uma (ou invente uma parecida):
 - 🔨 **Martelo**: deixa tonto (Tonto)
 - 🏹 **Arco longo**: acerta “muito longe” sem complicação
 - 🗡 **Lança**: impede de fugir (Preso)
+
+🧠 **Extras (8–10 opcional)**:
+
 - 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
 - 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
-- 🎯 **Besta pesada**: no 6, o alvo não pode apagar escudo para zerar esse dano
+- 🎯 **Besta pesada**: no 6, a armadura do alvo **não consegue bloquear** esse dano
 
 > Dica: você pode trocar só o “skin” (espada de cristal, machado de gelo, martelo gigante) sem mudar a regra.
 
@@ -48,7 +53,7 @@ Se um pet tiver texto “1 vez por cena”, no modo 6–8 você pode ignorar iss
 
 ### 🐺 Pets de combate
 
-- 🐺 **Lobo**: ajuda a atacar (1 vez por cena, transforme um 4–5 em 6)
+- 🐺 **Lobo**: ajuda a atacar (quando entrar em cena, seu ataque vira um **sucesso incrível**)
 - 🐻 **Urso pequeno**: protege alguém (1 vez por cena, transforme 1 dano em 0 para um aliado perto)
 - 🐉 **Dragão bebê**: espalha/assusta (1 vez por cena, empurra ou derruba um inimigo pequeno)
 

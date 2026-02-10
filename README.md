@@ -2,7 +2,7 @@
 
 Este repositório está organizado por módulos em arquivos `.md`.
 
-- Comece por: `introducao.md`
+- Comece por: `introducao.md` (inclui apêndice “modo heroico”)
 - Núcleo infantil (1 página): `nucleo-infantil.md`
 - Evolução por classe (infantil): `evolucao.md`
 - Aventura inicial (tutorial): `aventura-inicial.md`
@@ -17,6 +17,6 @@ Este repositório está organizado por módulos em arquivos `.md`.
 
 O sistema inclui um **modo infantil recomendado** (regra única de rolagem + recompensas visíveis + pets).
 
-Se você quiser uma versão mais “tradicional”, o `introducao.md` também traz um **modo heroico opcional** com atributos.
+Se você quiser uma versão mais “tradicional”, o `introducao.md` também traz um **apêndice “modo heroico”** com atributos.
 
 Rascunho original preservado em: `v1-rascunho.md`.

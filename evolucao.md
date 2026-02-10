@@ -11,6 +11,10 @@ Pense como “ganhar um brinquedo novo” para o herói.
 - Você **nunca perde** nada antigo.
 - Sem somas, sem bônus numéricos (exceto quando a melhoria diz “+1 coração” ou “+1 escudo”).
 
+✅ **Use evolução por classe OU árvore livre** (não misture nas primeiras aventuras):
+
+- árvore de recompensas: `arvore-de-recompensas.md`
+
 Pergunta do mestre:
 
 👉 **“O que mudou no seu herói depois dessa aventura?”**
@@ -59,7 +63,7 @@ Se alguma melhoria falar “1 vez por combate/cena/aventura”, o mestre pode si
 
 ### 🐾 Caminho do Companheiro (escolha 1 por evolução)
 
-- 🐾 **Pet treinado**: quando você tirar **6**, seu pet pode ajudar de um jeito ainda melhor (defina em 1 frase; exemplo: “no 6 eu viro um 4–5 em 6”, “no 6 eu anulo 1 dano”, “no 6 eu ganho uma pista”).
+- 🐾 **Pet treinado**: quando você tirar **6**, seu pet pode ajudar de um jeito ainda melhor (defina em 1 frase; exemplo: “no 6 eu dou **Protegido**”, “no 6 eu derrubo”, “no 6 eu ganho uma pista”).
 - 🦅 **Pet especial**: seu pet ganha **uma habilidade nova** (defina em 1 frase).
 - 🤝 **Ataque em dupla**: quando você tirar **6**, você e o pet agem juntos (ex.: causar efeito extra, empurrar, derrubar, distrair).
 

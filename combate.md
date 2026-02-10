@@ -26,7 +26,7 @@ Role 1D6:
 - **2–3**: erra ou só empurra/assusta
 - **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
 
-### 🛡️️ Quando um inimigo te ataca
+### 🛡️️️ Quando um inimigo te ataca
 
 Você **rola o dado**, não o monstro:
 
@@ -35,7 +35,7 @@ Você **rola o dado**, não o monstro:
 - **2–3**: você sofre **1 de dano**
 - **1**: você sofre **2 de dano** ou algo pior
 
-## 🛡️️ Armadura (escudo visual)
+## 🛡️️️ Armadura (escudo visual)
 
 - armadura tem **escudos desenhados** (🟦)
 - quando tomaria dano, pode apagar **1 escudo** para zerar o dano

@@ -19,7 +19,7 @@ Pensado para:
 Cada herói tem:
 
 - ❤️ **Vida**: corações (veja na sua ficha)
-- 🛡️️ **Armadura**: 0 a 4 escudos (🟦)
+- 🛡️️️ **Armadura**: 0 a 4 escudos (🟦)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Poder especial**: 1 frase
 - 🐾 **Pet** (opcional): ajuda de vez em quando
@@ -63,7 +63,7 @@ Role 1D6:
 - **2–3**: erra ou só empurra/assusta
 - **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
 
-### 🛡️️ Quando um inimigo te ataca
+### 🛡️️️ Quando um inimigo te ataca
 
 Você **rola o dado**, não o monstro:
 
@@ -81,7 +81,7 @@ Você **rola o dado**, não o monstro:
 - um amigo pode ajudar
 - crianças **não morrem**: só desmaiam
 
-### 🛡️️ Armadura (escudo visual)
+### 🛡️️️ Armadura (escudo visual)
 
 - armadura tem **escudos desenhados** (🟦)
 - quando tomaria dano, pode apagar **1 escudo** para zerar o dano
@@ -146,14 +146,17 @@ Sem contar quadrados.
 No fim da aventura, escolha **1**:
 
 - 🗡 arma nova
-- 🛡️️ armadura melhor
+- 🛡️️️ armadura melhor
 - 🐾 pet
 - ✨ poder novo
 - ❤️ +1 coração (máx. 5)
 
 Sempre algo legal. Nunca só número.
 
-Lista pronta para escolher: `arvore-de-recompensas.md`.
+Você pode escolher de duas formas:
+
+- evolução por classe: `evolucao.md`
+- lista pronta para escolher: `arvore-de-recompensas.md`
 
 ## 🧠 Regra de ouro do mestre
 

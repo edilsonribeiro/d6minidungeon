@@ -9,7 +9,7 @@
 │ ❤️  ❤️  ❤️  ❤️  ❤️            │
 │ (marque com X quando perder)  │
 │                               │
-│ 🛡️️ ARMADURA                   │
+│ 🛡️️️ ARMADURA                   │
 │ 🟦 🟦 🟦 🟦                    │
 │ (apague quando usar)          │
 │                               │

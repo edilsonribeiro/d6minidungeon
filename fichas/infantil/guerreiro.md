@@ -10,7 +10,7 @@
 │ ❤️  ❤️  ❤️  ❤️  ❤️            │
 │ (comece com 4)                │
 │                               │
-│ 🛡️️ ARMADURA                   │
+│ 🛡️️️ ARMADURA                   │
 │ 🟦 🟦 🟦 🟦                    │
 │ (comece com 🟦🟦🟦)             │
 │                               │
@@ -18,7 +18,7 @@
 │ Espada / Machado / Martelo    │
 │                               │
 │ ✨ PODER                       │
-│ 🛡️ Protetor                   │
+│ 🛡️️ Protetor                   │
 │ Posso levar o dano por        │
 │ um amigo próximo              │
 │                               │

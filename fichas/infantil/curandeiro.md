@@ -10,7 +10,7 @@
 │ ❤️  ❤️  ❤️  ❤️  ❤️            │
 │ (comece com 3)                │
 │                               │
-│ 🛡️️ ARMADURA                   │
+│ 🛡️️️ ARMADURA                   │
 │ 🟦 🟦 🟦 🟦                    │
 │ (comece com 🟦🟦)               │
 │                               │

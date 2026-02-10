@@ -3,6 +3,7 @@
 Este repositório está organizado por módulos em arquivos `.md`.
 
 - Comece por: `introducao.md` (inclui apêndice “modo heroico”)
+- Versão 2 (arquivo único com mecânicas): `v2.md`
 - Núcleo infantil (resumo): `nucleo-infantil.md`
 - Aventura inicial (tutorial): `aventura-inicial.md`
 - Árvore de recompensas: `arvore-de-recompensas.md`

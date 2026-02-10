@@ -52,9 +52,12 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
   - declare antes; vale para **1** rolagem
   - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem
   - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (habilidade) ou coisa de **item/ritual**.
-- 🔵 **Truque arcano**: gaste **🔵1** → produza um efeito mágico **simples e imediato** (luz, faísca, vento, empurrão leve, destravar/travar simples).
-  - em combate, pode virar um ataque arcano **simples** (dano máximo **1**, sem área)
-  - lista oficial de efeitos: `mana.md`
+- 🔵 **Magia improvisada**: gaste **🔵1** → reproduza o efeito de uma **magia básica existente** em uma única ação.
+  - dura só aquela ação (não fica ativo)
+  - não tem área e não sustenta efeito
+  - se causar dano, o dano máximo é **1**
+  - por padrão, você **não repete o mesmo efeito** mais de uma vez por combate (a não ser que alguma habilidade permita)
+  - lista oficial: `mana.md`
 
 ## 📋 Tabela resumo (combate básico)
 
@@ -63,7 +66,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 | Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | ❤️1: +1 dano |
 | Defesa física | 🛡️ Defesa | 1D6 por Defesa (melhor) | 🛡️1: desvio automático |
 | Defesa arcana | 🔵 Mana | 1D6 por Mana (melhor) | — |
-| Truque/ataque arcano simples | 🔵 Mana | 1D6 por Mana (melhor) | 🔵1: efeito simples (dano máx 1) |
+| Magia improvisada | 🔵 Mana | 1D6 por Mana (melhor) | 🔵1: magia básica (dano máx 1) |
 | Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | 🟣1: Destino (+1D6 / -1D6) |
 
 ## 🟣 Destino (Alma) — texto oficial
@@ -80,8 +83,8 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 
 - **Físico** (arma, soco, chute) → usa ❤️ **Vida**
 - **Arcano**
-  - **Truque arcano (qualquer personagem)**: gaste **🔵1** → dano máximo **1**
-  - **Magia arcana (especialização/habilidade)**: gaste **🔵1** (ou custo indicado) → dano normal do sistema
+  - **Magia improvisada (qualquer personagem)**: gaste **🔵1** → aplique o efeito de uma magia básica (dano máx **1**)
+  - **Magia dominada (especialização/habilidade)**: gaste **🔵1** (ou custo indicado) → efeito completo/forte
 - **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade. Gaste **🟣1**.
 
 2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵/🟣) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
@@ -97,7 +100,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
   - causa **0 de dano** (você não se expõe)
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
 
-Se o ataque arcano foi um **Truque arcano**, o dano máximo é **1** (mesmo no **6**).
+Se o ataque arcano foi **Magia improvisada**, o dano máximo é **1** (mesmo no **6**).
 
 ### 🛡️️️ Quando um inimigo te ataca
 

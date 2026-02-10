@@ -82,7 +82,7 @@ Use isso no lugar de bônus numéricos.
 - Se um recurso chega a **0**, ele **não pode mais ser usado**.
 - Ações universais:
   - 🟣 **Destino**: gaste **🟣1** para dar **Ajuda** (**+1D6**) ou **Atrapalho** (**-1D6, mínimo 1 dado**) em uma rolagem.
-  - 🔵 **Truque arcano**: gaste **🔵1** para um efeito mágico simples (ou dano arcano máximo **1**).
+  - 🔵 **Magia improvisada**: gaste **🔵1** para reproduzir uma magia básica em uma ação (ou dano arcano máximo **1**).
 
 ## ⚔ Combate (sem complicação)
 
@@ -92,7 +92,7 @@ Escolha o tipo do ataque e role **1D6**:
 
 - **Físico** → dano vai para 🛡️ **Defesa** do alvo (se estiver em 0, vai para ❤️ **Vida**)
 - **Arcano**
-  - **Truque arcano (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
+  - **Magia improvisada (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
   - **Magia arcana (especialização/habilidade)**: gaste **🔵1** → dano normal do sistema
 - **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade. Gaste **🟣1**.
 
@@ -107,7 +107,7 @@ Resultados:
   - causa **0 de dano**
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque
 
-Lembrete: se foi **Truque arcano**, o dano máximo é **1** (mesmo no 6).
+Lembrete: se foi **Magia improvisada**, o dano máximo é **1** (mesmo no 6).
 
 ### 🛡️️️ Quando um inimigo te ataca
 

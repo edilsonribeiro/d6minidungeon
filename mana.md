@@ -34,16 +34,16 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
 
 - Mana é um **recurso** (não é mais “por aventura” separado do resto).
 - Mana é **energia arcana bruta**: contato com o arcano sem especialização.
-- Qualquer personagem pode gastar Mana para um **Truque arcano** (efeito simples e imediato).
+- Qualquer personagem pode gastar Mana para uma **magia improvisada** (efeito simples e imediato).
 - Magias arcanas “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
 - Se sua Mana chegar a **0**:
   - você não consegue usar magia arcana
   - você não consegue resistir magia arcana (o impacto vai para ❤️ Vida)
 
-## ✨ Truque arcano (qualquer personagem)
+## ✨ Magia improvisada (qualquer personagem)
 
-> Ao gastar **🔵1**, qualquer personagem pode produzir **um efeito mágico simples e imediato**.  
-> Isso representa **energia arcana bruta**, sem técnica avançada.
+> Ao gastar **🔵1**, qualquer personagem pode reproduzir **o efeito de uma magia básica existente**, de forma improvisada, em **uma única ação**.  
+> Isso é magia “de verdade”, mas sem domínio: não sustenta, não amplia e não repete fácil.
 
 Se for disputado/perigoso, role **1D6 por ponto de 🔵 Mana** e use **apenas o melhor dado** (mesma tabela do sistema).
 
@@ -55,9 +55,14 @@ Se for disputado/perigoso, role **1D6 por ponto de 🔵 Mana** e use **apenas o 
 - não aplica condições fortes (paralisar/atordoar/controlar totalmente)
 - resolve situações **pequenas ou momentâneas**
 
-Em combate, Truque arcano pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
+Em combate, magia improvisada pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
 
-### 🔵 Lista oficial — Efeitos mágicos básicos
+Regra de ouro (para preservar o Mago):
+
+- por padrão, um personagem **não pode usar o mesmo efeito** mais de uma vez por combate
+  - habilidades/especializações podem quebrar essa regra
+
+### 🔵 Lista oficial — Magias básicas (efeitos improvisáveis)
 
 **🔥 Energia / impacto**
 
@@ -97,7 +102,7 @@ Em combate, Truque arcano pode virar um ataque arcano **simples** (dano máximo 
 **🛡️ Defesa leve (não cumulativa)**
 
 - reduzir em **1** o dano arcano que você sofreria (declare antes de aplicar o dano)
-- bloquear um **efeito mágico simples** (outro Truque arcano)
+- bloquear um **efeito mágico simples** (outra magia improvisada)
 - dissipar uma magia fraca/instável **se ela for simples**
 
 **🌱 Elemental leve (narrativo)**
@@ -106,7 +111,7 @@ Em combate, Truque arcano pode virar um ataque arcano **simples** (dano máximo 
 - aquecer ou resfriar algo pequeno
 - fazer crescer algo mínimo (raízes, musgo, vinhas fracas)
 
-### ⚠️ O que NÃO é Truque arcano
+### ⚠️ O que NÃO é magia improvisada
 
 Se o efeito:
 
@@ -116,7 +121,7 @@ Se o efeito:
 - dura vários turnos
 - substitui habilidade de classe
 
-… então **não é** Truque arcano: isso é **especialização/habilidade**, item, ritual ou magia de classe.
+… então **não é** magia improvisada: isso é **especialização/habilidade**, item, ritual ou magia de classe.
 
 > Regra curta: 🔵 Mana é “magia sem especialização”. Todo mundo pode usar; o **Mago** é quem domina.
 

@@ -1,0 +1,802 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fichas (Infantil) — RPG D6 Heroico</title>
+    <link rel="stylesheet" href="fichas.css" />
+    <script defer src="fichas.js"></script>
+  </head>
+  <body>
+    <!-- Ícones desenhados (SVG) -->
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="0"
+      height="0"
+      style="position: absolute; width: 0; height: 0; overflow: hidden"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <symbol id="icon-heart" viewBox="0 0 24 24">
+        <path
+          d="M12 21s-7-4.6-9.6-9.1C.6 8.4 2.1 5.6 4.9 4.6c2-.8 4.1.1 5.5 1.7 1.4-1.6 3.5-2.5 5.5-1.7 2.8 1 4.3 3.8 2.5 7.3C19 16.4 12 21 12 21z"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linejoin="round"
+        />
+      </symbol>
+      <symbol id="icon-shield" viewBox="0 0 24 24">
+        <path
+          d="M12 2l8 4v7c0 6-4 9-8 11C8 22 4 19 4 13V6l8-4z"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linejoin="round"
+        />
+      </symbol>
+    </svg>
+
+    <header class="toolbar" role="banner">
+      <div class="toolbar__brand">
+        <div class="brand__title">🧾 Fichas — Infantil</div>
+        <div class="brand__sub">A4 • clique para marcar • imprime e joga</div>
+      </div>
+
+      <nav class="toolbar__nav" aria-label="Fichas">
+        <button class="tab is-active" type="button" data-view="all">Todas</button>
+        <button class="tab" type="button" data-view="base">Base</button>
+        <button class="tab" type="button" data-view="guerreiro">Guerreiro</button>
+        <button class="tab" type="button" data-view="ranger">Ranger</button>
+        <button class="tab" type="button" data-view="mago">Mago</button>
+        <button class="tab" type="button" data-view="curandeiro">Curandeiro</button>
+      </nav>
+
+      <div class="toolbar__actions">
+        <button class="btn" type="button" id="resetBtn">Limpar</button>
+        <button class="btn btn--primary" type="button" id="printBtn">Imprimir</button>
+      </div>
+    </header>
+
+    <main class="pages" id="pages">
+      <!-- As fichas (A4) são renderizadas em HTML (sem markdown). -->
+      <section class="page" data-sheet="base">
+        <div class="paper sheet">
+          <div class="sheet__top">
+            <div class="sheet__class">
+              <div class="sheet__icon">📄</div>
+              <div>
+                <div class="sheet__name">Ficha base</div>
+                <div class="sheet__tag">RPG D6 Heroico • infantil</div>
+              </div>
+            </div>
+
+            <div class="rulebox" aria-label="Regra 1D6">
+              <div class="rulebox__title">🎲 Regra 1D6</div>
+              <div class="rulebox__grid">
+                <div class="rule">
+                  <span class="die">6</span>
+                  <span>consegue + algo legal</span>
+                </div>
+                <div class="rule">
+                  <span class="die">4–5</span>
+                  <span>consegue</span>
+                </div>
+                <div class="rule">
+                  <span class="die">2–3</span>
+                  <span>não consegue completamente</span>
+                </div>
+                <div class="rule">
+                  <span class="die">1</span>
+                  <span>algo dá errado/engraçado</span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="identity">
+            <div class="field">
+              <div class="label">🧒 Nome do herói</div>
+              <input class="input" type="text" data-field="heroName" placeholder="Escreva aqui" />
+            </div>
+            <div class="field">
+              <div class="label">🎭 Apelido</div>
+              <input class="input" type="text" data-field="heroNick" placeholder="Ex.: O Valente" />
+            </div>
+          </div>
+
+          <div class="sheet__body">
+            <div class="col">
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">❤️ Vida</div>
+                  <div class="card__hint">comece com 3</div>
+                </div>
+                <div class="token-row" data-kind="hp" data-max="5" data-start="3"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️️ Armadura</div>
+                  <div class="card__hint">0 a 🟦🟦🟦🟦</div>
+                </div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="0"></div>
+                <div class="card__note">Quando tomaria dano, apague 1 🟦 para zerar.</div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🎒 Coisas legais</div>
+                </div>
+                <div class="checks">
+                  <label class="check">
+                    <input type="checkbox" data-field="bagPotion" />
+                    <span>poção</span>
+                  </label>
+                  <label class="check">
+                    <input type="checkbox" data-field="bagSpecial" />
+                    <span>item especial</span>
+                  </label>
+                  <div class="field field--inline">
+                    <div class="label">outro</div>
+                    <input class="input" type="text" data-field="bagOther" placeholder="Ex.: corda" />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card card--weapon">
+                <div class="card__head">
+                  <div class="card__title">🗡️ Arma</div>
+                  <div class="card__hint">no 6, faz algo legal</div>
+                </div>
+
+                <div class="field">
+                  <div class="label">nome</div>
+                  <input class="input" type="text" data-field="weaponName" placeholder="Ex.: Espada" />
+                </div>
+
+                <div class="chips" aria-label="Sugestões de arma">
+                  <button class="chip" type="button" data-target="weaponName" data-value="Espada">Espada</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Machado">Machado</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Martelo">Martelo</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Arco">Arco</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Lança">Lança</button>
+                </div>
+
+                <div class="field">
+                  <div class="label">no 6, minha arma faz</div>
+                  <input class="input" type="text" data-field="weaponEffect" placeholder="Ex.: empurra" />
+                </div>
+
+                <div class="draw-box" aria-label="Área de desenho">
+                  <div class="draw-box__text">Desenhe aqui ✏️</div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">✨ Poder especial</div>
+                </div>
+                <textarea class="textarea" rows="3" data-field="powerText" placeholder="Escreva em 1 frase..."></textarea>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🐾 Pet (se tiver)</div>
+                </div>
+                <div class="grid2">
+                  <div class="field">
+                    <div class="label">nome</div>
+                    <input class="input" type="text" data-field="petName" placeholder="..." />
+                  </div>
+                  <div class="field">
+                    <div class="label">o que faz</div>
+                    <input class="input" type="text" data-field="petEffect" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="sheet__footer">
+            <div>👉 Pergunta: “O que você quer fazer?”</div>
+            <div class="sheet__footer-right">Base • A4</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="page" data-sheet="guerreiro">
+        <div class="paper sheet">
+          <div class="sheet__top">
+            <div class="sheet__class">
+              <div class="sheet__icon">⚔</div>
+              <div>
+                <div class="sheet__name">Guerreiro</div>
+                <div class="sheet__tag">forte • protetor • corajoso</div>
+              </div>
+            </div>
+
+            <div class="mini" aria-label="Resumo">
+              <div class="mini__line">❤️ Vida inicial: <strong>4</strong></div>
+              <div class="mini__line">🛡️️ Armadura inicial: <strong>🟦🟦🟦</strong></div>
+              <div class="mini__line">🗡️ Arma: Espada / Machado / Martelo</div>
+            </div>
+          </div>
+
+          <div class="identity">
+            <div class="field">
+              <div class="label">🧒 Nome</div>
+              <input class="input" type="text" data-field="heroName" placeholder="Seu nome" />
+            </div>
+            <div class="field">
+              <div class="label">🎭 Apelido</div>
+              <input class="input" type="text" data-field="heroNick" placeholder="Ex.: O Escudo" />
+            </div>
+          </div>
+
+          <div class="sheet__body">
+            <div class="col">
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">❤️ Vida</div>
+                  <div class="card__hint">comece com 4</div>
+                </div>
+                <div class="token-row" data-kind="hp" data-max="5" data-start="4"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️️ Armadura</div>
+                  <div class="card__hint">comece com 🟦🟦🟦</div>
+                </div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="3"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🎒 Coisas legais</div>
+                </div>
+                <div class="checks">
+                  <label class="check">
+                    <input type="checkbox" data-field="bagPotion" />
+                    <span>poção</span>
+                  </label>
+                  <label class="check">
+                    <input type="checkbox" data-field="bagSpecial" />
+                    <span>item especial</span>
+                  </label>
+                  <div class="field field--inline">
+                    <div class="label">outro</div>
+                    <input class="input" type="text" data-field="bagOther" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card card--weapon">
+                <div class="card__head">
+                  <div class="card__title">🗡️ Arma</div>
+                  <div class="card__hint">escolha 1</div>
+                </div>
+
+                <div class="field">
+                  <div class="label">arma</div>
+                  <input
+                    class="input"
+                    type="text"
+                    data-field="weaponName"
+                    data-default="Espada"
+                  />
+                </div>
+
+                <div class="chips">
+                  <button class="chip" type="button" data-target="weaponName" data-value="Espada">Espada</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Machado">Machado</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Martelo">Martelo</button>
+                </div>
+
+                <div class="field">
+                  <div class="label">no 6, minha arma faz</div>
+                  <input
+                    class="input"
+                    type="text"
+                    data-field="weaponEffect"
+                    data-default="Empurra / Derruba / Atordoa"
+                  />
+                </div>
+
+                <div class="draw-box" aria-label="Área de desenho">
+                  <div class="draw-box__text">Desenhe aqui ✏️</div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">✨ Poder</div>
+                  <div class="card__hint">1 vez por combate</div>
+                </div>
+                <textarea
+                  class="textarea"
+                  rows="3"
+                  data-field="powerText"
+                  data-default="🛡️ Protetor — Posso levar o dano por um amigo próximo."
+                ></textarea>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🐾 Pet (opcional)</div>
+                </div>
+                <div class="field">
+                  <div class="label">sugestões</div>
+                  <input class="input" type="text" data-field="petHint" data-default="Lobo / Cão / Urso" />
+                </div>
+                <div class="grid2">
+                  <div class="field">
+                    <div class="label">nome</div>
+                    <input class="input" type="text" data-field="petName" placeholder="..." />
+                  </div>
+                  <div class="field">
+                    <div class="label">o que faz</div>
+                    <input class="input" type="text" data-field="petEffect" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="sheet__footer">
+            <div>🛡️️ Dica: proteja seus amigos!</div>
+            <div class="sheet__footer-right">Guerreiro • A4</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="page" data-sheet="ranger">
+        <div class="paper sheet">
+          <div class="sheet__top">
+            <div class="sheet__class">
+              <div class="sheet__icon">🏹</div>
+              <div>
+                <div class="sheet__name">Ranger</div>
+                <div class="sheet__tag">rápido • esperto • explorador</div>
+              </div>
+            </div>
+
+            <div class="mini" aria-label="Resumo">
+              <div class="mini__line">❤️ Vida inicial: <strong>3</strong></div>
+              <div class="mini__line">🛡️️ Armadura inicial: <strong>🟦🟦</strong></div>
+              <div class="mini__line">🗡️ Arma: Arco / Duas adagas / Lança</div>
+            </div>
+          </div>
+
+          <div class="identity">
+            <div class="field">
+              <div class="label">🧒 Nome</div>
+              <input class="input" type="text" data-field="heroName" placeholder="Seu nome" />
+            </div>
+            <div class="field">
+              <div class="label">🎭 Apelido</div>
+              <input class="input" type="text" data-field="heroNick" placeholder="Ex.: A Sombra" />
+            </div>
+          </div>
+
+          <div class="sheet__body">
+            <div class="col">
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">❤️ Vida</div>
+                  <div class="card__hint">comece com 3</div>
+                </div>
+                <div class="token-row" data-kind="hp" data-max="5" data-start="3"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️️ Armadura</div>
+                  <div class="card__hint">comece com 🟦🟦</div>
+                </div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🎒 Coisas legais</div>
+                </div>
+                <div class="checks">
+                  <label class="check">
+                    <input type="checkbox" data-field="bagPotion" />
+                    <span>poção</span>
+                  </label>
+                  <label class="check">
+                    <input type="checkbox" data-field="bagSpecial" />
+                    <span>item especial</span>
+                  </label>
+                  <div class="field field--inline">
+                    <div class="label">outro</div>
+                    <input class="input" type="text" data-field="bagOther" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card card--weapon">
+                <div class="card__head">
+                  <div class="card__title">🗡️ Arma</div>
+                  <div class="card__hint">escolha 1</div>
+                </div>
+
+                <div class="field">
+                  <div class="label">arma</div>
+                  <input class="input" type="text" data-field="weaponName" data-default="Arco" />
+                </div>
+
+                <div class="chips">
+                  <button class="chip" type="button" data-target="weaponName" data-value="Arco">Arco</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Duas adagas">Duas adagas</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Lança">Lança</button>
+                </div>
+
+                <div class="field">
+                  <div class="label">no 6, minha arma faz</div>
+                  <input
+                    class="input"
+                    type="text"
+                    data-field="weaponEffect"
+                    data-default="Acerta de longe / Impede de fugir"
+                  />
+                </div>
+
+                <div class="draw-box" aria-label="Área de desenho">
+                  <div class="draw-box__text">Desenhe aqui ✏️</div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">✨ Poder</div>
+                  <div class="card__hint">1 vez por combate</div>
+                </div>
+                <textarea
+                  class="textarea"
+                  rows="3"
+                  data-field="powerText"
+                  data-default="🏃 Ágil — Posso me mover depois de atacar."
+                ></textarea>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🐾 Pet (opcional)</div>
+                </div>
+                <div class="field">
+                  <div class="label">sugestões</div>
+                  <input
+                    class="input"
+                    type="text"
+                    data-field="petHint"
+                    data-default="Falcão / Lobo / Raposa"
+                  />
+                </div>
+                <div class="grid2">
+                  <div class="field">
+                    <div class="label">nome</div>
+                    <input class="input" type="text" data-field="petName" placeholder="..." />
+                  </div>
+                  <div class="field">
+                    <div class="label">o que faz</div>
+                    <input class="input" type="text" data-field="petEffect" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="sheet__footer">
+            <div>🏹 Dica: use o terreno e seja esperto!</div>
+            <div class="sheet__footer-right">Ranger • A4</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="page" data-sheet="mago">
+        <div class="paper sheet">
+          <div class="sheet__top">
+            <div class="sheet__class">
+              <div class="sheet__icon">🔥</div>
+              <div>
+                <div class="sheet__name">Mago</div>
+                <div class="sheet__tag">mágico • criativo • brilhante</div>
+              </div>
+            </div>
+
+            <div class="mini" aria-label="Resumo">
+              <div class="mini__line">❤️ Vida inicial: <strong>2</strong></div>
+              <div class="mini__line">🛡️️ Armadura inicial: <strong>🟦🟦</strong> (mágica)</div>
+              <div class="mini__line">🗡️ Foco: Cajado / Varinha / Livro</div>
+            </div>
+          </div>
+
+          <div class="identity">
+            <div class="field">
+              <div class="label">🧒 Nome</div>
+              <input class="input" type="text" data-field="heroName" placeholder="Seu nome" />
+            </div>
+            <div class="field">
+              <div class="label">🎭 Apelido</div>
+              <input class="input" type="text" data-field="heroNick" placeholder="Ex.: O Brilho" />
+            </div>
+          </div>
+
+          <div class="sheet__body">
+            <div class="col">
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">❤️ Vida</div>
+                  <div class="card__hint">comece com 2</div>
+                </div>
+                <div class="token-row" data-kind="hp" data-max="5" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️️ Armadura arcana</div>
+                  <div class="card__hint">comece com 🟦🟦</div>
+                </div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="2"></div>
+                <div class="card__note">Recupera no descanso completo.</div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🎒 Coisas legais</div>
+                </div>
+                <div class="checks">
+                  <label class="check">
+                    <input type="checkbox" data-field="bagPotion" />
+                    <span>poção</span>
+                  </label>
+                  <label class="check">
+                    <input type="checkbox" data-field="bagSpecial" />
+                    <span>item especial</span>
+                  </label>
+                  <div class="field field--inline">
+                    <div class="label">outro</div>
+                    <input class="input" type="text" data-field="bagOther" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card card--weapon">
+                <div class="card__head">
+                  <div class="card__title">🗡️ Foco mágico</div>
+                  <div class="card__hint">escolha 1</div>
+                </div>
+
+                <div class="field">
+                  <div class="label">foco</div>
+                  <input class="input" type="text" data-field="weaponName" data-default="Cajado" />
+                </div>
+
+                <div class="chips">
+                  <button class="chip" type="button" data-target="weaponName" data-value="Cajado">Cajado</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Varinha">Varinha</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Livro">Livro</button>
+                </div>
+
+                <div class="field">
+                  <div class="label">✨ Elemento</div>
+                  <input class="input" type="text" data-field="mageElement" data-default="🔥 Fogo" />
+                </div>
+
+                <div class="chips chips--small">
+                  <button class="chip" type="button" data-target="mageElement" data-value="🔥 Fogo">🔥 Fogo</button>
+                  <button class="chip" type="button" data-target="mageElement" data-value="❄ Gelo">❄ Gelo</button>
+                  <button class="chip" type="button" data-target="mageElement" data-value="🌪 Vento">🌪 Vento</button>
+                  <button class="chip" type="button" data-target="mageElement" data-value="🌿 Natureza">🌿 Natureza</button>
+                  <button class="chip" type="button" data-target="mageElement" data-value="✨ Luz">✨ Luz</button>
+                </div>
+
+                <div class="draw-box" aria-label="Área de desenho">
+                  <div class="draw-box__text">Desenhe aqui ✏️</div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">✨ Poder</div>
+                  <div class="card__hint">no 6, faz algo do elemento</div>
+                </div>
+                <textarea
+                  class="textarea"
+                  rows="3"
+                  data-field="powerText"
+                  data-default="🔮 Magia elemental — No meu 6, além de funcionar, acontece algo do meu elemento."
+                ></textarea>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🐾 Pet (opcional)</div>
+                </div>
+                <div class="field">
+                  <div class="label">sugestões</div>
+                  <input
+                    class="input"
+                    type="text"
+                    data-field="petHint"
+                    data-default="Dragão / Gato mágico / Espírito"
+                  />
+                </div>
+                <div class="grid2">
+                  <div class="field">
+                    <div class="label">nome</div>
+                    <input class="input" type="text" data-field="petName" placeholder="..." />
+                  </div>
+                  <div class="field">
+                    <div class="label">o que faz</div>
+                    <input class="input" type="text" data-field="petEffect" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="sheet__footer">
+            <div>✨ Dica: invente magia do seu elemento!</div>
+            <div class="sheet__footer-right">Mago • A4</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="page" data-sheet="curandeiro">
+        <div class="paper sheet">
+          <div class="sheet__top">
+            <div class="sheet__class">
+              <div class="sheet__icon">✝</div>
+              <div>
+                <div class="sheet__name">Curandeiro</div>
+                <div class="sheet__tag">cuida • protege • levanta o time</div>
+              </div>
+            </div>
+
+            <div class="mini" aria-label="Resumo">
+              <div class="mini__line">❤️ Vida inicial: <strong>3</strong></div>
+              <div class="mini__line">🛡️️ Armadura inicial: <strong>🟦🟦</strong></div>
+              <div class="mini__line">🗡️ Foco: Cajado / Símbolo / Maça</div>
+            </div>
+          </div>
+
+          <div class="identity">
+            <div class="field">
+              <div class="label">🧒 Nome</div>
+              <input class="input" type="text" data-field="heroName" placeholder="Seu nome" />
+            </div>
+            <div class="field">
+              <div class="label">🎭 Apelido</div>
+              <input class="input" type="text" data-field="heroNick" placeholder="Ex.: O Anjo" />
+            </div>
+          </div>
+
+          <div class="sheet__body">
+            <div class="col">
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">❤️ Vida</div>
+                  <div class="card__hint">comece com 3</div>
+                </div>
+                <div class="token-row" data-kind="hp" data-max="5" data-start="3"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️️ Armadura</div>
+                  <div class="card__hint">comece com 🟦🟦</div>
+                </div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🎒 Coisas legais</div>
+                </div>
+                <div class="checks">
+                  <label class="check">
+                    <input type="checkbox" data-field="bagPotion" />
+                    <span>poção</span>
+                  </label>
+                  <label class="check">
+                    <input type="checkbox" data-field="bagSpecial" />
+                    <span>item especial</span>
+                  </label>
+                  <div class="field field--inline">
+                    <div class="label">outro</div>
+                    <input class="input" type="text" data-field="bagOther" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col">
+              <div class="card card--weapon">
+                <div class="card__head">
+                  <div class="card__title">🗡️ Foco sagrado</div>
+                  <div class="card__hint">escolha 1</div>
+                </div>
+
+                <div class="field">
+                  <div class="label">foco</div>
+                  <input class="input" type="text" data-field="weaponName" data-default="Símbolo" />
+                </div>
+
+                <div class="chips">
+                  <button class="chip" type="button" data-target="weaponName" data-value="Cajado">Cajado</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Símbolo">Símbolo</button>
+                  <button class="chip" type="button" data-target="weaponName" data-value="Maça">Maça</button>
+                </div>
+
+                <div class="field">
+                  <div class="label">no 6, eu faço</div>
+                  <input
+                    class="input"
+                    type="text"
+                    data-field="weaponEffect"
+                    data-default="Curo / Protejo / Afasto um inimigo"
+                  />
+                </div>
+
+                <div class="draw-box" aria-label="Área de desenho">
+                  <div class="draw-box__text">Desenhe aqui ✏️</div>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">✨ Poder</div>
+                  <div class="card__hint">1 vez por combate</div>
+                </div>
+                <textarea
+                  class="textarea"
+                  rows="3"
+                  data-field="powerText"
+                  data-default="✨ Cura — Posso curar 1 amigo ou levantar alguém."
+                ></textarea>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🐾 Pet (opcional)</div>
+                </div>
+                <div class="field">
+                  <div class="label">sugestões</div>
+                  <input class="input" type="text" data-field="petHint" data-default="Pomba / Cervo / Gato" />
+                </div>
+                <div class="grid2">
+                  <div class="field">
+                    <div class="label">nome</div>
+                    <input class="input" type="text" data-field="petName" placeholder="..." />
+                  </div>
+                  <div class="field">
+                    <div class="label">o que faz</div>
+                    <input class="input" type="text" data-field="petEffect" placeholder="..." />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="sheet__footer">
+            <div>💛 Dica: ajude quem caiu e proteja o grupo!</div>
+            <div class="sheet__footer-right">Curandeiro • A4</div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>

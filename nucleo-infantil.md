@@ -18,13 +18,15 @@ Pensado para:
 
 Cada herói tem:
 
-- ❤️ **Vida**: 3 corações
+- ❤️ **Vida**: corações (veja na sua ficha)
 - 🛡️️ **Armadura**: 0 a 4 escudos (🟦)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Poder especial**: 1 frase
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
 Nada de atributos, contas ou tabelas.
+
+Fichas prontas para imprimir: `fichas/infantil/README.md`.
 
 ## 🎲 A regra principal (vale para tudo)
 
@@ -74,7 +76,7 @@ Você **rola o dado**, não o monstro:
 
 ### ❤️ Vida
 
-- cada herói começa com **3 corações**
+- comece com os corações da sua ficha
 - perdeu todos → cai no chão
 - um amigo pode ajudar
 - crianças **não morrem**: só desmaiam

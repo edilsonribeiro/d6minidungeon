@@ -21,7 +21,7 @@ Escolha uma (ou invente uma parecida):
 - 🔨 **Martelo**: deixa tonto (Atordoado)
 - 🏹 **Arco longo**: acerta “muito longe” sem complicação
 - 🗡 **Lança**: impede de fugir (Imobilizado)
-- 🛡️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
+- 🛡️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
 - 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
 - 🎯 **Besta pesada**: no 6, o alvo não pode apagar escudo para zerar esse dano
 
@@ -82,7 +82,7 @@ Escolha um (ou invente um parecido):
 - “No meu 6, eu escolho dois efeitos do meu elemento”
 - “Minha magia cria algo novo (ponte, parede, luz, vinhas...)”
 
-### ✝ Clérigo
+### ✝ Curandeiro
 
 - “Eu posso levantar dois amigos”
 - “Eu posso proteger todo mundo por um momento”
@@ -99,4 +99,3 @@ Use com crianças mais velhas (8–10), se quiser:
 ## 💬 Regra final
 
 Se a criança inventar algo parecido com a árvore… ela ganha.
-

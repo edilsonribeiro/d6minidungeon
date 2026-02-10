@@ -16,7 +16,7 @@ Este projeto tem um resumo em 1 página: `nucleo-infantil.md`.
 
 Cada herói tem:
 
-- ❤️ **Vida**: 3 corações
+- ❤️ **Vida**: corações (veja na sua ficha)
 - 🛡️️ **Armadura**: 0 a 4 escudos (🟦)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Poder especial**: 1 frase

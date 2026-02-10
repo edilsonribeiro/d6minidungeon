@@ -1,49 +1,45 @@
 # ⚔ Combate
 
-## 🎲 Regra única de rolagem (recomendado)
+O combate segue a mesma regra do núcleo: **sempre o jogador rola**.
 
-**Sempre o jogador rola.** Ataque e defesa seguem a mesma lógica:
+## 🎲 Regra principal (vale para ataque e defesa)
 
-| Melhor dado | Resultado |
+👉 **Role 1D6**
+
+| Resultado | O que acontece |
 |---|---|
-| 6 | Deu certo **e algo legal acontece** |
-| 4–5 | Deu certo |
-| 2–3 | Não deu certo (você sofre a consequência) |
-| 1 | Não deu certo **e algo engraçado dá errado** |
+| **6** | Deu certo **e algo legal acontece** |
+| **4–5** | Deu certo |
+| **2–3** | Não deu certo (você sofre a consequência) |
+| **1** | Não deu certo **e algo engraçado dá errado** |
 
-## 🗡 Quando você ataca
+## 🗡 Atacar um inimigo
 
-Role o atributo apropriado:
+- **6**: causa **2 de dano** e ativa o efeito especial da sua **arma/poder/pet**
+- **4–5**: causa **1 de dano**
+- **2–3**: você erra (ou só assusta/empurra sem vantagem real)
+- **1**: você erra e surge uma complicação (cai, se expõe, perde a arma, etc.)
 
-- **4–5**: você acerta e causa **1 dano**
-- **6**: você acerta, causa **1 dano** e ativa o efeito especial da sua **arma/magia/poder/pet**
-- **2–3**: você erra (normalmente nada acontece, ou você fica em má posição)
-- **1**: você erra e acontece uma complicação engraçada (cai, perde algo, se expõe, etc.)
+## 🛡️ Quando um inimigo te ataca (player-facing)
 
-> Se você quiser um modo mais “heroico”: no **6**, em vez de só efeito, você pode causar **2 dano**.
+Você rola, não o monstro:
 
-## 🛡 Quando você é atacado (player-facing)
-
-Monstros normalmente **não rolam dados**. Eles descrevem o perigo; você rola para reagir.
-
-Role o atributo apropriado:
-
+- **6**: você evita o dano e pode fazer algo legal (contra-atacar, empurrar, proteger alguém)
 - **4–5**: você evita o dano
-- **6**: você evita o dano e ativa um efeito legal (contra-ataca, empurra, protege alguém, etc.)
-- **2–3**: você sofre **1 dano**
-- **1**: você sofre **2 dano** e algo dá errado (escorrega, perde a arma, etc.)
+- **2–3**: você sofre **1 de dano**
+- **1**: você sofre **2 de dano** e algo dá errado (escorrega, cai, perde algo)
+
+## 🛡️ Armadura (escudo visual)
+
+Quando você tomaria dano, pode apagar **1 escudo (🟦)** para **zerar** aquele dano.
+
+Quando acabar, a armadura quebra (ver `equipamentos.md`).
 
 ## 🩸 Vida 0
 
-Quando chega a **0 vida**, o personagem cai.
-
-Padrão:
-
-- não morre imediatamente
-- tem **1 turno** para ser ajudado
-- se sofrer dano novamente enquanto caído: fica **inconsciente gravemente**
-
-Opcional (versão mais brutal): se sofrer dano enquanto caído, **morre**.
+- chegou a **0 vida** → cai no chão
+- um amigo pode ajudar
+- no modo infantil, personagens **não morrem**: só desmaiam
 
 ## 🎯 Ordem do turno
 
@@ -55,44 +51,40 @@ Ordem simples:
 
 Opcional: role **1D6 por grupo**; o maior começa.
 
-## 🚶 Módulo de movimentação (padrão): Zonas
+## 🚶 Movimento (bem livre)
 
-O combate assume **zonas**, não metros.
+No seu turno você pode:
 
-Existem 3 distâncias:
+- se mover
+- fazer **1 ação**
 
-- **Corpo a corpo**: pode atacar com armas corpo a corpo
-- **Próximo**: um movimento simples leva até lá
-- **Longe**: precisa gastar sua ação para alcançar
+Distâncias são narrativas:
 
-### 🎯 Regra de movimento
+- perto
+- longe
+- muito longe
 
-No seu turno, você pode:
+Sem contar quadrados.
 
-- se mover **uma zona** gratuitamente e ainda fazer **uma ação**
-  - OU
-- se mover **duas zonas**, mas não atacar
+## 🧩 Ajuda e atrapalho (opcional)
 
-### 🛑 Engajado
+Quando estiver muito fácil ou muito difícil:
 
-Se você está em corpo a corpo com um inimigo e tentar sair sem usar sua ação para **Recuar**:
+- **Ajuda**: role **2D6** e pegue o **melhor**
+- **Atrapalho**: role **2D6** e pegue o **pior**
 
-- o inimigo força uma **defesa** contra você
+## 🧎 Condições (simples)
 
-**Recuar (zonas)**: use sua ação para sair de **Corpo a corpo** para **Próximo** sem sofrer essa defesa.
-
-## 🧎 Condições (zonas)
-
-- **Derrubado**: ataques corpo a corpo contra você têm vantagem narrativa; para levantar, gasta sua ação; enquanto no chão, não pode se mover
+- **Derrubado**: você cai; levantar gasta sua ação; enquanto no chão, não pode se mover
 - **Atordoado**: perde sua próxima ação
-- **Enfraquecido**: rola **-1D6** na próxima ação; depois desaparece
-- **Imobilizado**: não pode se mover; ainda pode atacar
-- **Desarmado**: perde sua arma atual; precisa gastar ação para pegá-la
-- **Protegido**: o próximo dano que sofreria é reduzido a **0**; depois acaba
+- **Enfraquecido**: sua próxima rolagem tem **Atrapalho**
+- **Imobilizado**: não pode se mover; ainda pode agir
+- **Desarmado**: sua arma cai perto; gasta uma ação para pegar
+- **Protegido**: o próximo dano vira **0** (depois acaba)
 
-## 🧱 Módulo opcional: Combate em grid (quadrados)
+## 🧱 Módulo opcional: combate em grid (quadrados)
 
-Se você preferir tática visual no tabuleiro, use este módulo no lugar de Zonas.
+Use se quiser tática visual no tabuleiro.
 
 ### 🚶 Movimento
 
@@ -107,20 +99,13 @@ Se você preferir tática visual no tabuleiro, use este módulo no lugar de Zona
 
 ### 🛑 Sair do corpo a corpo
 
-Se estiver adjacente a inimigo e sair do alcance sem usar a ação **Recuar**, o inimigo força uma defesa contra você.
+Se estiver adjacente a inimigo e sair sem usar a ação **Recuar**, o inimigo te “pressiona” e você rola uma defesa.
 
 **Recuar**: move até **2 quadrados** e não sofre essa defesa.
 
-### 🧎 Condições (grid)
-
-- **Derrubado**: ataques corpo a corpo contra você têm **+1D6**; ataques à distância contra você têm **-1D6**; levantar custa metade do movimento (2 quadrados)
-- **Atordoado**: perde a próxima ação; ainda pode se mover
-- **Enfraquecido**: **-1D6** na próxima rolagem
-- **Imobilizado**: não pode se mover; ainda pode atacar
-- **Desarmado**: arma cai em quadrado adjacente; precisa gastar ação para pegar
-
 ### 🎛 Regras opcionais (grid)
 
-- **Cobertura**: se metade do corpo estiver atrás de obstáculo, defesa com **+1D6** contra ataques à distância
-- **Flanquear**: dois aliados em lados opostos do inimigo ganham **+1D6** no ataque
+- **Cobertura**: defesa com **Ajuda** contra ataques à distância
+- **Flanquear**: ataque com **Ajuda** quando dois aliados cercam o inimigo
 - **Terreno difícil**: alguns quadrados custam **2** de movimento para entrar
+

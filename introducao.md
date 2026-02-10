@@ -1,8 +1,79 @@
 # 🎲 Introdução — RPG D6 Heroico
 
-O sistema usa apenas **D6** e é **player-facing**: monstros normalmente **não rolam dados**; quem rola é o jogador (especialmente na defesa).
+O sistema usa apenas **D6** e é **player-facing**: monstros normalmente **não rolam dados**; quem rola é o jogador.
 
-## 📊 Atributos
+Este projeto tem um resumo em 1 página: `nucleo-infantil.md`.
+
+## 🧒 Núcleo infantil (padrão)
+
+### 🌟 O que você precisa
+
+- 1 dado de seis lados (D6)
+- papel e lápis
+- imaginação ✨
+
+### 🧙 Personagem (bem simples)
+
+Cada herói tem:
+
+- ❤️ **Vida**: 3 corações
+- 🛡️ **Armadura**: 0 a 4 escudos (🟦)
+- 🗡 **Arma**: 1 (faz algo especial no 6)
+- ✨ **Poder especial**: 1 frase
+- 🐾 **Pet** (opcional): ajuda de vez em quando
+
+Nada de contas ou tabelas.
+
+### 🎲 A regra principal (vale para tudo)
+
+Sempre que fizer algo arriscado ou importante:
+
+👉 **Role 1D6**
+
+| Resultado | O que acontece |
+|---|---|
+| **6** | Você consegue **e algo muito legal acontece** |
+| **4–5** | Você consegue |
+| **2–3** | Você não consegue completamente (perde tempo, erra, ou sofre consequência) |
+| **1** | Algo dá errado ou engraçado acontece |
+
+### 🧩 Ajuda e atrapalho (opcional, mas fácil)
+
+Quando estiver muito fácil ou muito difícil:
+
+- **Ajuda**: role **2D6** e pegue o **melhor**
+- **Atrapalho**: role **2D6** e pegue o **pior**
+
+Use isso no lugar de bônus numéricos.
+
+## 💤 Descanso
+
+- **Descanso curto**: recupera **1 vida**
+- **Descanso completo**: recupera **toda a vida** e recupera **Armadura Arcana** (se tiver)
+
+## 🎁 Evolução (recompensas)
+
+Ao final de **cada aventura**, escolha **1 recompensa**:
+
+- 🗡 arma nova
+- 🛡️ armadura melhor
+- 🐾 pet
+- ✨ poder especial (1 frase)
+- ❤️ +1 vida (máximo 5)
+
+## 🎯 Filosofia do sistema
+
+- Rápido
+- Cinematográfico
+- Decisões visíveis
+- Fácil para criança
+- Profundo para adulto
+
+## ⚙️ Modo heroico (opcional — com atributos)
+
+Se você quiser uma versão mais “tradicional”, use atributos como um módulo opcional.
+
+### 📊 Atributos
 
 Todo personagem tem 4 atributos:
 
@@ -11,7 +82,7 @@ Todo personagem tem 4 atributos:
 - 🧠 **Mente**
 - ❤️ **Espírito**
 
-## 🎯 Criação de personagem
+### 🎯 Criação de personagem
 
 Distribua **8D6** entre os atributos.
 
@@ -20,84 +91,15 @@ Regras:
 - Mínimo **1D6** por atributo
 - Máximo **4D6** por atributo
 
-Exemplos válidos:
+Exemplos:
 
 - 4 / 2 / 1 / 1
 - 3 / 3 / 1 / 1
 - 2 / 2 / 2 / 2
 
-## 🎲 Como rolar (núcleo do sistema)
+### 🎲 Rolagem (modo heroico)
 
 1. Escolha o atributo apropriado.
 2. Role todos os D6 daquele atributo.
-3. Use **apenas o melhor resultado**.
+3. Use **apenas o melhor resultado** (mesma tabela do núcleo).
 
-> Regra principal (modo infantil): **toda rolagem funciona igual** e o **6 sempre faz algo legal**.
-
-| Melhor dado | Efeito |
-|---|---|
-| 6 | Deu certo **e algo legal acontece** |
-| 4–5 | Deu certo |
-| 2–3 | Não deu certo (você perde tempo, erra, ou sofre consequência) |
-| 1 | Não deu certo **e algo engraçado dá errado** |
-
-## 🧒 Modo infantil (recomendado)
-
-Para jogar com crianças, priorize escolhas visíveis:
-
-- 🗡 arma nova
-- 🛡 armadura melhor (marcas na folha)
-- 🐾 pet
-- ✨ poder especial (1 frase)
-
-Evite ficar dando bônus abstratos o tempo todo.
-
-## ⚙️ Bônus simples (opcional)
-
-Se você quiser usar bônus/penalidades:
-
-- **+1D6 / -1D6**: role **1 dado a mais ou a menos** naquele teste (mínimo 1D6)
-
-## ⚔ Vantagem narrativa
-
-Em situações muito favoráveis, o mestre pode permitir **+1D6 temporário** na rolagem.
-
-Regras:
-
-- Nunca acumula
-- Nunca vira bônus permanente
-
-Exemplos:
-
-- Atacando pelas costas
-- Alvo preso
-- Inimigo distraído
-
-## 💤 Descanso
-
-- **Descanso curto**: recupera **1 vida**
-- **Descanso completo**: recupera **toda a vida** e a **Armadura Arcana**
-
-Armadura física precisa de reparo na cidade (ver `equipamentos.md`).
-
-## 📈 Evolução
-
-Ao final de **cada aventura**, escolha **1 recompensa**:
-
-- 🗡 arma nova
-- 🛡 armadura melhor
-- 🐾 pet
-- ✨ poder especial (1 frase)
-- ❤️ +1 vida
-
-(Se quiser um modo mais “tradicional”: em vez de recompensa, +1D6 em um atributo, máximo **5D6**.)
-
-## 🎯 Filosofia do sistema
-
-- Rápido
-- Cinematográfico
-- Baixa matemática
-- Decisões reais
-- Totalmente player-facing
-- Fácil para criança
-- Profundo para adulto

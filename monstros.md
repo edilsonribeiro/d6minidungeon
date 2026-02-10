@@ -17,6 +17,13 @@ Em vez de “números”, dê ao monstro **um truque visível**:
 
 Na prática: no turno do monstro, escolha **1** dessas coisas e peça a rolagem de defesa do jogador.
 
+Resultados rápidos na defesa (resumo):
+
+- **6**: evita e faz algo legal
+- **4–5**: evita
+- **2–3**: toma 1 dano
+- **1**: toma 2 dano e algo dá errado
+
 ## ❤️ Vida por tipo
 
 - **Goblin**: 2 vida

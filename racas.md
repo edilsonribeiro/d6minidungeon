@@ -1,6 +1,6 @@
-# 🌍 Raças
+# 🌍 Raças (modo infantil)
 
-No modo infantil, raças viram **truques visíveis**, não bônus abstratos.
+Raças viram **truques visíveis**, não bônus abstratos.
 
 Regra: **1 vez por cena**, você pode usar o truque da sua raça para “virar a história”.
 

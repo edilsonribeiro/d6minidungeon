@@ -1,6 +1,6 @@
 # 🧰 Equipamentos
 
-## 🛡 Armadura (escudo visual)
+## 🛡️ Armadura (escudo visual)
 
 Armadura possui **marcas** (você pode desenhar na ficha e ir apagando).
 
@@ -8,11 +8,13 @@ Quando você **sofreria dano**, pode apagar **1 marca** para **ignorar todo o da
 
 Quando as marcas acabam, a armadura fica **quebrada**.
 
-### 🛡 Tipos de armadura
+### 🛡️ Tipos de armadura
 
 - **Armadura fraca**: 🟦🟦 (2 marcas)
 - **Armadura média**: 🟦🟦🟦 (3 marcas)
 - **Armadura forte**: 🟦🟦🟦🟦 (4 marcas)
+
+> Dica infantil: desenhe os escudos na ficha e vá apagando. Isso é mais fácil de lembrar do que “cargas”.
 
 ## 🔮 Armadura Arcana (Mago)
 
@@ -22,6 +24,11 @@ Quando as marcas acabam, a armadura fica **quebrada**.
 - Não precisa de conserto
 
 ## ⚔ Armas (efeito no 6)
+
+No núcleo infantil, a regra é:
+
+- **4–5**: acerta e causa **1 dano**
+- **6**: acerta e causa **2 dano** + ativa o efeito da arma
 
 ### ⚔ Guerreiro
 

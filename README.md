@@ -9,7 +9,7 @@ Este repositório está organizado por módulos em arquivos `.md`.
 - Árvore de recompensas: `arvore-de-recompensas.md`
 - Fichas prontas: `fichas/infantil/README.md`
 - Regras por tema:
-  - `racas.md`
+  - `classes.md`
   - `classes.md`
   - `equipamentos.md`
   - `combate.md`

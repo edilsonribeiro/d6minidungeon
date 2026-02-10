@@ -53,6 +53,7 @@ Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer a
 Para crianças menores (ou mesas bem rápidas), use este atalho:
 
 - Se tirou **6**, acontece **o extra** (arma, magia, pet, truque da raça, etc.).
+ - Se tirou **6**, acontece **o extra** (arma, magia, pet, etc.).
 - Se não tirou 6, acontece só o **básico** do resultado.
 
 Isso reduz muito a quantidade de “gatilhos diferentes” para lembrar.

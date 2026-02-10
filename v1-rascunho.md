@@ -202,16 +202,6 @@ Escudo Divino → 6 próximo dano vira 0
 Cura → 4–5 cura 1 / 6 cura 2
 Palavra de Comando → 6 inimigo perde ação
 
----
-
-# 🌍 RAÇAS (Fora de Combate)
-
-Concede +1D6 em testes narrativos específicos.
-
-🧔 Anão → +1D6 Força
-🧝 Elfo → +1D6 Mente
-😈 Tiefling → +1D6 Espírito
-🧑 Humano → +1D6 em um atributo escolhido
 
 ---
 

@@ -20,7 +20,7 @@ Sempre que fizer algo arriscado ou importante:
 Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
 
 | Recurso | Uso padrão ofensivo | Uso padrão defensivo | Conceito |
-|---|---|---|
+|---|---|---|---|
 | ❤️ **Vida** | ataque físico | “dano real” (quando tudo falha) | corpo, força, fôlego |
 | 🛡️ **Defesa (Esquiva)** | — | desviar / bloquear ameaças físicas | reflexo, agilidade |
 | 🟣 **Alma** | milagres / influência | resistir efeitos espirituais/mentais | vontade, fé, espírito |
@@ -41,12 +41,23 @@ Distribuição por classe (total **10 pontos**, na ordem **Vida – Defesa – A
 - ✝️ **Curandeiro**: ❤️ 2 / 🛡️ 1 / 🟣 4 / 🔵 3
 - 🔥 **Mago**: ❤️ 1 / 🛡️ 2 / 🟣 3 / 🔵 4
 
+## 🧩 Ações universais de gasto (qualquer classe)
+
+Todo mundo pode gastar qualquer recurso, com estes usos **básicos**:
+
+- ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
+- 🛡️ **Esquiva total**: antes de rolar uma defesa física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
+- 🟣 **Resistência interior**: quando receber um efeito espiritual/mental (medo, controle, confusão, drenagem), gaste **🟣1** → ignore esse efeito.
+  - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (do Curandeiro) ou coisa de **item/ritual**.
+- 🔵 **Truque arcano**: gaste **🔵1** → produza um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
+  - Em combate, isso pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
+
 ## 🎭 Identidade de classe (como “quebrar as regras”)
 
-Todo mundo usa os mesmos 4 recursos, mas cada classe é “melhor” em gastar **um** deles para fazer coisas além do básico:
+Além das **ações universais** acima, cada classe domina um recurso para fazer coisas que os outros não fazem bem:
 
 - ⚔ **Guerreiro (❤️ dominante)**: transforma dor/fôlego em poder.
-  - gaste **❤️1**: seu ataque físico causa **+1 dano**
+  - gaste **❤️1**: seu ataque físico causa **+1 dano** (ação universal; o Guerreiro aguenta fazer isso mais vezes)
   - gaste **❤️1**: você age mesmo ferido (ignore 1 condição **Tonto** por 1 turno)
 - 🏹 **Patrulheiro (🛡️ dominante)**: transforma movimento em ataque.
   - gaste **🛡️1**: ataque e depois saia sem risco (recuo/movimento livre)
@@ -55,8 +66,17 @@ Todo mundo usa os mesmos 4 recursos, mas cada classe é “melhor” em gastar *
   - gaste **🟣1**: um aliado recupera **+1 ❤️ Vida** (no 6, **+2**)
   - gaste **🟣1**: remova **1 condição** (Caído/Tonto/Preso)
 - 🔥 **Mago (🔵 dominante)**: transforma energia arcana em magia.
-  - gaste **🔵1**: ataque arcano ou crie um efeito mágico (empurrar/prender/proteger etc.)
+  - gaste **🔵1**: magia arcana de verdade (dano normal do sistema)
   - gaste **🔵1**: explosão/área pequena (efeito forte)
+
+Tabela rápida:
+
+| Recurso | Todos podem gastar para… | A classe domina para… |
+|---|---|---|
+| ❤️ Vida | +1 dano físico | trocas brutais (Guerreiro) |
+| 🛡️ Defesa/Esquiva | anular 1 ataque físico (auto 4–5) | ataques/movimento extra (Patrulheiro) |
+| 🟣 Alma | ignorar 1 efeito mental/espiritual | curar/purificar (Curandeiro) |
+| 🔵 Mana | truque arcano simples | magia poderosa (Mago) |
 
 Lista de técnicas/milagres/magias por classe:
 
@@ -69,8 +89,10 @@ Lista de técnicas/milagres/magias por classe:
 1) Escolha o **tipo** do seu ataque:
 
 - **Físico** (arma, soco, chute) → usa ❤️ **Vida**
-- **Arcano** (feitiço bruto) → usa 🔵 **Mana**
-- **Espiritual/mental** (milagre, medo, influência) → usa 🟣 **Alma**
+- **Arcano**
+  - **Truque arcano (qualquer classe)**: gaste **🔵1** → dano máximo **1**
+  - **Magia arcana (Mago / habilidade)**: gaste **🔵1** (ou custo indicado) → dano normal do sistema
+- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade (ex.: Curandeiro). Gaste **🟣1**.
 
 2) Role **1D6** e aplique no **recurso do alvo**:
 
@@ -85,6 +107,8 @@ Lista de técnicas/milagres/magias por classe:
   - causa **0 de dano** (você não se expõe)
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
 
+Se o ataque arcano foi um **Truque arcano**, o dano máximo é **1** (mesmo no **6**).
+
 ### 🛡️️️ Quando um inimigo te ataca
 
 Você **rola o dado**, não o monstro:
@@ -98,6 +122,8 @@ O mestre diz qual é o tipo do ataque (físico / arcano / espiritual-mental). A 
   - arcano → 🔵 **Mana** (se estiver 0, vai para ❤️ **Vida**)
   - espiritual/mental → 🟣 **Alma** (se estiver 0, vai para ❤️ **Vida**)
 - **1**: você sofre **2 de dano** (e o monstro pode impor uma condição se tiver esse “truque”)
+
+Lembrete: antes de uma defesa física, você pode gastar **🛡️1** para resistir automaticamente (ação universal).
 
 ## 🛡️️️ Armadura (escudo visual)
 

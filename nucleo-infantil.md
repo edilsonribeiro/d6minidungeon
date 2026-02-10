@@ -88,8 +88,12 @@ Use isso no lugar de bônus numéricos.
 Escolha o tipo do ataque e role **1D6**:
 
 - **Físico** → dano vai para 🛡️ **Defesa** do alvo (se estiver em 0, vai para ❤️ **Vida**)
-- **Arcano** → dano vai para 🔵 **Mana** do alvo (se estiver em 0, vai para ❤️ **Vida**)
-- **Espiritual/mental** → dano vai para 🟣 **Alma** do alvo (se estiver em 0, vai para ❤️ **Vida**)
+- **Arcano**
+  - **Truque arcano (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
+  - **Magia arcana (Mago / habilidade)**: gaste **🔵1** → dano normal do sistema
+- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade (ex.: Curandeiro). Gaste **🟣1**.
+
+Efeitos espirituais/mentais (medo, controle, drenagem) atingem 🟣 **Alma**.
 
 Resultados:
 
@@ -99,6 +103,8 @@ Resultados:
   - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵/🟣)
   - causa **0 de dano**
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque
+
+Lembrete: se foi **Truque arcano**, o dano máximo é **1** (mesmo no 6).
 
 ### 🛡️️️ Quando um inimigo te ataca
 
@@ -143,7 +149,9 @@ Cada herói tem magias (frases curtas).
 
 Para usar uma magia:
 
-- gaste **1 🔵 Mana** e descreva o efeito
+- gaste **1 ponto** do recurso da magia e descreva o efeito
+  - 🔵 Mana: truques/magias arcanas
+  - 🟣 Alma: milagres (ex.: cura é coisa de Curandeiro)
 
 Exemplos de magia:
 

@@ -73,6 +73,10 @@ Magia = **1 frase simples**.
 
 Para usar uma magia/habilidade, gaste **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
 
+Regra importante:
+
+- Curar ❤️ **Vida** é **milagre** e, por padrão, é coisa do **Curandeiro** (ou de item/ritual).
+
 Escolha um (ou invente um parecido):
 
 ### ⚔ Guerreiro

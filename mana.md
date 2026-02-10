@@ -33,10 +33,17 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
 ## 🔵 Mana (como funciona agora)
 
 - Mana é um **recurso** (não é mais “por aventura” separado do resto).
-- Magias arcanas gastam **🔵 1** por uso (ou o custo indicado).
+- Qualquer personagem pode gastar Mana para um **Truque arcano** (efeito simples).
+- Magias arcanas “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
 - Se sua Mana chegar a **0**:
   - você não consegue usar magia arcana
   - você não consegue resistir magia arcana (o impacto vai para ❤️ Vida)
+
+## ✨ Truque arcano (qualquer classe)
+
+> Gaste **🔵1**: faça um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
+
+Em combate, isso pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
 
 ## 🟣 Alma vs 🔵 Mana (explicação direta)
 

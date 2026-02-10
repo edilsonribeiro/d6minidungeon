@@ -27,7 +27,6 @@
 │ ✨ MILAGRES (custa 🟣1)         │
 │ ✨ Cura (+1 ❤️ / no 6, +2)      │
 │ 🛡️ Proteção (🟢 Protegido)      │
-│ 🎲 Milagre (Destino: 2D6)      │
 │                               │
 │ 🐾 PET (opcional)             │
 │ Pomba / Cervo / Gato          │

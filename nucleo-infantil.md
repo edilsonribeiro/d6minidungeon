@@ -80,6 +80,9 @@ Use isso no lugar de bônus numéricos.
 - Recursos **não regeneram durante o combate**.
 - Recuperam apenas em **descanso completo**.
 - Se um recurso chega a **0**, ele **não pode mais ser usado**.
+- Ações universais:
+  - 🟣 **Destino**: gaste **🟣1** para dar **Ajuda** ou **Atrapalho** em uma rolagem (2D6 melhor/pior).
+  - 🔵 **Truque arcano**: gaste **🔵1** para um efeito mágico simples (ou dano arcano máximo **1**).
 
 ## ⚔ Combate (sem complicação)
 

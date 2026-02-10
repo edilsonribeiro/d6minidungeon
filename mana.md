@@ -33,7 +33,8 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
 ## 🔵 Mana (como funciona agora)
 
 - Mana é um **recurso** (não é mais “por aventura” separado do resto).
-- Qualquer personagem pode gastar Mana para um **Truque arcano** (efeito simples).
+- Mana é **energia arcana bruta**: contato com o arcano sem especialização.
+- Qualquer personagem pode gastar Mana para um **Truque arcano** (efeito simples e imediato).
 - Magias arcanas “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
 - Se sua Mana chegar a **0**:
   - você não consegue usar magia arcana
@@ -43,7 +44,24 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
 
 > Gaste **🔵1**: faça um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
 
+Exemplos (simples e imediatos):
+
+- criar luz por um momento
+- criar um som/estalo/eco
+- apagar uma chama pequena
+- travar/destravar algo simples
+- marcar um alvo (brilho/cheiro mágico)
+
+Limites (para não virar Mago):
+
+- não causa dano em **área**
+- não aplica **condição forte**
+- não **cura** ❤️ Vida
+- não dura mais do que **um instante**
+
 Em combate, isso pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
+
+> Regra curta: 🔵 Mana é “magia sem especialização”. Todo mundo pode usar; o **Mago** é quem domina.
 
 ## 🟣 Alma vs 🔵 Mana (explicação direta)
 
@@ -61,12 +79,12 @@ Em termos simples (pra criança):
 - 🟣 **Alma** = “força do coração”
 - 🔵 **Mana** = “bateria da magia”
 
-## ✝️ Milagre (Curandeiro) — Alma como destino
+## 🟣 Destino (Alma) — mudar a rolagem
 
-O Curandeiro pode gastar Alma para mexer na **rolagem**, não no dano:
+Qualquer personagem pode gastar Alma para mexer na **rolagem**, não no dano:
 
 > **Gaste 🟣1:** dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem.  
-> Declare antes do dado; vale só para 1 rolagem. Um personagem não recebe mais de 1 Milagre na mesma rolagem.
+> Declare antes do dado; vale só para 1 rolagem. Um personagem não recebe mais de 1 Destino na mesma rolagem.
 
 ## 🎁 Itens de recuperação (opcional)
 

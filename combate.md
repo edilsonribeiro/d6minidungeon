@@ -47,7 +47,8 @@ Todo mundo pode gastar qualquer recurso, com estes usos **básicos**:
 
 - ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
 - 🛡️ **Esquiva total**: antes de rolar uma defesa física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
-- 🟣 **Resistência interior**: quando receber um efeito espiritual/mental (medo, controle, confusão, drenagem), gaste **🟣1** → ignore esse efeito.
+- 🟣 **Destino (Alma)**: gaste **🟣1** → dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem (declare antes; vale só para 1 rolagem).
+  - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem.
   - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (do Curandeiro) ou coisa de **item/ritual**.
 - 🔵 **Truque arcano**: gaste **🔵1** → produza um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
   - Em combate, isso pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
@@ -65,7 +66,6 @@ Além das **ações universais** acima, cada classe domina um recurso para fazer
 - ✝️ **Curandeiro (🟣 dominante)**: transforma vontade em milagre.
   - gaste **🟣1**: um aliado recupera **+1 ❤️ Vida** (no 6, **+2**)
   - gaste **🟣1**: remova **1 condição** (Caído/Tonto/Preso)
-  - gaste **🟣1 (Milagre)**: dê **Ajuda (Vantagem)** a uma rolagem **OU** dê **Atrapalho (Desvantagem)** a uma rolagem (declare antes; vale só para 1 rolagem)
 - 🔥 **Mago (🔵 dominante)**: transforma energia arcana em magia.
   - gaste **🔵1**: magia arcana de verdade (dano normal do sistema)
   - gaste **🔵1**: explosão/área pequena (efeito forte)
@@ -76,16 +76,16 @@ Tabela rápida:
 |---|---|---|
 | ❤️ Vida | +1 dano físico | trocas brutais (Guerreiro) |
 | 🛡️ Defesa/Esquiva | anular 1 ataque físico (auto 4–5) | ataques/movimento extra (Patrulheiro) |
-| 🟣 Alma | ignorar 1 efeito mental/espiritual | curar/purificar (Curandeiro) |
+| 🟣 Alma | mudar o destino (Ajuda/Atrapalho) | curar/purificar (Curandeiro) |
 | 🔵 Mana | truque arcano simples | magia poderosa (Mago) |
 
 Lista de técnicas/milagres/magias por classe:
 
 - `classes.md`
 
-## ✝️ Milagre (Curandeiro) — texto oficial
+## 🟣 Destino (Alma) — texto oficial
 
-> **Milagre (🟣 Alma)**  
+> **Destino (🟣 Alma)**  
 > Ao gastar **🟣1**, você interfere no destino: conceda **Ajuda (Vantagem)** a uma rolagem **ou** imponha **Atrapalho (Desvantagem)** a uma rolagem.  
 > Declare **antes** do dado ser rolado; vale apenas para **aquela rolagem**.
 
@@ -93,7 +93,7 @@ Regras:
 
 - alvo: você, um aliado ou um inimigo **visível**
 - efeito: uma única rolagem
-- limite: um personagem **não pode receber mais de um Milagre na mesma rolagem**
+- limite: um personagem **não pode receber mais de um Destino na mesma rolagem**
 
 ## ⚔ Combate (sem complicação)
 

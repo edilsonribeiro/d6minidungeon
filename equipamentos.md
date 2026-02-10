@@ -30,19 +30,15 @@ No núcleo infantil, a regra é:
 - **4–5**: acerta e causa **1 dano**
 - **6**: acerta e causa **2 dano** + ativa o efeito da arma
 
-### ⚔ Guerreiro
+Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
 
-- **Machado pesado**: no **6**, derruba (**Derrubado**)
-- **Martelo**: no **6**, alvo perde a próxima ação (**Atordoado**)
-- **Espada longa**: no **6**, empurra **ou** desarma (**Desarmado**)
-- **Escudo + espada**: no **6** na **defesa**, causa **1 dano**
+- 🗡 **Espada**: empurra o inimigo para longe (ou abre espaço para um aliado)
+- 🪓 **Machado**: derruba (**Derrubado**)
+- 🔨 **Martelo**: deixa tonto (**Atordoado**)
+- 🏹 **Arco**: acerta de longe (ou atinge um alvo difícil)
+- 🗡 **Lança**: impede de fugir (**Imobilizado**)
 
-### 🏹 Ranger
-
-- **Arco**: no **6**, mover após ataque
-- **Besta**: no **6**, ignora armadura (o alvo não pode apagar marca para reduzir esse dano a 0)
-- **Duas adagas**: no **6**, ataque extra
-- **Lança de arremesso**: no **6**, impede movimento (**Imobilizado**)
+> Se você quiser variedade sem regra extra: mude só o “skin” (espada de cristal, martelo gigante, arco de elfo, etc.).
 
 ## 🐾 Pets (opcional, muito recomendado)
 

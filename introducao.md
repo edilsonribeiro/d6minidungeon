@@ -34,7 +34,7 @@ Sempre que fizer algo arriscado ou importante:
 |---|---|
 | **6** | Você consegue **e algo muito legal acontece** |
 | **4–5** | Você consegue |
-| **2–3** | Você não consegue completamente (perde tempo, erra, ou sofre consequência) |
+| **2–3** | Você não consegue completamente |
 | **1** | Algo dá errado ou engraçado acontece |
 
 ### 🧩 Ajuda e atrapalho (opcional, mas fácil)
@@ -102,4 +102,3 @@ Exemplos:
 1. Escolha o atributo apropriado.
 2. Role todos os D6 daquele atributo.
 3. Use **apenas o melhor resultado** (mesma tabela do núcleo).
-

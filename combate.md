@@ -2,38 +2,44 @@
 
 O combate segue a mesma regra do núcleo: **sempre o jogador rola**.
 
-## 🎲 Regra principal (vale para ataque e defesa)
+## 🎲 A regra principal (vale para tudo)
+
+Sempre que fizer algo arriscado ou importante:
 
 👉 **Role 1D6**
 
 | Resultado | O que acontece |
 |---|---|
-| **6** | Deu certo **e algo legal acontece** |
-| **4–5** | Deu certo |
-| **2–3** | Não deu certo (você sofre a consequência) |
-| **1** | Não deu certo **e algo engraçado dá errado** |
+| **6** | Você consegue **e algo muito legal acontece** |
+| **4–5** | Você consegue |
+| **2–3** | Você não consegue completamente |
+| **1** | Algo dá errado ou engraçado acontece |
 
-## 🗡 Atacar um inimigo
+## ⚔ Combate (sem complicação)
 
-- **6**: causa **2 de dano** e ativa o efeito especial da sua **arma/poder/pet**
+### 🗡 Atacar um inimigo
+
+Role 1D6:
+
+- **6**: causa **2 de dano** e ativa algo legal da sua arma, poder ou pet
 - **4–5**: causa **1 de dano**
-- **2–3**: você erra (ou só assusta/empurra sem vantagem real)
-- **1**: você erra e surge uma complicação (cai, se expõe, perde a arma, etc.)
+- **2–3**: erra ou só empurra/assusta
+- **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
 
-## 🛡️ Quando um inimigo te ataca (player-facing)
+### 🛡️ Quando um inimigo te ataca
 
-Você rola, não o monstro:
+Você **rola o dado**, não o monstro:
 
-- **6**: você evita o dano e pode fazer algo legal (contra-atacar, empurrar, proteger alguém)
-- **4–5**: você evita o dano
+- **6**: você desvia e pode contra-atacar
+- **4–5**: você desvia
 - **2–3**: você sofre **1 de dano**
-- **1**: você sofre **2 de dano** e algo dá errado (escorrega, cai, perde algo)
+- **1**: você sofre **2 de dano** ou algo pior
 
 ## 🛡️ Armadura (escudo visual)
 
-Quando você tomaria dano, pode apagar **1 escudo (🟦)** para **zerar** aquele dano.
-
-Quando acabar, a armadura quebra (ver `equipamentos.md`).
+- armadura tem **escudos desenhados** (🟦)
+- quando tomaria dano, pode apagar **1 escudo** para zerar o dano
+- quando acaba → armadura quebra (ver `equipamentos.md`)
 
 ## 🩸 Vida 0
 
@@ -73,6 +79,8 @@ Quando estiver muito fácil ou muito difícil:
 - **Ajuda**: role **2D6** e pegue o **melhor**
 - **Atrapalho**: role **2D6** e pegue o **pior**
 
+Use isso no lugar de bônus numéricos.
+
 ## 🧎 Condições (simples)
 
 - **Derrubado**: você cai; levantar gasta sua ação; enquanto no chão, não pode se mover
@@ -108,4 +116,3 @@ Se estiver adjacente a inimigo e sair sem usar a ação **Recuar**, o inimigo te
 - **Cobertura**: defesa com **Ajuda** contra ataques à distância
 - **Flanquear**: ataque com **Ajuda** quando dois aliados cercam o inimigo
 - **Terreno difícil**: alguns quadrados custam **2** de movimento para entrar
-

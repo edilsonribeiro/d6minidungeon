@@ -1,4 +1,4 @@
-# 🎲 RPG D6 Heroico — Núcleo Infantil (1 página)
+# 🎲 RPG D6 Heroico — Núcleo Infantil (4 recursos)
 
 Pensado para:
 
@@ -18,14 +18,16 @@ Pensado para:
 
 Cada herói tem:
 
-- ❤️ **Vida**: **2 corações**
-- 🛡️️️ **Armadura**: 0 a 4 escudos (🟦)
-- 🔵 **Mana**: bolinhas (🔵) para usar magias
+- ❤️ **Vida** (0–4)
+- 🛡️ **Defesa** (0–4)
+- 🟣 **Alma** (0–4)
+- 🔵 **Mana** (0–4)
+- 🟦 **Armadura** (opcional, equipamento com escudos que você apaga)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
-- ✨ **Magias**: frases curtas (cada uso custa **1 Mana**)
+- ✨ **Habilidades de classe** (cada uso gasta **1 ponto** do recurso indicado)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
-Nada de atributos, contas ou tabelas.
+Detalhes de classe e valores iniciais: `classes.md`.
 
 Fichas prontas para imprimir: `fichas/infantil/README.md`.
 
@@ -72,49 +74,53 @@ Quando estiver muito fácil ou muito difícil:
 
 Use isso no lugar de bônus numéricos.
 
-## 🔵 Mana (sem spam)
+## 🧩 Recursos (regras fixas)
 
-- Toda magia especial de classe custa **1 Mana**.
-- Para usar, apague **1 🔵**.
-- Mana é **por aventura** (não volta no meio do combate).
-- Regra importante: você pode gastar **no máximo 1 Mana por cena**.
-- **Descanso completo** recupera toda a Mana.
-
-Detalhes e lista de magias por classe: `mana.md`.
+- Toda habilidade especial custa **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
+- Recursos **não regeneram durante o combate**.
+- Recuperam apenas em **descanso completo**.
+- Se um recurso chega a **0**, ele **não pode mais ser usado**.
 
 ## ⚔ Combate (sem complicação)
 
 ### 🗡 Atacar um inimigo
 
-Role 1D6:
+Escolha o tipo do ataque e role **1D6**:
 
-- **6**: causa **2 de dano** e ativa algo legal da sua arma, magia (gastando **1 Mana**) ou pet
+- **Físico** → dano vai para 🛡️ **Defesa** do alvo (se estiver em 0, vai para ❤️ **Vida**)
+- **Arcano** → dano vai para 🔵 **Mana** do alvo (se estiver em 0, vai para ❤️ **Vida**)
+- **Espiritual/mental** → dano vai para 🟣 **Alma** do alvo (se estiver em 0, vai para ❤️ **Vida**)
+
+Resultados:
+
+- **6**: causa **2 de dano** (e sua arma/pet pode ativar algo legal)
 - **4–5**: causa **1 de dano**
-- **2–3**: erra ou só empurra/assusta
-- **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
+- **2–3**: escolha 1:
+  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵/🟣)
+  - causa **0 de dano**
+- **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque
 
 ### 🛡️️️ Quando um inimigo te ataca
 
 Você **rola o dado**, não o monstro:
 
-- **6**: você desvia e pode contra-atacar
-- **4–5**: você desvia
-- **2–3**: você sofre **1 de dano**
-- **1**: você sofre **2 de dano** ou algo pior
+- **6**: você resiste e pode contra-atacar
+- **4–5**: você resiste
+- **2–3**: você sofre **1 de dano** (no recurso do tipo do ataque; se ele estiver em 0, vai para ❤️ Vida)
+- **1**: você sofre **2 de dano** (e o monstro pode impor uma condição)
 
-## ❤️ Vida e Armadura
+## 🩸 Vida 0 e Armadura
 
-### ❤️ Vida
+### ❤️ Vida 0
 
-- todo herói começa com **2 corações**
-- perdeu todos → cai no chão
+- chegou a **0** → cai no chão
 - um amigo pode ajudar
 - crianças **não morrem**: só desmaiam
 
 ### 🛡️️️ Armadura (escudo visual)
 
 - armadura tem **escudos desenhados** (🟦)
-- quando tomaria dano, pode apagar **1 escudo** para zerar o dano
+- quando tomaria **dano físico**, pode apagar **1 escudo** para zerar aquele dano
 - quando acaba → armadura quebra
 
 Exemplo: 🟦🟦🟦 → 🟦🟦 → 🟦 → quebrada
@@ -137,7 +143,7 @@ Cada herói tem magias (frases curtas).
 
 Para usar uma magia:
 
-- gaste **1 Mana (🔵)** e descreva o efeito
+- gaste **1 🔵 Mana** e descreva o efeito
 
 Exemplos de magia:
 
@@ -208,5 +214,5 @@ Pergunta mais importante do jogo:
 
 👉 **“O que você quer fazer?”**
 
-## 🔵 Mana (detalhes)
+## 🧩 Recursos (detalhes)
 Veja: `mana.md`

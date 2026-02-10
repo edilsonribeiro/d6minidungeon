@@ -120,9 +120,25 @@
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">❤️ Vida</div>
-                  <div class="card__hint">comece com 2</div>
+                  <div class="card__hint">marque conforme classe</div>
                 </div>
-                <div class="token-row" data-kind="hp" data-max="2" data-start="2"></div>
+                <div class="token-row" data-kind="hp" data-max="4" data-start="0"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️ Defesa</div>
+                  <div class="card__hint">marque conforme classe</div>
+                </div>
+                <div class="token-row" data-kind="defense" data-max="4" data-start="0"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🟣 Alma</div>
+                  <div class="card__hint">marque conforme classe</div>
+                </div>
+                <div class="token-row" data-kind="soul" data-max="4" data-start="0"></div>
               </div>
 
               <div class="card">
@@ -131,7 +147,7 @@
                   <div class="card__hint">0 a 🟦🟦🟦🟦</div>
                 </div>
                 <div class="token-row" data-kind="armor" data-max="4" data-start="0"></div>
-                <div class="card__note">Quando tomaria dano, apague 1 🟦 para zerar.</div>
+                <div class="card__note">Quando tomaria dano físico, apague 1 🟦 para zerar.</div>
               </div>
 
               <div class="card">
@@ -140,7 +156,7 @@
                   <div class="card__hint">marque conforme classe</div>
                 </div>
                 <div class="token-row" data-kind="mana" data-max="4" data-start="0"></div>
-                <div class="card__note">Apague 1 🔵 para usar uma magia.</div>
+                <div class="card__note">Gaste 1 🔵 para lançar magia arcana.</div>
               </div>
 
               <div class="card">
@@ -196,14 +212,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Magias</div>
-                  <div class="card__hint">cada uso custa 1 🔵</div>
+                  <div class="card__title">✨ Habilidades</div>
+                  <div class="card__hint">cada uso custa 1 ponto</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  placeholder="Escreva frases curtas (ex.: Cura / Proteção / Empurrão de vento)..."
+                  placeholder="Escreva frases curtas (ex.: Cura / Proteção / Disparo preciso)..."
                 ></textarea>
               </div>
 
@@ -244,8 +260,7 @@
             </div>
 
             <div class="mini" aria-label="Resumo">
-              <div class="mini__line">❤️ Vida inicial: <strong>4</strong></div>
-              <div class="mini__line">🛡️️️ Armadura inicial: <strong>🟦🟦🟦</strong></div>
+              <div class="mini__line">🧩 Recursos: <strong>❤️4 🛡️2 🟣2 🔵1</strong></div>
               <div class="mini__line">🗡️ Arma: Espada / Machado / Martelo</div>
             </div>
           </div>
@@ -266,17 +281,34 @@
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">❤️ Vida</div>
+                  <div class="card__hint">comece com 4</div>
+                </div>
+                <div class="token-row" data-kind="hp" data-max="4" data-start="4"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️ Defesa</div>
                   <div class="card__hint">comece com 2</div>
                 </div>
-                <div class="token-row" data-kind="hp" data-max="2" data-start="2"></div>
+                <div class="token-row" data-kind="defense" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🟣 Alma</div>
+                  <div class="card__hint">comece com 2</div>
+                </div>
+                <div class="token-row" data-kind="soul" data-max="4" data-start="2"></div>
               </div>
 
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">🛡️️️ Armadura</div>
-                  <div class="card__hint">comece com 🟦🟦🟦🟦</div>
+                  <div class="card__hint">opcional • 0 a 🟦🟦🟦🟦</div>
                 </div>
-                <div class="token-row" data-kind="armor" data-max="4" data-start="4"></div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="0"></div>
+                <div class="card__note">Quando tomaria dano físico, apague 1 🟦 para zerar.</div>
               </div>
 
               <div class="card">
@@ -285,7 +317,7 @@
                   <div class="card__hint">comece com 1</div>
                 </div>
                 <div class="token-row" data-kind="mana" data-max="4" data-start="1"></div>
-                <div class="card__note">Apague 1 🔵 para usar uma magia.</div>
+                <div class="card__note">Gaste 1 🔵 para lançar magia arcana.</div>
               </div>
 
               <div class="card">
@@ -349,14 +381,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Magias</div>
-                  <div class="card__hint">escolha 1 • custa 1 🔵</div>
+                  <div class="card__title">✨ Técnicas</div>
+                  <div class="card__hint">escolha 2 • custa 1 ponto</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="Escolha 1: Protetor / Resistente / Golpe poderoso."
+                  data-default="Escolha 2: Protetor (🛡️1) / Resistente (🛡️1) / Golpe poderoso (❤️1)."
                 ></textarea>
               </div>
 
@@ -401,8 +433,7 @@
             </div>
 
             <div class="mini" aria-label="Resumo">
-              <div class="mini__line">❤️ Vida inicial: <strong>3</strong></div>
-              <div class="mini__line">🛡️️️ Armadura inicial: <strong>🟦🟦</strong></div>
+              <div class="mini__line">🧩 Recursos: <strong>❤️2 🛡️4 🟣2 🔵1</strong></div>
               <div class="mini__line">🗡️ Arma: Arco / Duas adagas / Lança</div>
             </div>
           </div>
@@ -425,23 +456,41 @@
                   <div class="card__title">❤️ Vida</div>
                   <div class="card__hint">comece com 2</div>
                 </div>
-                <div class="token-row" data-kind="hp" data-max="2" data-start="2"></div>
+                <div class="token-row" data-kind="hp" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️ Defesa</div>
+                  <div class="card__hint">comece com 4</div>
+                </div>
+                <div class="token-row" data-kind="defense" data-max="4" data-start="4"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🟣 Alma</div>
+                  <div class="card__hint">comece com 2</div>
+                </div>
+                <div class="token-row" data-kind="soul" data-max="4" data-start="2"></div>
               </div>
 
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">🛡️️️ Armadura</div>
-                  <div class="card__hint">comece com 🟦🟦🟦</div>
+                  <div class="card__hint">opcional • 0 a 🟦🟦🟦🟦</div>
                 </div>
-                <div class="token-row" data-kind="armor" data-max="4" data-start="3"></div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="0"></div>
+                <div class="card__note">Quando tomaria dano físico, apague 1 🟦 para zerar.</div>
               </div>
 
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">🔵 Mana</div>
-                  <div class="card__hint">comece com 2</div>
+                  <div class="card__hint">comece com 1</div>
                 </div>
-                <div class="token-row" data-kind="mana" data-max="4" data-start="2"></div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="1"></div>
+                <div class="card__note">Gaste 1 🔵 para lançar magia arcana.</div>
               </div>
 
               <div class="card">
@@ -500,14 +549,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Magias</div>
-                  <div class="card__hint">escolha 2 • custa 1 🔵</div>
+                  <div class="card__title">✨ Técnicas</div>
+                  <div class="card__hint">escolha 2 • custa 🛡️1</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="Escolha 2: Disparo preciso / Movimento fantasma / Olhos do caçador."
+                  data-default="Escolha 2: Disparo preciso / Movimento fantasma / Olhos do caçador (cada uso custa 🛡️1)."
                 ></textarea>
               </div>
 
@@ -557,8 +606,7 @@
             </div>
 
             <div class="mini" aria-label="Resumo">
-              <div class="mini__line">❤️ Vida inicial: <strong>2</strong></div>
-              <div class="mini__line">🛡️️️ Armadura inicial: <strong>🟦🟦</strong> (mágica)</div>
+              <div class="mini__line">🧩 Recursos: <strong>❤️2 🛡️1 🟣2 🔵4</strong></div>
               <div class="mini__line">🗡️ Foco: Cajado / Varinha / Livro</div>
             </div>
           </div>
@@ -581,7 +629,23 @@
                   <div class="card__title">❤️ Vida</div>
                   <div class="card__hint">comece com 2</div>
                 </div>
-                <div class="token-row" data-kind="hp" data-max="2" data-start="2"></div>
+                <div class="token-row" data-kind="hp" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️ Defesa</div>
+                  <div class="card__hint">comece com 1</div>
+                </div>
+                <div class="token-row" data-kind="defense" data-max="4" data-start="1"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🟣 Alma</div>
+                  <div class="card__hint">comece com 2</div>
+                </div>
+                <div class="token-row" data-kind="soul" data-max="4" data-start="2"></div>
               </div>
 
               <div class="card">
@@ -590,7 +654,7 @@
                   <div class="card__hint">comece com 🟦</div>
                 </div>
                 <div class="token-row" data-kind="armor" data-max="4" data-start="1"></div>
-                <div class="card__note">Recupera no descanso completo.</div>
+                <div class="card__note">Cancela 1 dano arcano • recupera no descanso completo.</div>
               </div>
 
               <div class="card">
@@ -599,6 +663,7 @@
                   <div class="card__hint">comece com 4</div>
                 </div>
                 <div class="token-row" data-kind="mana" data-max="4" data-start="4"></div>
+                <div class="card__note">Gaste 1 🔵 para lançar magia arcana.</div>
               </div>
 
               <div class="card">
@@ -661,13 +726,13 @@
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">✨ Magias</div>
-                  <div class="card__hint">custa 1 🔵</div>
+                  <div class="card__hint">escolha 2 • custa 🔵1</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="Magia elemental / Efeito elemental / Explosão arcana / Escudo arcano."
+                  data-default="Escolha 2: Magia elemental / Efeito elemental / Explosão arcana / Escudo arcano."
                 ></textarea>
               </div>
 
@@ -717,8 +782,7 @@
             </div>
 
             <div class="mini" aria-label="Resumo">
-              <div class="mini__line">❤️ Vida inicial: <strong>3</strong></div>
-              <div class="mini__line">🛡️️️ Armadura inicial: <strong>🟦🟦</strong></div>
+              <div class="mini__line">🧩 Recursos: <strong>❤️2 🛡️2 🟣4 🔵1</strong></div>
               <div class="mini__line">🗡️ Foco: Cajado / Símbolo / Maça</div>
             </div>
           </div>
@@ -741,23 +805,41 @@
                   <div class="card__title">❤️ Vida</div>
                   <div class="card__hint">comece com 2</div>
                 </div>
-                <div class="token-row" data-kind="hp" data-max="2" data-start="2"></div>
+                <div class="token-row" data-kind="hp" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🛡️ Defesa</div>
+                  <div class="card__hint">comece com 2</div>
+                </div>
+                <div class="token-row" data-kind="defense" data-max="4" data-start="2"></div>
+              </div>
+
+              <div class="card">
+                <div class="card__head">
+                  <div class="card__title">🟣 Alma</div>
+                  <div class="card__hint">comece com 4</div>
+                </div>
+                <div class="token-row" data-kind="soul" data-max="4" data-start="4"></div>
               </div>
 
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">🛡️️️ Armadura</div>
-                  <div class="card__hint">comece com 🟦🟦</div>
+                  <div class="card__hint">opcional • 0 a 🟦🟦🟦🟦</div>
                 </div>
-                <div class="token-row" data-kind="armor" data-max="4" data-start="2"></div>
+                <div class="token-row" data-kind="armor" data-max="4" data-start="0"></div>
+                <div class="card__note">Quando tomaria dano físico, apague 1 🟦 para zerar.</div>
               </div>
 
               <div class="card">
                 <div class="card__head">
                   <div class="card__title">🔵 Mana</div>
-                  <div class="card__hint">comece com 3</div>
+                  <div class="card__hint">comece com 1</div>
                 </div>
-                <div class="token-row" data-kind="mana" data-max="4" data-start="3"></div>
+                <div class="token-row" data-kind="mana" data-max="4" data-start="1"></div>
+                <div class="card__note">Gaste 1 🔵 para lançar magia arcana.</div>
               </div>
 
               <div class="card">
@@ -816,14 +898,14 @@
 
               <div class="card">
                 <div class="card__head">
-                  <div class="card__title">✨ Magias</div>
-                  <div class="card__hint">custa 1 🔵</div>
+                  <div class="card__title">✨ Milagres</div>
+                  <div class="card__hint">escolha 2 • custa 🟣1</div>
                 </div>
                 <textarea
                   class="textarea"
                   rows="3"
                   data-field="powerText"
-                  data-default="Cura / Proteção / Comando sagrado."
+                  data-default="Escolha 2: Cura / Proteção / Purificar / Comando sagrado."
                 ></textarea>
               </div>
 

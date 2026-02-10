@@ -30,7 +30,7 @@ Escolha uma (ou invente uma parecida):
 
 - 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
 - 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
-- 🎯 **Besta pesada**: no 6, a armadura do alvo **não consegue bloquear** esse dano
+- 🎯 **Besta pesada**: no 6, o alvo **não pode apagar 🟦 Armadura** contra esse dano
 
 > Dica: você pode trocar só o “skin” (espada de cristal, machado de gelo, martelo gigante) sem mudar a regra.
 
@@ -65,13 +65,13 @@ Se um pet tiver texto “1 vez por cena”, no modo 6–8 você pode ignorar iss
 
 - 🐱 **Gato mágico**: cancela um erro (1 vez por cena, quando tirar 1, trate como 2–3)
 - 🦋 **Espírito luminoso**: acalma/ilumina (dissipa medo e revela algo escondido)
-- 🕊 **Pássaro da luz**: cura 1 vez (1 vez por cena, cure 1 coração de alguém)
+- 🕊 **Pássaro da luz**: cura 1 vez (1 vez por cena, recupere +1 ❤️ Vida de alguém)
 
 ## ✨ Ramo 3 — Magias (uma frase)
 
 Magia = **1 frase simples**.
 
-Para usar uma magia, gaste **1 Mana (🔵)**.
+Para usar uma magia/habilidade, gaste **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
 
 Escolha um (ou invente um parecido):
 
@@ -104,7 +104,7 @@ Escolha um (ou invente um parecido):
 Use para “coisas legais” sem aumentar números:
 
 - 🎒 **Item especial** (corda mágica, bomba de fumaça, poção, chave mestra)
-- 🔵 **Poção de Mana**: recupere **+1 Mana** (uma vez)
+- 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez
 - 🧩 **Treino**: escolha uma frase tipo “agora eu sei…” (ex.: “eu sei nadar”, “eu sei escalar”, “eu sei abrir fechaduras”)
 
 ## 💬 Regra final

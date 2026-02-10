@@ -24,11 +24,13 @@ Para começar sem confundir:
 
 Cada herói tem:
 
-- ❤️ **Vida**: **2 corações**
-- 🛡️️️ **Armadura**: 0 a 4 escudos (🟦)
-- 🔵 **Mana**: bolinhas (🔵) para usar magias
+- ❤️ **Vida** (0–4)
+- 🛡️ **Defesa** (0–4)
+- 🟣 **Alma** (0–4)
+- 🔵 **Mana** (0–4)
+- 🟦 **Armadura** (opcional, equipamento com escudos que você apaga)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
-- ✨ **Magias**: frases curtas (cada uso custa **1 Mana**)
+- ✨ **Habilidades**: frases curtas (cada uso custa **1 ponto** do recurso indicado)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
 Nada de contas ou tabelas.
@@ -57,8 +59,8 @@ Use isso no lugar de bônus numéricos.
 
 ## 💤 Descanso
 
-- **Descanso curto**: recupera **1 vida**
-- **Descanso completo**: recupera **toda a vida**, recupera **Armadura Arcana** (se tiver) e recupera **toda a Mana**
+- **Descanso curto**: sem recuperação automática (use só como “pausa na história”)
+- **Descanso completo**: recupera **todos os recursos** (❤️/🛡️/🟣/🔵) e recupera **Armadura Arcana** (se tiver)
 
 ## 🎁 Evolução (recompensas)
 
@@ -84,9 +86,9 @@ Para as primeiras mesas, use só isto:
 - Fácil para criança
 - Profundo para adulto
 
-## 🔵 Mana
+## 🧩 Recursos
 
-Detalhes e lista de magias por classe:
+Detalhes e valores por classe:
 
 - `mana.md`
 

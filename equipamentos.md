@@ -4,7 +4,7 @@
 
 Armadura possui **marcas** (você pode desenhar na ficha e ir apagando).
 
-Quando você **sofreria dano**, pode apagar **1 marca** para **ignorar todo o dano**.
+Quando você **sofreria dano físico**, pode apagar **1 marca** para **ignorar todo o dano** daquele ataque.
 
 Quando as marcas acabam, a armadura fica **quebrada**.
 
@@ -23,6 +23,7 @@ No começo de cada aventura, considere que a armadura volta ao **máximo** (foi 
 
 - **Marcas**: 🟦 (1)
 - Funciona como uma armadura bem leve
+- Use para ignorar **1 instância de dano arcano** (o dano que reduziria 🔵 Mana/❤️ Vida)
 - Recupera após **descanso completo**
 - Não precisa de conserto
 
@@ -32,6 +33,8 @@ No núcleo infantil, a regra é:
 
 - **4–5**: acerta e causa **1 dano**
 - **6**: acerta e causa **2 dano** + ativa o efeito da arma
+
+Por padrão, armas causam **dano físico** (normalmente reduz 🛡️ Defesa do alvo; se a Defesa estiver em 0, vai para ❤️ Vida — veja `combate.md`).
 
 Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
 
@@ -48,7 +51,7 @@ Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
 
 - 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
 - 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
-- 🎯 **Besta pesada**: no 6, a armadura do alvo **não consegue bloquear** esse dano
+- 🎯 **Besta pesada**: no 6, o alvo **não pode apagar 🟦 Armadura** contra esse dano
 
 > Se você quiser variedade sem regra extra: mude só o “skin” (espada de cristal, martelo gigante, arco de elfo, etc.).
 

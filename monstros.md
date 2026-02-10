@@ -10,21 +10,31 @@ Monstros normalmente:
 
 Em vez de “números”, dê ao monstro **um truque visível**:
 
-- 👊 **Bate forte** (se você falhar na defesa, toma dano)
-- 🪨 **Derruba** (no 1 da defesa, você fica **Caído**)
-- 🕸 **Prende** (no 1 da defesa, você fica **Preso**)
-- 😱 **Assusta** (no 1 da defesa, você fica **Tonto**)
+- 👊 **Bate forte** (ataque físico → ameaça 🛡️ Defesa / ❤️ Vida)
+- 🪨 **Derruba** (no 1 da defesa física, você fica **Caído**)
+- 🕸 **Prende** (no 1 da defesa física, você fica **Preso**)
+- 😱 **Assusta** (ataque espiritual/mental → ameaça 🟣 Alma; no 1, você fica **Tonto**)
 
-Na prática: no turno do monstro, escolha **1** dessas coisas e peça a rolagem de defesa do jogador.
+Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano / espiritual-mental) e peça a rolagem de defesa do jogador (ver `combate.md`).
 
 Resultados rápidos na defesa (resumo):
 
 - **6**: evita e faz algo legal
 - **4–5**: evita
-- **2–3**: toma 1 dano
-- **1**: toma 2 dano e algo dá errado
+- **2–3**: toma 1 dano no recurso do tipo do ataque
+- **1**: toma 2 dano (e o truque do monstro pode acontecer)
 
-## ❤️ Vida por tipo
+## 🧩 Recursos dos monstros (simples)
+
+Você pode dar ao monstro só **1–2 recursos** e pronto:
+
+- Monstro **físico**: 🛡️ Defesa + ❤️ Vida
+- Monstro **arcano**: 🔵 Mana + ❤️ Vida
+- Monstro **sombrio**: 🟣 Alma + ❤️ Vida
+
+Quando o recurso principal do monstro chega a **0** (🛡/🔵/🟣), o impacto começa a ir para ❤️ **Vida** (igual ao jogador).
+
+## ❤️ Vida (referência rápida)
 
 - **Goblin**: 2 vida
 - **Orc**: 4 vida

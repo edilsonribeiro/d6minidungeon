@@ -3,7 +3,7 @@
 Este repositório está organizado por módulos em arquivos `.md`.
 
 - Comece por: `introducao.md` (inclui apêndice “modo heroico”)
-- Núcleo infantil (1 página): `nucleo-infantil.md`
+- Núcleo infantil (resumo): `nucleo-infantil.md`
 - Aventura inicial (tutorial): `aventura-inicial.md`
 - Árvore de recompensas: `arvore-de-recompensas.md`
 - Fichas prontas: `fichas/infantil/README.md`
@@ -13,7 +13,7 @@ Este repositório está organizado por módulos em arquivos `.md`.
   - `equipamentos.md`
   - `combate.md`
   - `monstros.md`
-- 🔵 Mana (mecânica): `mana.md`
+- 🧩 Recursos (mecânica): `mana.md`
 
 O sistema inclui um **modo infantil recomendado** (regra única de rolagem + recompensas visíveis + pets).
 

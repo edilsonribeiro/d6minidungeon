@@ -5,24 +5,27 @@
 │ 🧒 NOME DO HERÓI: ___________ │
 │ 🎭 APELIDO: _________________ │
 │                               │
-│ ❤️ VIDA                       │
-│ ❤️  ❤️                        │
-│ (marque com X quando perder)  │
+│ ❤️ VIDA (0–4)                  │
+│ ❤️  ❤️  ❤️  ❤️                 │
 │                               │
-│ 🛡️️️ ARMADURA                   │
-│ 🟦 🟦 🟦 🟦                    │
-│ (apague quando usar)          │
+│ 🛡️ DEFESA (0–4)                │
+│ 🛡️  🛡️  🛡️  🛡️                 │
 │                               │
-│ 🔵 MANA                        │
+│ 🟣 ALMA (0–4)                   │
+│ 🟣  🟣  🟣  🟣                   │
+│                               │
+│ 🔵 MANA (0–4)                   │
 │ 🔵  🔵  🔵  🔵                 │
-│ (apague quando usar)          │
+│                               │
+│ 🟦 ARMADURA (0–4, opcional)     │
+│ 🟦  🟦  🟦  🟦                  │
 │                               │
 │ 🗡️ ARMA                        │
 │ _____________________________ │
 │ Desenhe sua arma aqui ↓       │
 │ [        DESENHO        ]     │
 │                               │
-│ ✨ MAGIAS                      │
+│ ✨ HABILIDADES                 │
 │ _____________________________ │
 │                               │
 │ 🐾 PET (se tiver)             │

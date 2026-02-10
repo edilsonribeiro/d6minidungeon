@@ -21,7 +21,11 @@
 
   function tokenIcon(kind) {
     const id =
-      kind === "hp" ? "icon-heart" : kind === "armor" ? "icon-shield" : "icon-orb";
+      kind === "hp"
+        ? "icon-heart"
+        : kind === "armor" || kind === "defense"
+          ? "icon-shield"
+          : "icon-orb";
     return `<svg viewBox="0 0 24 24" aria-hidden="true"><use href="#${id}"></use></svg>`;
   }
 

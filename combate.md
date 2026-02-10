@@ -1,6 +1,6 @@
 # ⚔ Combate
 
-O combate segue a mesma regra do núcleo: **sempre o jogador rola**.
+O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-facing).
 
 ## 🎲 A regra principal (vale para tudo)
 
@@ -15,30 +15,75 @@ Sempre que fizer algo arriscado ou importante:
 | **2–3** | Você não consegue completamente |
 | **1** | Algo dá errado ou engraçado acontece |
 
+## 📐 Recursos (base do sistema)
+
+Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
+
+| Recurso | Serve para atacar com… | Serve para resistir… |
+|---|---|---|
+| ❤️ **Vida** | ataque físico | “dano de verdade” (quando as defesas acabam) |
+| 🛡️ **Defesa** | — | desviar / bloquear ataques físicos |
+| 🟣 **Alma** | milagres / influência | controle, medo, drenagem, efeitos espirituais |
+| 🔵 **Mana** | magia arcana | magia arcana “bruta” |
+
+Regras fixas:
+
+- **Habilidades especiais** custam **1 ponto** do recurso associado.
+- Recursos **não regeneram durante o combate**.
+- Recursos recuperam apenas em **descanso completo**.
+- Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
+  - Se você precisar resistir algo e o recurso correto estiver em **0**, o impacto vai para ❤️ **Vida**.
+
+Distribuição por classe (total **9 pontos**, com **1 recurso dominante = 4**):
+
+- ⚔ **Guerreiro**: ❤️ 4 / 🛡️ 2 / 🟣 2 / 🔵 1
+- 🏹 **Patrulheiro**: ❤️ 2 / 🛡️ 4 / 🟣 2 / 🔵 1
+- ✝️ **Curandeiro**: ❤️ 2 / 🛡️ 2 / 🟣 4 / 🔵 1
+- 🔥 **Mago**: ❤️ 2 / 🛡️ 1 / 🟣 2 / 🔵 4
+
 ## ⚔ Combate (sem complicação)
 
 ### 🗡 Atacar um inimigo
 
-Role 1D6:
+1) Escolha o **tipo** do seu ataque:
 
-- **6**: causa **2 de dano** e ativa algo legal da sua arma, magia (gastando **1 Mana**) ou pet
+- **Físico** (arma, soco, chute) → usa ❤️ **Vida**
+- **Arcano** (feitiço bruto) → usa 🔵 **Mana**
+- **Espiritual/mental** (milagre, medo, influência) → usa 🟣 **Alma**
+
+2) Role **1D6** e aplique no **recurso do alvo**:
+
+- Ataque **físico** tira pontos de 🛡️ **Defesa** do alvo; se a Defesa estiver em **0**, o dano vai para ❤️ **Vida**.
+- Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
+- Ataque **espiritual/mental** tira pontos de 🟣 **Alma** do alvo; se a Alma estiver em **0**, o dano vai para ❤️ **Vida**.
+
+- **6**: causa **2 de dano** e ativa algo legal da sua arma/pet; se ativar uma habilidade, pague o custo do recurso
 - **4–5**: causa **1 de dano**
-- **2–3**: erra ou só empurra/assusta
-- **1**: algo ruim acontece (escorrega, perde arma, fica em perigo)
+- **2–3**: escolha 1:
+  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵/🟣)
+  - causa **0 de dano** (você não se expõe)
+- **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
 
 ### 🛡️️️ Quando um inimigo te ataca
 
 Você **rola o dado**, não o monstro:
 
-- **6**: você desvia e pode contra-atacar
-- **4–5**: você desvia
-- **2–3**: você sofre **1 de dano**
-- **1**: você sofre **2 de dano** ou algo pior
+O mestre diz qual é o tipo do ataque (físico / arcano / espiritual-mental). A rolagem define se você resiste:
+
+- **6**: você resiste e pode contra-atacar (se fizer sentido)
+- **4–5**: você resiste
+- **2–3**: você sofre **1 de dano** no recurso de resistência:
+  - físico → 🛡️ **Defesa** (se estiver 0, vai para ❤️ **Vida**)
+  - arcano → 🔵 **Mana** (se estiver 0, vai para ❤️ **Vida**)
+  - espiritual/mental → 🟣 **Alma** (se estiver 0, vai para ❤️ **Vida**)
+- **1**: você sofre **2 de dano** (e o monstro pode impor uma condição se tiver esse “truque”)
 
 ## 🛡️️️ Armadura (escudo visual)
 
+Armadura é **equipamento** (🟦), diferente de 🛡️ **Defesa** (recurso).
+
 - armadura tem **escudos desenhados** (🟦)
-- quando tomaria dano, pode apagar **1 escudo** para zerar o dano
+- quando você tomaria **dano físico** (que reduziria 🛡️ Defesa ou ❤️ Vida), pode apagar **1 🟦** para zerar aquele dano
 - quando acaba → armadura quebra (ver `equipamentos.md`)
 
 ## 🩸 Vida 0
@@ -81,18 +126,14 @@ Quando estiver muito fácil ou muito difícil:
 
 Use isso no lugar de bônus numéricos.
 
-## 🔵 Mana (magias)
+## ✨ Habilidades especiais (custam recurso)
 
-Magias especiais de classe custam **1 Mana (🔵)**.
+- Quando você usar uma habilidade especial, gaste **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
+- Se o recurso está em **0**, aquela habilidade **não funciona**.
 
-Regras rápidas:
+Detalhes por classe e ideias de poderes:
 
-- Mana é **por aventura** (não recupera no meio do combate).
-- Você pode gastar **no máximo 1 Mana por cena**.
-
-Detalhes e lista de magias por classe:
-
-- `mana.md`
+- `classes.md`
 
 ## 🧎 Condições (modo infantil recomendado — 4 estados)
 

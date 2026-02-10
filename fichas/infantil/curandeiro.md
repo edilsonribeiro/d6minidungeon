@@ -6,25 +6,27 @@
 │                               │
 │ 🧒 NOME: ____________________  │
 │                               │
-│ ❤️ VIDA                       │
-│ ❤️  ❤️                        │
-│ (comece com 2)                │
+│ ❤️ VIDA (comece com 2)         │
+│ ❤️  ❤️  ❤️  ❤️                 │
 │                               │
-│ 🛡️️️ ARMADURA                   │
-│ 🟦 🟦 🟦 🟦                    │
-│ (comece com 🟦🟦)               │
+│ 🛡️ DEFESA (comece com 2)       │
+│ 🛡️  🛡️  🛡️  🛡️                 │
 │                               │
-│ 🔵 MANA                        │
+│ 🟣 ALMA (comece com 4)          │
+│ 🟣  🟣  🟣  🟣                   │
+│                               │
+│ 🔵 MANA (comece com 1)          │
 │ 🔵  🔵  🔵  🔵                 │
-│ (comece com 3)                │
+│                               │
+│ 🟦 ARMADURA (opcional)          │
+│ 🟦  🟦  🟦  🟦                  │
 │                               │
 │ 🗡️ FOCO SAGRADO                │
 │ Cajado / Símbolo / Maça       │
 │                               │
-│ ✨ MAGIAS (custa 1 🔵)         │
-│ ✨ Cura                        │
-│ Posso curar 1 amigo           │
-│ (no 6, cura 2)                │
+│ ✨ MILAGRES (custa 🟣1)         │
+│ ✨ Cura (+1 ❤️ / no 6, +2)      │
+│ 🛡️ Proteção (🟢 Protegido)      │
 │                               │
 │ 🐾 PET (opcional)             │
 │ Pomba / Cervo / Gato          │

@@ -54,6 +54,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
   - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (habilidade) ou coisa de **item/ritual**.
 - 🔵 **Truque arcano**: gaste **🔵1** → produza um efeito mágico **simples e imediato** (luz, faísca, vento, empurrão leve, destravar/travar simples).
   - em combate, pode virar um ataque arcano **simples** (dano máximo **1**, sem área)
+  - lista oficial de efeitos: `mana.md`
 
 ## 📋 Tabela resumo (combate básico)
 

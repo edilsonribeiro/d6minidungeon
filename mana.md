@@ -42,26 +42,81 @@ Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** n
 
 ## ✨ Truque arcano (qualquer personagem)
 
-> Gaste **🔵1**: faça um efeito mágico **simples** (luz, faísca, vento, empurrão leve).
+> Ao gastar **🔵1**, qualquer personagem pode produzir **um efeito mágico simples e imediato**.  
+> Isso representa **energia arcana bruta**, sem técnica avançada.
 
 Se for disputado/perigoso, role **1D6 por ponto de 🔵 Mana** e use **apenas o melhor dado** (mesma tabela do sistema).
 
-Exemplos (simples e imediatos):
-
-- criar luz por um momento
-- criar um som/estalo/eco
-- apagar uma chama pequena
-- travar/destravar algo simples
-- marcar um alvo (brilho/cheiro mágico)
-
-Limites (para não virar Mago):
+### 📌 Regras gerais (efeitos básicos)
 
 - não causa dano em **área**
-- não aplica **condição forte**
+- não dura mais do que **um instante** (salvo descrição narrativa)
 - não **cura** ❤️ Vida
-- não dura mais do que **um instante**
+- não aplica condições fortes (paralisar/atordoar/controlar totalmente)
+- resolve situações **pequenas ou momentâneas**
 
-Em combate, isso pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
+Em combate, Truque arcano pode virar um ataque arcano **simples** (dano máximo **1**, sem área).
+
+### 🔵 Lista oficial — Efeitos mágicos básicos
+
+**🔥 Energia / impacto**
+
+- causar **1 dano mágico simples** em um alvo
+- empurrar uma criatura ou objeto leve
+- derrubar algo instável
+- quebrar algo frágil (corda, vidro, tranca simples)
+
+**💨 Movimento / ambiente**
+
+- criar uma rajada de vento
+- apagar ou acender uma chama pequena
+- levantar poeira, folhas ou água
+- empurrar fumaça ou neblina
+
+**💡 Luz / som**
+
+- criar luz por um momento
+- criar um clarão rápido
+- emitir um som mágico simples
+- causar um estalo, eco ou vibração
+
+**🧠 Percepção / sensação**
+
+- sentir presença mágica ou sobrenatural próxima
+- destacar um objeto ou criatura (brilho, calor, cheiro mágico)
+- revelar algo oculto de forma simples
+- intensificar sentidos por um instante
+
+**🧲 Controle leve**
+
+- puxar ou empurrar um objeto pequeno
+- travar ou destravar algo simples
+- segurar algo por um instante
+- desequilibrar uma criatura brevemente
+
+**🛡️ Defesa leve (não cumulativa)**
+
+- reduzir em **1** o dano arcano que você sofreria (declare antes de aplicar o dano)
+- bloquear um **efeito mágico simples** (outro Truque arcano)
+- dissipar uma magia fraca/instável **se ela for simples**
+
+**🌱 Elemental leve (narrativo)**
+
+- gerar faísca, gelo fino, água, folhas, poeira
+- aquecer ou resfriar algo pequeno
+- fazer crescer algo mínimo (raízes, musgo, vinhas fracas)
+
+### ⚠️ O que NÃO é Truque arcano
+
+Se o efeito:
+
+- cura ❤️ Vida
+- causa dano em área
+- aplica condição forte
+- dura vários turnos
+- substitui habilidade de classe
+
+… então **não é** Truque arcano: isso é **especialização/habilidade**, item, ritual ou magia de classe.
 
 > Regra curta: 🔵 Mana é “magia sem especialização”. Todo mundo pode usar; o **Mago** é quem domina.
 

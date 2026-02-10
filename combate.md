@@ -34,12 +34,12 @@ Regras fixas:
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
   - Se você precisar resistir algo e o recurso correto estiver em **0**, o impacto vai para ❤️ **Vida**.
 
-Distribuição por classe (total **9 pontos**, com **1 recurso dominante = 4**):
+Distribuição por classe (total **10 pontos**, na ordem **Vida – Defesa – Alma – Mana**):
 
-- ⚔ **Guerreiro**: ❤️ 4 / 🛡️ 2 / 🟣 2 / 🔵 1
-- 🏹 **Patrulheiro**: ❤️ 2 / 🛡️ 4 / 🟣 2 / 🔵 1
-- ✝️ **Curandeiro**: ❤️ 2 / 🛡️ 2 / 🟣 4 / 🔵 1
-- 🔥 **Mago**: ❤️ 2 / 🛡️ 1 / 🟣 2 / 🔵 4
+- ⚔ **Guerreiro**: ❤️ 4 / 🛡️ 3 / 🟣 2 / 🔵 1
+- 🏹 **Patrulheiro**: ❤️ 3 / 🛡️ 4 / 🟣 1 / 🔵 2
+- ✝️ **Curandeiro**: ❤️ 2 / 🛡️ 1 / 🟣 4 / 🔵 3
+- 🔥 **Mago**: ❤️ 1 / 🛡️ 2 / 🟣 3 / 🔵 4
 
 ## ⚔ Combate (sem complicação)
 

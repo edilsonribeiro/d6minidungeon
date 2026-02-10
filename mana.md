@@ -17,16 +17,18 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 - Recursos recuperam apenas em **descanso completo**.
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
 
-## 📊 Distribuição por classe (9 pontos)
+## 📊 Distribuição por classe (10 pontos)
 
-Cada classe tem exatamente **9 pontos**, com **um recurso dominante (4)**:
+Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem:
+
+**❤️ Vida – 🛡️ Defesa – 🟣 Alma – 🔵 Mana**
 
 | Classe | ❤️ Vida | 🛡️ Defesa | 🟣 Alma | 🔵 Mana | Total |
 |---|---:|---:|---:|---:|---:|
-| ⚔ Guerreiro | 4 | 2 | 2 | 1 | 9 |
-| 🏹 Patrulheiro | 2 | 4 | 2 | 1 | 9 |
-| ✝ Curandeiro | 2 | 2 | 4 | 1 | 9 |
-| 🔥 Mago | 2 | 1 | 2 | 4 | 9 |
+| ⚔ Guerreiro | 4 | 3 | 2 | 1 | 10 |
+| 🏹 Patrulheiro | 3 | 4 | 1 | 2 | 10 |
+| ✝ Curandeiro | 2 | 1 | 4 | 3 | 10 |
+| 🔥 Mago | 1 | 2 | 3 | 4 | 10 |
 
 ## 🔵 Mana (como funciona agora)
 

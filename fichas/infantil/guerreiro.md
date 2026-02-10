@@ -9,7 +9,7 @@
 │ ❤️ VIDA (comece com 4)         │
 │ ❤️  ❤️  ❤️  ❤️                 │
 │                               │
-│ 🛡️ DEFESA (comece com 2)       │
+│ 🛡️ DEFESA (comece com 3)       │
 │ 🛡️  🛡️  🛡️  🛡️                 │
 │                               │
 │ 🟣 ALMA (comece com 2)          │
@@ -26,6 +26,7 @@
 │                               │
 │ ✨ TÉCNICAS (custa 1 recurso)  │
 │ 🛡️ Protetor (🛡️1)              │
+│ 🛡️ Resistente (🛡️1)            │
 │ ❤️ Golpe poderoso (❤️1)        │
 │                               │
 │ 🐾 PET (opcional)             │

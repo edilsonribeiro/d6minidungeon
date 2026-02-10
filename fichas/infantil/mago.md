@@ -6,13 +6,13 @@
 │                               │
 │ 🧒 NOME: ____________________  │
 │                               │
-│ ❤️ VIDA (comece com 2)         │
+│ ❤️ VIDA (comece com 1)         │
 │ ❤️  ❤️  ❤️  ❤️                 │
 │                               │
-│ 🛡️ DEFESA (comece com 1)       │
+│ 🛡️ DEFESA (comece com 2)       │
 │ 🛡️  🛡️  🛡️  🛡️                 │
 │                               │
-│ 🟣 ALMA (comece com 2)          │
+│ 🟣 ALMA (comece com 3)          │
 │ 🟣  🟣  🟣  🟣                   │
 │                               │
 │ 🔵 MANA (comece com 4)          │

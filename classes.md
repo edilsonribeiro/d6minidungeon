@@ -6,17 +6,17 @@ Regras rápidas:
 
 - 🎲 Toda rolagem: **1D6**
 - 🧩 Todo herói tem **4 recursos**: ❤️ Vida / 🛡️ Defesa / 🟣 Alma / 🔵 Mana
-- 📌 Cada classe tem **9 pontos**, com **1 recurso dominante = 4**
+- 📌 Cada classe tem **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem Vida/Defesa/Alma/Mana
 - ✨ Toda habilidade especial custa **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵)
 
 Distribuição oficial:
 
 | Classe | ❤️ Vida | 🛡️ Defesa | 🟣 Alma | 🔵 Mana |
 |---|---:|---:|---:|---:|
-| ⚔ Guerreiro | 4 | 2 | 2 | 1 |
-| 🏹 Patrulheiro | 2 | 4 | 2 | 1 |
-| ✝ Curandeiro | 2 | 2 | 4 | 1 |
-| 🔥 Mago | 2 | 1 | 2 | 4 |
+| ⚔ Guerreiro | 4 | 3 | 2 | 1 |
+| 🏹 Patrulheiro | 3 | 4 | 1 | 2 |
+| ✝ Curandeiro | 2 | 1 | 4 | 3 |
+| 🔥 Mago | 1 | 2 | 3 | 4 |
 
 Fichas prontas para imprimir: `fichas/infantil/README.md`.
 
@@ -24,7 +24,7 @@ Equipamentos e efeitos de armas: `equipamentos.md`.
 
 ## ⚔ Guerreiro — Força
 
-Recursos: ❤️ 4 / 🛡️ 2 / 🟣 2 / 🔵 1
+Recursos: ❤️ 4 / 🛡️ 3 / 🟣 2 / 🔵 1
 
 Escolha **2** técnicas:
 
@@ -34,7 +34,7 @@ Escolha **2** técnicas:
 
 ## 🏹 Patrulheiro (Ranger) — Agilidade
 
-Recursos: ❤️ 2 / 🛡️ 4 / 🟣 2 / 🔵 1
+Recursos: ❤️ 3 / 🛡️ 4 / 🟣 1 / 🔵 2
 
 Escolha **2** técnicas:
 
@@ -44,7 +44,7 @@ Escolha **2** técnicas:
 
 ## ✝ Curandeiro — Vontade / Fé
 
-Recursos: ❤️ 2 / 🛡️ 2 / 🟣 4 / 🔵 1
+Recursos: ❤️ 2 / 🛡️ 1 / 🟣 4 / 🔵 3
 
 Escolha **2** milagres:
 
@@ -59,7 +59,7 @@ Limite recomendado:
 
 ## 🔥 Mago — Inteligência
 
-Recursos: ❤️ 2 / 🛡️ 1 / 🟣 2 / 🔵 4
+Recursos: ❤️ 1 / 🛡️ 2 / 🟣 3 / 🔵 4
 
 Escolha **2** magias e **1 elemento**:
 

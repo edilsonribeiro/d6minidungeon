@@ -93,7 +93,7 @@ Quando chega a 0 → personagem cai.
 
 ---
 
-# 🛡️ ARMADURA (Durabilidade)
+# 🛡️️ ARMADURA (Durabilidade)
 
 Armadura possui cargas.
 
@@ -105,9 +105,9 @@ Quando acaba → armadura quebrada.
 
 ## Tipos
 
-🛡️ Leve → 2 cargas
-🛡️ Média → 3 cargas
-🛡️ Pesada → 4 cargas
+🛡️️ Leve → 2 cargas
+🛡️️ Média → 3 cargas
+🛡️️ Pesada → 4 cargas
 
 Penalidades:
 
@@ -129,7 +129,7 @@ Não precisa conserto.
 
 ---
 
-# 🛡️ CLASSES
+# 🛡️️ CLASSES
 
 ---
 
@@ -389,7 +389,7 @@ Precisa gastar ação para pegá-la.
 
 ---
 
-# 🛡️ PROTEGIDO
+# 🛡️️ PROTEGIDO
 
 O próximo dano que sofreria é reduzido a 0.
 
@@ -624,7 +624,7 @@ Precisa gastar ação para pegar.
 
 ---
 
-# 🛡️ COBERTURA (Opcional, mas simples)
+# 🛡️️ COBERTURA (Opcional, mas simples)
 
 Se metade do corpo estiver atrás de obstáculo:
 

@@ -4,6 +4,7 @@ Este repositório está organizado por módulos em arquivos `.md`.
 
 - Comece por: `introducao.md`
 - Núcleo infantil (1 página): `nucleo-infantil.md`
+- Árvore de recompensas: `arvore-de-recompensas.md`
 - Regras por tema:
   - `racas.md`
   - `classes.md`

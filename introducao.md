@@ -17,7 +17,7 @@ Este projeto tem um resumo em 1 página: `nucleo-infantil.md`.
 Cada herói tem:
 
 - ❤️ **Vida**: 3 corações
-- 🛡️ **Armadura**: 0 a 4 escudos (🟦)
+- 🛡️️ **Armadura**: 0 a 4 escudos (🟦)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Poder especial**: 1 frase
 - 🐾 **Pet** (opcional): ajuda de vez em quando
@@ -56,10 +56,12 @@ Use isso no lugar de bônus numéricos.
 Ao final de **cada aventura**, escolha **1 recompensa**:
 
 - 🗡 arma nova
-- 🛡️ armadura melhor
+- 🛡️️ armadura melhor
 - 🐾 pet
 - ✨ poder especial (1 frase)
 - ❤️ +1 vida (máximo 5)
+
+Para uma lista pronta e “colecionável”: `arvore-de-recompensas.md`.
 
 ## 🎯 Filosofia do sistema
 

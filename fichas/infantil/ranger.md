@@ -7,12 +7,12 @@
 │ 🧒 NOME: ____________________  │
 │                               │
 │ ❤️ VIDA                       │
-│ ❤️  ❤️  ❤️  ❤️  ❤️            │
-│ (comece com 3)                │
+│ ❤️  ❤️                        │
+│ (comece com 2)                │
 │                               │
 │ 🛡️️️ ARMADURA                   │
 │ 🟦 🟦 🟦 🟦                    │
-│ (comece com 🟦🟦)               │
+│ (comece com 🟦🟦🟦)             │
 │                               │
 │ 🔵 MANA                        │
 │ 🔵  🔵  🔵  🔵                 │

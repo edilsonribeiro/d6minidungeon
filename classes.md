@@ -5,9 +5,9 @@ No núcleo infantil, a classe serve para dar **identidade** e **escolhas visíve
 Regras rápidas:
 
 - 🎲 Toda rolagem: **1D6** (6 = algo legal)
-- ❤️ Vida: **corações** (até 5)
+- ❤️ Vida: **2 corações**
 - 🛡️️️ Armadura: **escudos 🟦** (até 4)
-- 🔵 Mana: **bolinhas 🔵** (por aventura; cada magia custa 1)
+- 🔵 Mana: **bolinhas 🔵** (por aventura; cada magia custa 1; **máx. 1 por cena**)
 
 Fichas prontas para imprimir: `fichas/infantil/README.md`.
 
@@ -15,7 +15,7 @@ Recompensas prontas para escolher: `arvore-de-recompensas.md`.
 
 ## ⚔ Guerreiro
 
-- ❤️ Vida inicial: **4**
+- ❤️ Vida inicial: **2**
 - 🛡️️️ Armadura inicial: 🟦🟦🟦🟦
 - 🔵 Mana: **1**
 - 🗡️ Arma sugerida: Espada / Machado / Martelo
@@ -26,8 +26,8 @@ Recompensas prontas para escolher: `arvore-de-recompensas.md`.
 
 ## 🏹 Ranger
 
-- ❤️ Vida inicial: **3**
-- 🛡️️️ Armadura inicial: 🟦🟦
+- ❤️ Vida inicial: **2**
+- 🛡️️️ Armadura inicial: 🟦🟦🟦
 - 🔵 Mana: **2**
 - 🗡️ Arma sugerida: Arco / Duas adagas / Lança
 - ✨ Magias (escolha **2**) — cada uso custa **1 Mana**:
@@ -38,7 +38,7 @@ Recompensas prontas para escolher: `arvore-de-recompensas.md`.
 ## 🔥 Mago
 
 - ❤️ Vida inicial: **2**
-- 🛡️️️ Armadura inicial: 🟦🟦 (escudo mágico)
+- 🛡️️️ Armadura inicial: 🟦 (escudo mágico)
 - 🔵 Mana: **4**
 - 🗡️ Foco mágico: Cajado / Varinha / Livro
 - 🔮 Elemento (escolha 1): 🔥 Fogo / ❄ Gelo / 🌪 Vento / 🌿 Natureza / ✨ Luz
@@ -50,7 +50,7 @@ Recompensas prontas para escolher: `arvore-de-recompensas.md`.
 
 ## ✝ Curandeiro
 
-- ❤️ Vida inicial: **3**
+- ❤️ Vida inicial: **2**
 - 🛡️️️ Armadura inicial: 🟦🟦
 - 🔵 Mana: **3**
 - 🗡️ Foco sagrado: Cajado / Símbolo / Maça

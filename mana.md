@@ -12,6 +12,7 @@ Ela cria uma decisão clara:
 - Toda **magia/habilidade especial de classe** custa **1 Mana**.
 - Para usar, apague **1 bolinha de Mana** (🔵).
 - Mana **não recupera no meio do combate**.
+- Regra importante: você pode gastar **no máximo 1 Mana por cena**.
 - Recupera:
   - **Descanso completo**: recupera toda a Mana
   - uma recompensa/item pode dar **+1 Mana temporária** (veja abaixo)
@@ -24,16 +25,23 @@ Se acabou a Mana, você ainda pode agir e rolar 1D6 normalmente — só não con
   - “Você quer gastar **1 Mana** pra isso?”
 - Em geral, gaste a Mana **na hora do efeito** (antes ou depois de rolar), o que ficar mais natural.
 
+## 🛡️⚔ Modelo 7 (recursos totais)
+
+Para manter o equilíbrio simples, use este modelo:
+
+- ❤️ Vida é **fixa: 2**
+- 🎯 Total de recursos por classe = **Vida + Armadura + Mana = 7**
+
 ## 🛡️⚔ Classes (com Mana)
 
 Valores oficiais do modo infantil com Mana:
 
 | Classe | ❤️ Vida | 🛡️️️ Armadura | 🔵 Mana |
 |---|---:|---:|---:|
-| ⚔ Guerreiro | 4 | 4 | 1 |
-| 🏹 Ranger | 3 | 2 | 2 |
-| ✝ Curandeiro | 3 | 2 | 3 |
-| 🔥 Mago | 2 | 2 | 4 |
+| ⚔ Guerreiro | 2 | 4 | 1 |
+| 🏹 Ranger | 2 | 3 | 2 |
+| ✝ Curandeiro | 2 | 2 | 3 |
+| 🔥 Mago | 2 | 1 | 4 |
 
 ### ⚔ Guerreiro (escolha 1 magia)
 
@@ -47,7 +55,6 @@ Cada uso custa **1 Mana**:
 
 Cada uso custa **1 Mana**:
 
-- **Disparo preciso**: seu ataque não pode ser bloqueado pela armadura (o alvo não pode apagar 🟦 contra esse dano).
 - **Disparo preciso**: seu ataque não pode ser bloqueado pela armadura (a armadura do alvo não consegue bloquear esse dano).
 - **Movimento fantasma**: ataque e depois se mova livremente para longe/para cobertura, sem complicação.
 - **Olhos do caçador**: converta um **2–3** em **4–5** (em ataque ou exploração).

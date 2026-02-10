@@ -101,11 +101,11 @@ Escolha um (ou invente um parecido):
 
 ## ❤️ Ramo 4 — Melhorias simples (opcional)
 
-Use com crianças mais velhas (8–10), se quiser:
+Use para “coisas legais” sem aumentar números:
 
-- ❤️ **+1 coração** (máx. 5)
-- 🛡️️️ **+1 escudo** na armadura (até 🟦🟦🟦🟦)
 - 🎒 **Item especial** (corda mágica, bomba de fumaça, poção, chave mestra)
+- 🔵 **Poção de Mana**: recupere **+1 Mana** (uma vez)
+- 🧩 **Treino**: escolha uma frase tipo “agora eu sei…” (ex.: “eu sei nadar”, “eu sei escalar”, “eu sei abrir fechaduras”)
 
 ## 💬 Regra final
 

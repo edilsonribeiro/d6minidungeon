@@ -8,8 +8,11 @@ Quando você **sofreria dano**, pode apagar **1 marca** para **ignorar todo o da
 
 Quando as marcas acabam, a armadura fica **quebrada**.
 
+No começo de cada aventura, considere que a armadura volta ao **máximo** (foi consertada/trocada fora de cena).
+
 ### 🛡️️️ Tipos de armadura
 
+- **Roupinha reforçada**: 🟦 (1 marca)
 - **Armadura fraca**: 🟦🟦 (2 marcas)
 - **Armadura média**: 🟦🟦🟦 (3 marcas)
 - **Armadura forte**: 🟦🟦🟦🟦 (4 marcas)
@@ -18,8 +21,8 @@ Quando as marcas acabam, a armadura fica **quebrada**.
 
 ## 🔮 Armadura Arcana (Mago)
 
-- **Marcas**: 🟦🟦 (2)
-- Funciona como armadura fraca
+- **Marcas**: 🟦 (1)
+- Funciona como uma armadura bem leve
 - Recupera após **descanso completo**
 - Não precisa de conserto
 

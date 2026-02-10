@@ -5,7 +5,7 @@ Pensado para:
 - crianças de **6 a 10 anos**
 - **zero matemática**
 - decisões claras
-- fantasia viva (🗡 “espada nova!”, 🐾 “pet!”, ✨ “poder!”)
+- fantasia viva (🗡 “espada nova!”, 🐾 “pet!”, ✨ “magia!”)
 - fácil de explicar em **5 minutos**
 
 ## 🌟 O que você precisa
@@ -18,9 +18,9 @@ Pensado para:
 
 Cada herói tem:
 
-- ❤️ **Vida**: corações (veja na sua ficha)
+- ❤️ **Vida**: **2 corações**
 - 🛡️️️ **Armadura**: 0 a 4 escudos (🟦)
-- 🔵 **Mana**: bolinhas (🔵) para usar magias/poderes
+- 🔵 **Mana**: bolinhas (🔵) para usar magias
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Magias**: frases curtas (cada uso custa **1 Mana**)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
@@ -50,7 +50,6 @@ Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer a
 
 Para crianças menores (ou mesas bem rápidas), use este atalho:
 
-- Se tirou **6**, acontece **o extra** (arma, poder, pet, truque da raça, etc.).
 - Se tirou **6**, acontece **o extra** (arma, magia, pet, truque da raça, etc.).
 - Se não tirou 6, acontece só o **básico** do resultado.
 
@@ -73,11 +72,12 @@ Quando estiver muito fácil ou muito difícil:
 
 Use isso no lugar de bônus numéricos.
 
-## 🔵 Mana (poderes sem spam)
+## 🔵 Mana (sem spam)
 
-- Toda magia/poder especial de classe custa **1 Mana**.
+- Toda magia especial de classe custa **1 Mana**.
 - Para usar, apague **1 🔵**.
 - Mana é **por aventura** (não volta no meio do combate).
+- Regra importante: você pode gastar **no máximo 1 Mana por cena**.
 - **Descanso completo** recupera toda a Mana.
 
 Detalhes e lista de magias por classe: `mana.md`.
@@ -106,7 +106,7 @@ Você **rola o dado**, não o monstro:
 
 ### ❤️ Vida
 
-- comece com os corações da sua ficha
+- todo herói começa com **2 corações**
 - perdeu todos → cai no chão
 - um amigo pode ajudar
 - crianças **não morrem**: só desmaiam
@@ -131,9 +131,9 @@ Quando você tira **6**, sua arma faz algo especial:
 
 Sem listas. Sem exceções.
 
-## ✨ Magias (poderes)
+## ✨ Magias
 
-Cada herói tem magias/poderes (frases curtas).
+Cada herói tem magias (frases curtas).
 
 Para usar uma magia:
 
@@ -181,10 +181,10 @@ Sem contar quadrados.
 No fim da aventura, escolha **1**:
 
 - 🗡 arma nova
-- 🛡️️️ armadura melhor
+- 🛡️️️ armadura nova (consertada)
 - 🐾 pet
-- ✨ poder novo
-- ❤️ +1 coração (máx. 5)
+- ✨ magia nova
+- 🎒 item especial (corda mágica, bomba de fumaça, etc.)
 
 Sempre algo legal. Nunca só número.
 

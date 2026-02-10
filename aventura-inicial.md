@@ -89,7 +89,7 @@ Cada ratinho:
 
 - No turno do herói: ele se move + faz 1 ação (atacar, correr, empurrar saco, gritar, pegar algo).
 - Para atacar: role 1D6 (4–5 = 1 dano; 6 = 2 dano + efeito legal).
-- Para usar uma **magia/poder**: apague **1 🔵** (Mana).
+- Para usar uma **magia**: apague **1 🔵** (Mana).
 - No turno do monstro: peça a defesa (6 evita e pode contra-atacar; 4–5 evita; 2–3 toma 1; 1 toma 2 ou condição).
 
 Use o cenário:

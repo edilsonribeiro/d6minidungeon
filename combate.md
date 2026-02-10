@@ -81,9 +81,14 @@ Quando estiver muito fácil ou muito difícil:
 
 Use isso no lugar de bônus numéricos.
 
-## 🔵 Mana (poderes)
+## 🔵 Mana (magias)
 
-Magias/poderes especiais de classe custam **1 Mana (🔵)**.
+Magias especiais de classe custam **1 Mana (🔵)**.
+
+Regras rápidas:
+
+- Mana é **por aventura** (não recupera no meio do combate).
+- Você pode gastar **no máximo 1 Mana por cena**.
 
 Detalhes e lista de magias por classe:
 

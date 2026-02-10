@@ -6,7 +6,7 @@
 │ 🎭 APELIDO: _________________ │
 │                               │
 │ ❤️ VIDA                       │
-│ ❤️  ❤️  ❤️  ❤️  ❤️            │
+│ ❤️  ❤️                        │
 │ (marque com X quando perder)  │
 │                               │
 │ 🛡️️️ ARMADURA                   │

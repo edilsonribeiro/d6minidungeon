@@ -24,9 +24,9 @@ Para começar sem confundir:
 
 Cada herói tem:
 
-- ❤️ **Vida**: corações (veja na sua ficha)
+- ❤️ **Vida**: **2 corações**
 - 🛡️️️ **Armadura**: 0 a 4 escudos (🟦)
-- 🔵 **Mana**: bolinhas (🔵) para usar magias/poderes
+- 🔵 **Mana**: bolinhas (🔵) para usar magias
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Magias**: frases curtas (cada uso custa **1 Mana**)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
@@ -65,10 +65,10 @@ Use isso no lugar de bônus numéricos.
 Ao final de **cada aventura**, escolha **1**:
 
 - 🗡 arma nova
-- 🛡️️️ armadura melhor
+- 🛡️️️ armadura nova (consertada)
 - 🐾 pet
-- ✨ poder especial (1 frase)
-- ❤️ +1 vida (máximo 5)
+- ✨ magia nova (1 frase)
+- 🎒 item especial (corda mágica, bomba de fumaça, etc.)
 
 ### 🌳 Progressão (começo do jogo)
 

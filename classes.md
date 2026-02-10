@@ -50,7 +50,3 @@ Recompensas prontas para escolher: `arvore-de-recompensas.md`.
   - **Comando**: em **4–5** o inimigo hesita; em **6** o inimigo perde a próxima ação
 
 > Equipamentos e efeitos das armas ficam em `equipamentos.md`.
-
-Evolução simples por classe (para a criança “sentir crescimento” sem conta):
-
-- `evolucao.md`

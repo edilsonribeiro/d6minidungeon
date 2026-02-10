@@ -28,6 +28,8 @@ Nada de atributos, contas ou tabelas.
 
 Fichas prontas para imprimir: `fichas/infantil/README.md`.
 
+Primeira aventura pronta (tutorial de ~30 min): `aventura-inicial.md`.
+
 ## 🎲 A regra principal (vale para tudo)
 
 Sempre que fizer algo arriscado ou importante:
@@ -171,12 +173,11 @@ No fim da aventura, escolha **1**:
 
 Sempre algo legal. Nunca só número.
 
-### ✅ Escolha UM modelo (não misture no começo)
+### 🌳 Progressão (começo do jogo)
 
-Para não confundir nas primeiras mesas, use **ou um ou outro**:
+Para não confundir no início, use só a árvore:
 
-- 🌳 **Árvore livre (recomendado para começar)**: `arvore-de-recompensas.md`
-- 📈 **Evolução por classe (mais identidade)**: `evolucao.md`
+- `arvore-de-recompensas.md`
 
 ## 🧠 Regra de ouro do mestre
 

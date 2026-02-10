@@ -4,6 +4,14 @@ O sistema usa apenas **D6** e é **player-facing**: monstros normalmente **não 
 
 Este projeto tem um resumo em 1 página: `nucleo-infantil.md`.
 
+## 🚀 Começo rápido (primeira sessão)
+
+Para começar sem confundir:
+
+- leia `nucleo-infantil.md`
+- use `aventura-inicial.md`
+- no fim, cada herói escolhe 1 recompensa em `arvore-de-recompensas.md`
+
 ## 🧒 Núcleo infantil (padrão)
 
 ### 🌟 O que você precisa
@@ -61,12 +69,11 @@ Ao final de **cada aventura**, escolha **1**:
 - ✨ poder especial (1 frase)
 - ❤️ +1 vida (máximo 5)
 
-### ✅ Escolha UM modelo de progressão (não misture no começo)
+### 🌳 Progressão (começo do jogo)
 
-Para evitar confusão nas primeiras mesas, use **ou um ou outro**:
+Para as primeiras mesas, use só isto:
 
-- 🌳 **Árvore livre (recomendado para começar)**: `arvore-de-recompensas.md`
-- 📈 **Evolução por classe (mais identidade)**: `evolucao.md`
+- após cada aventura, escolha **1 recompensa** na árvore: `arvore-de-recompensas.md`
 
 ## 🎯 Filosofia do sistema
 

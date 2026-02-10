@@ -16,7 +16,7 @@ Os heróis vão investigar, lidar com criaturinhas bagunceiras e decidir como re
 
 ## ✅ Preparação (2 minutos)
 
-- Tenha à mão: `nucleo-infantil.md`, `combate.md` e `arvore-de-recompensas.md` (ou `evolucao.md`).
+- Tenha à mão: `nucleo-infantil.md`, `combate.md` e `arvore-de-recompensas.md`.
 - Se quiser fichas prontas: `fichas/infantil/README.md`.
 - Para 6–8 anos: use a “Regra do 6” (em `nucleo-infantil.md`) e só 4 condições (em `combate.md`).
 - Regra do mestre: pergunte muito e explique pouco. A tabela do D6 aparece naturalmente.
@@ -134,7 +134,6 @@ A vila agradece (pão quentinho, aplausos, uma medalha de papel, etc.).
 Cada herói escolhe **1 coisa legal**:
 
 - pela árvore: `arvore-de-recompensas.md`
-- por classe: `evolucao.md`
 
 Feche com:
 

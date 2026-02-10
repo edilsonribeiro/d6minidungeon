@@ -6,9 +6,7 @@ Isso funciona como um “álbum de figurinhas” do herói:
 - tudo é **visual e colecionável**
 - nada tem pré-requisito
 
-✅ **Use este modelo OU evolução por classe** (não misture nos primeiros jogos):
-
-- `evolucao.md`
+✅ **Use este modelo como progressão do jogo** (principalmente no começo).
 
 Pergunta do mestre:
 

@@ -7,7 +7,7 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 |---|---|---| 
 | ❤️ **Vida** | ataque físico | “dano de verdade” (quando as esquivas acabam) |
 | 🛡️ **Esquiva** | — | desviar / bloquear ataques físicos |
-| 🟣 **Alma** | milagres / influência | controle, medo, drenagem, efeitos espirituais |
+| 🟣 **Alma** | — | controle, medo, drenagem, efeitos espirituais |
 | 🔵 **Mana** | magia arcana | resistir magia arcana | energia arcana bruta |
 
 ## 🎯 Regras globais (fixas)

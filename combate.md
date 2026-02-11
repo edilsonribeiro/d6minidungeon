@@ -23,8 +23,8 @@ Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
 |---|---|---|---|
 | ❤️ **Vida** | ataque físico | “dano real” (quando tudo falha) | corpo, força, fôlego |
 | 🛡️ **Esquiva** | — | desviar / bloquear ameaças físicas | reflexo, agilidade |
-| 🟣 **Alma** | milagres / influência | resistir efeitos espirituais/mentais | vontade, fé, espírito |
-| 🔵 **Mana** | magia arcana | resistir magia arcana | energia mágica bruta |
+| 🟣 **Alma** | — | resistir efeitos espirituais/mentais | vontade, fé, espírito |
+| 🔵 **Mana** | magia arcana | — | energia mágica bruta |
 
 Regras fixas:
 
@@ -85,18 +85,16 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 - **Arcano**
   - **Magia improvisada (qualquer personagem)**: gaste **🔵1** → aplique o efeito de uma magia básica (dano máx **1**)
   - **Magia dominada (especialização/habilidade)**: gaste **🔵1** (ou custo indicado) → efeito completo/forte
-- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade. Gaste **🟣1**.
 
-2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵/🟣) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
+2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
 - Ataque **físico** tira pontos de 🛡️ **Esquiva** do alvo; se a Esquiva estiver em **0**, o dano vai para ❤️ **Vida**.
 - Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
-- Ataque **espiritual/mental** tira pontos de 🟣 **Alma** do alvo; se a Alma estiver em **0**, o dano vai para ❤️ **Vida**.
 
 - **6**: causa **2 de dano** e ativa algo legal da sua arma/pet; se ativar uma habilidade, pague o custo do recurso
 - **4–5**: causa **1 de dano**
 - **2–3**: escolha 1:
-  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵/🟣)
+  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵)
   - causa **0 de dano** (você não se expõe)
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
 

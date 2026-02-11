@@ -95,7 +95,6 @@ Escolha o tipo do ataque e role **1D6**:
 - **Arcano**
   - **Magia improvisada (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
   - **Magia arcana (especialização/habilidade)**: gaste **🔵1** → dano normal do sistema
-- **Espiritual/mental (milagre/influência)**: só se você tiver uma habilidade. Gaste **🟣1**.
 
 Efeitos espirituais/mentais (medo, controle, drenagem) atingem 🟣 **Alma**.
 
@@ -104,7 +103,7 @@ Resultados:
 - **6**: causa **2 de dano** (e sua arma/pet pode ativar algo legal)
 - **4–5**: causa **1 de dano**
 - **2–3**: escolha 1:
-  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵/🟣)
+  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵)
   - causa **0 de dano**
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque
 

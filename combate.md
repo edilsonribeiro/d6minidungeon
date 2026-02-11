@@ -17,51 +17,68 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 
 | Situação | Recurso | Rolagem | Observação |
 |---|---|---|---|
-| Ataque físico (curto alcance) | ❤️ Vida | 1D6 por Vida (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
-| Ataque físico (longo alcance) | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
-| Resistência mágica | 🔵 Mana | 1D6 por Mana (melhor) | alvo pode gastar 🔵1 para anular 1 dano mágico |
+| Ataque físico (corpo a corpo ou à distância) | ❤️ Vida | 1D6 por Vida (melhor) | no **6**, o efeito vem do item |
+| Ataque mágico (arcano ou divino) | 🔵 Mana | 1D6 por Mana (melhor) | no **6**, o efeito vem do item |
+| Resistência física | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | pode gastar 🛡️1 para anular 1 dano físico |
+| Resistência mágica | 🔵 Mana | 1D6 por Mana (melhor) | pode gastar 🔵1 para anular 1 dano mágico |
 
 ## ⚔ Combate (sem complicação)
 
 ### 🗡 Atacar um inimigo
 
-1) Escolha o **tipo** do seu ataque:
+Existem só **2 tipos de ataque**: **físico** e **mágico**. O que muda é o **tipo do item** (e o efeito no **6**).
 
-- **Físico (curto alcance)** (corpo a corpo) → usa ❤️ **Vida**
-- **Físico (longo alcance)** (à distância) → usa 🛡️ **Esquiva**
-- **Arcano**
-  - **Magia improvisada (qualquer personagem)**: gaste **🔵1** (ver `recursos.md`)
-  - **Magia dominada (especialização/habilidade)**: gaste **🔵1** (ou custo indicado)
-- **Milagre** (se você tiver um) → gaste 🟣 **Alma** (cura/protege/purifica etc.)
+1) Escolha o **tipo do seu item**:
 
-2) Role **1D6 por ponto** do recurso do ataque (❤️/🛡️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
+- ⚔️ **Corpo a corpo** (espada, machado, lança…) → ataque **físico**
+- 🏹 **À distância** (arco, besta…) → ataque **físico**
+- 🔮 **Arcano** (foco arcano) → ataque **mágico**
+- ✝️ **Divino** (amuleto/símbolo) → ataque **mágico**
 
-- Ataque **físico** causa dano em ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano).
-- Ataque **arcano** causa **dano mágico** em ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano).
+2) Role **1D6 por ponto que você tem** no recurso do ataque e use **apenas o melhor dado**:
 
-- **6**: causa **2 de dano** e ativa algo legal do seu **item/pet**; se ativar uma habilidade, pague o custo do recurso (ver `equipamentos.md`)
+- ataque **físico** (⚔️/🏹) → role por ❤️ **Vida**
+- ataque **mágico** (🔮/✝️) → role por 🔵 **Mana**
+
+Depois aplique no **recurso do alvo**:
+
+- ataque **físico** causa **dano físico** em ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
+- ataque **mágico** causa **dano mágico** em ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano)
+
+- **6**: causa **2 de dano** e ativa o **efeito do item** (ver abaixo e `equipamentos.md`)
 - **4–5**: causa **1 de dano**
 - **2–3**: escolha 1:
   - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵)
   - causa **0 de dano** (você não se expõe)
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
 
-Detalhes de **Magia improvisada** (limites e lista de efeitos): `recursos.md`.
+Efeito do item no **6** (além do dano normal):
+
+- ⚔️ **Corpo a corpo**: +**1 dano** (total **3**)
+- 🏹 **À distância**: o alvo **não pode gastar 🛡️1** para anular o dano **deste ataque**
+- 🔮 **Arcano**: escolha 1:
+  - 🔥 **Fogo**: cause **1 dano mágico** em outro inimigo perto
+  - 🌪️ **Vento**: **empurre** um alvo perto
+  - 🪨 **Terra**: deixe o alvo 🟡 **Caído**
+  - ❄️ **Gelo**: deixe o alvo 🔵 **Preso**
+- ✝️ **Divino**: escolha 1:
+  - cure **+1 ❤️ Vida** de uma criatura perto
+  - dê 🟢 **Protegido** para uma criatura perto
 
 ### 🛡️️️ Quando um inimigo te ataca
 
 Você **rola o dado**, não o monstro:
 
-O mestre diz qual é o tipo do ataque (físico / arcano).
+O mestre diz qual é o tipo do ataque (**físico** ou **mágico**).
 
-Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵) e usa **apenas o melhor dado**. A rolagem define se você resiste:
+Você rola **1D6 por ponto que você tem no recurso de resistência** (🛡️/🔵) e usa **apenas o melhor dado**. Se o recurso estiver em **0**, você não rola: trate como resultado **1**. A rolagem define se você resiste:
 
 - **6**: você resiste e pode contra-atacar (se fizer sentido)
 - **4–5**: você resiste
-- **2–3**: você sofre **1 de dano** no recurso de resistência:
+- **2–3**: você sofre **1 de dano**:
   - físico → ❤️ **Vida** (você pode gastar 🛡️1 para anular **1** desse dano)
-  - arcano → ❤️ **Vida** (você pode gastar 🔵1 para anular **1** desse dano)
-- **1**: você sofre **2 de dano** (físico → ❤️ Vida; arcano → ❤️ Vida; e o monstro pode impor uma condição se tiver esse “truque”)
+  - mágico → ❤️ **Vida** (você pode gastar 🔵1 para anular **1** desse dano)
+- **1**: você sofre **2 de dano** (físico → ❤️ Vida; mágico → ❤️ Vida; e o monstro pode impor uma condição se tiver esse “truque”)
 
 Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
 Lembrete: quando você tomaria **dano mágico**, você pode gastar **🔵1** para anular **1** desse dano (ação universal).

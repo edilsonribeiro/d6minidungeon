@@ -22,7 +22,7 @@ Cada herói tem:
 - 🛡️ **Esquiva** (0–4)
 - 🟣 **Alma** (0–4)
 - 🔵 **Mana** (0–4)
-- 🧰 **Item de combate**: escolha 1 tipo (⚔️ curto / 🏹 longo / 🔮 arcano / ✝️ divino)
+- 🧰 **Item de combate**: escolha 1 tipo (⚔️ corpo a corpo / 🏹 à distância / 🔮 arcano / ✝️ divino)
 - ✨ **Habilidades de classe** (cada uso gasta **1 ponto** do recurso indicado)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
@@ -33,6 +33,7 @@ Cada herói tem:
 Sempre que fizer algo arriscado ou importante:
 
 👉 **Role 1D6 por ponto do recurso usado** e use **apenas o melhor dado**
+Ou seja: **1D6 por ponto que você tem nesse recurso agora**.
 
 | Resultado | O que acontece |
 |---|---|

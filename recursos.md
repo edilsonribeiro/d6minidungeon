@@ -4,10 +4,10 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 
 | Recurso | Função ofensiva | Função defensiva |
 |---|---|---| 
-| ❤️ **Vida** | ataque físico (curto alcance) | recebe dano físico (quando o golpe passa) |
-| 🛡️ **Esquiva** | ataque físico (longo alcance) | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
+| ❤️ **Vida** | ataque físico (corpo a corpo e à distância) | recebe dano físico (quando o golpe passa) |
+| 🛡️ **Esquiva** | — | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
 | 🟣 **Alma** | milagres e Destino (mudar a rolagem) | — |
-| 🔵 **Mana** | magia arcana | resistir ataques mágicos (rolagem) e anular 1 dano mágico (🔵1) |
+| 🔵 **Mana** | ataque mágico (arcano e divino) | resistir ataques mágicos (rolagem) e anular 1 dano mágico (🔵1) |
 
 ## 🎯 Regras globais (fixas)
 
@@ -18,7 +18,6 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 - Recursos **não regeneram durante combate**.
 - Recursos recuperam apenas em **descanso completo**.
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
-- Exceção útil (para a cena não travar): se você precisar resistir algo com o recurso correto em **0**, role **1D6** mesmo assim, mas **qualquer dano/impacto vai direto para ❤️ Vida** (se a Vida já estiver em 0, você desmaia — ver `combate.md`).
 
 ## 📊 Distribuição por classe (10 pontos)
 
@@ -29,10 +28,10 @@ Valores iniciais e distribuição por classe: `classes.md`.
 - Mana é um **recurso** (não é mais “por aventura” separado do resto).
 - Mana é **energia arcana bruta**: contato com o arcano sem especialização.
 - Qualquer personagem pode gastar Mana para uma **magia improvisada** (efeito simples e imediato).
-- Magias arcanas “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
+- Magias “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
 - Se sua Mana chegar a **0**:
-  - você não consegue usar magia arcana
-  - você não consegue gastar 🔵 para se defender (ex.: anular 1 dano mágico); você ainda pode rolar **1D6** para resistir (exceção anti-trava)
+  - você não consegue usar magia
+  - você não consegue gastar 🔵 para se defender (ex.: anular 1 dano mágico)
 
 ## ✨ Magia improvisada (qualquer personagem)
 

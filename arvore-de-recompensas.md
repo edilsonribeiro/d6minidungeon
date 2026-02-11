@@ -16,10 +16,10 @@ Pergunta do mestre:
 
 Em vez de lista de armas, você pode ganhar/trocar um item e mudar seu estilo:
 
-- ⚔️ curto alcance (ataca com ❤️)
-- 🏹 longo alcance (ataca com 🛡️)
+- ⚔️ corpo a corpo (ataca com ❤️)
+- 🏹 à distância (ataca com ❤️)
 - 🔮 foco arcano (magia com 🔵)
-- ✝️ foco divino (milagres com 🟣)
+- ✝️ foco divino (magia com 🔵)
 
 Regras completas dos itens: `equipamentos.md`.
 

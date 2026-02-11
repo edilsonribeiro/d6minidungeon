@@ -8,6 +8,7 @@ Regras rápidas:
  - 🧩 Todo herói tem **4 recursos**: ❤️ Vida / 🛡️ Esquiva / 🟣 Alma / 🔵 Mana
  - 📌 Cada classe tem **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem Vida/Esquiva/Alma/Mana
 - ✨ Toda habilidade especial custa **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵)
+- 💎 **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso** (mas pode combinar recursos diferentes).
 
 Distribuição oficial:
 

@@ -14,6 +14,8 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 
 - Cada recurso vai de **0 a 4** (máximo do personagem).
 - **Habilidades especiais** custam **1 ponto** do recurso associado.
+- **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso**.
+  - Você pode gastar pontos de **recursos diferentes** na mesma ação (ex.: ❤️ + 🟣 = ok; ❤️ + ❤️ = não).
 - Recursos **não regeneram durante combate**.
 - Recursos recuperam apenas em **descanso completo**.
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).

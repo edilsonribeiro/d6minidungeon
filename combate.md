@@ -29,6 +29,8 @@ Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
 Regras fixas:
 
 - **Habilidades especiais** custam **1 ponto** do recurso associado.
+- **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso**.
+  - Você pode gastar pontos de **recursos diferentes** na mesma ação (ex.: ❤️ + 🟣 = ok; ❤️ + ❤️ = não).
 - Recursos **não regeneram durante o combate**.
 - Recursos recuperam apenas em **descanso completo**.
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
@@ -169,6 +171,7 @@ Use isso no lugar de bônus numéricos.
 ## ✨ Habilidades especiais (custam recurso)
 
 - Quando você usar uma habilidade especial, gaste **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
+- Limite: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso** (mas pode combinar recursos diferentes).
 - Se o recurso está em **0**, aquela habilidade **não funciona**.
 
 Detalhes por classe e ideias de poderes:

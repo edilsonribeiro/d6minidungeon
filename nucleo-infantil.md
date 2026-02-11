@@ -78,6 +78,8 @@ Use isso no lugar de bônus numéricos.
 ## 🧩 Recursos (regras fixas)
 
 - Toda habilidade especial custa **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
+- **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso**.
+  - Você pode gastar pontos de **recursos diferentes** na mesma ação (ex.: ❤️ + 🟣 = ok; ❤️ + ❤️ = não).
 - Recursos **não regeneram durante o combate**.
 - Recuperam apenas em **descanso completo**.
 - Se um recurso chega a **0**, ele **não pode mais ser usado**.

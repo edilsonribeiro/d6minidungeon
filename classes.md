@@ -32,9 +32,9 @@ Ideia-chave:
 
 Escolha **2** técnicas:
 
-- 🛡️ **Protetor** (custa 🛡️1): redirecione um ataque físico que acertaria um aliado perto para você (você rola a esquiva).
-- 🛡️ **Resistente** (custa 🛡️1): após rolar uma esquiva, trate um **2–3** como **4–5**.
-- ❤️ **Golpe poderoso** (custa ❤️1): após acertar um ataque físico, cause **+1 dano** (total 2→3 ou 1→2).
+- ❤️ **Protetor** (custa ❤️1): redirecione um ataque físico que acertaria um aliado perto para você (você rola a esquiva).
+- ❤️ **Resistente** (custa ❤️1): após rolar uma esquiva, trate um **2–3** como **4–5**.
+- ❤️ **Golpe amplo** (custa ❤️1): após acertar um ataque físico, você pode atingir outro inimigo perto, causando **1 de dano** adicional nele. O segundo inimigo não sofre efeitos da arma (Caído, Tonto, etc.).
 - ❤️ **Último esforço** (custa ❤️1): ignore **Tonto** por 1 turno e aja normalmente.
 
 ## 🏹 Patrulheiro (Ranger) — Agilidade

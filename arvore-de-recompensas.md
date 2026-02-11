@@ -16,23 +16,7 @@ Pergunta do mestre:
 
 Armas não dão bônus. Elas mudam **o efeito do seu 6** quando você ataca.
 
-Para 6–8 anos, escolha uma das **5 armas básicas**. Os “extras” são opcionais.
-
-Escolha uma (ou invente uma parecida):
-
-- 🗡 **Espada**: empurra o inimigo
-- 🪓 **Machado**: derruba (Caído)
-- 🔨 **Martelo**: deixa tonto (Tonto)
-- 🏹 **Arco longo**: acerta “muito longe” sem complicação
-- 🗡 **Lança**: impede de fugir (Preso)
-
-🧠 **Extras (8–10 opcional)**:
-
-- 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
-- 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
-- 🎯 **Besta pesada**: no 6, o alvo **não pode apagar 🟦 Armadura** contra esse dano
-
-> Dica: você pode trocar só o “skin” (espada de cristal, machado de gelo, martelo gigante) sem mudar a regra.
+Lista de armas e extras: `equipamentos.md`.
 
 ## 🐾 Ramo 2 — Pets (companheiros inesquecíveis)
 
@@ -71,44 +55,17 @@ Se um pet tiver texto “1 vez por cena”, no modo 6–8 você pode ignorar iss
 
 Magia = **1 frase simples**.
 
-Para usar uma magia/habilidade, gaste **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
+- Cada uso custa **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
+- Curar ❤️ **Vida** é **milagre** (normalmente coisa do **Curandeiro**, ou de item/ritual).
 
-Regra importante:
-
-- Curar ❤️ **Vida** é **milagre** e, por padrão, é coisa do **Curandeiro** (ou de item/ritual).
-
-Escolha um (ou invente um parecido):
-
-### ⚔ Guerreiro
-
-- “Quando um amigo cair, eu entro na frente”
-- “No meu 6, eu empurro dois inimigos”
-- “Eu não caio com o primeiro golpe”
-
-### 🏹 Ranger
-
-- “Depois de atacar, eu posso desaparecer”
-- “Meu pet ataca comigo”
-- “Eu nunca erro um alvo parado”
-
-### 🔥 Mago
-
-- “Minha magia muda o cenário (fogo, gelo, vento...)”
-- “No meu 6, eu escolho dois efeitos do meu elemento”
-- “Minha magia cria algo novo (ponte, parede, luz, vinhas...)”
-
-### ✝ Curandeiro
-
-- “Eu posso levantar dois amigos”
-- “Eu posso proteger todo mundo por um momento”
-- “Minha cura também afasta um inimigo”
+Ideias e exemplos por classe: `classes.md`.
 
 ## ❤️ Ramo 4 — Melhorias simples (opcional)
 
 Use para “coisas legais” sem aumentar números:
 
 - 🎒 **Item especial** (corda mágica, bomba de fumaça, poção, chave mestra)
-- 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez
+- 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez (ver `recursos.md`)
 - 🧩 **Treino**: escolha uma frase tipo “agora eu sei…” (ex.: “eu sei nadar”, “eu sei escalar”, “eu sei abrir fechaduras”)
 
 ## 💬 Regra final

@@ -2,13 +2,7 @@
 
 No sistema fechado, a classe define **qual recurso você domina** e quais **habilidades** você consegue gastar durante o combate.
 
-Regras rápidas:
-
-- 🎲 Toda rolagem: **1D6**
- - 🧩 Todo herói tem **4 recursos**: ❤️ Vida / 🛡️ Esquiva / 🟣 Alma / 🔵 Mana
- - 📌 Cada classe tem **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem Vida/Esquiva/Alma/Mana
-- ✨ Toda habilidade especial custa **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵)
-- 💎 **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso** (mas pode combinar recursos diferentes).
+Regras do núcleo e de gastos: `nucleo-infantil.md` e `recursos.md`.
 
 Distribuição oficial:
 
@@ -18,10 +12,6 @@ Distribuição oficial:
 | 🏹 Patrulheiro | 3 | 4 | 1 | 2 |
 | ✝ Curandeiro | 2 | 1 | 4 | 3 |
 | 🔥 Mago | 1 | 2 | 3 | 4 |
-
-Fichas prontas para imprimir: `fichas/infantil/README.md`.
-
-Equipamentos e efeitos de armas: `equipamentos.md`.
 
 ## ⚔ Guerreiro — Força
 

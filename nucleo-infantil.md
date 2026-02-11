@@ -27,11 +27,7 @@ Cada herói tem:
 - ✨ **Habilidades de classe** (cada uso gasta **1 ponto** do recurso indicado)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
-Detalhes de classe e valores iniciais: `classes.md`.
-
-Fichas prontas para imprimir: `fichas/infantil/README.md`.
-
-Primeira aventura pronta (tutorial de ~30 min): `aventura-inicial.md`.
+Índice do sistema e próximos passos: `README.md`.
 
 ## 🎲 A regra principal (vale para tudo)
 
@@ -53,7 +49,6 @@ Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer a
 Para crianças menores (ou mesas bem rápidas), use este atalho:
 
 - Se tirou **6**, acontece **o extra** (arma, magia, pet, truque da raça, etc.).
- - Se tirou **6**, acontece **o extra** (arma, magia, pet, etc.).
 - Se não tirou 6, acontece só o **básico** do resultado.
 
 Isso reduz muito a quantidade de “gatilhos diferentes” para lembrar.
@@ -78,47 +73,17 @@ Use isso no lugar de bônus numéricos.
 ## 🧩 Recursos (regras fixas)
 
 - Toda habilidade especial custa **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
-- **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso**.
-  - Você pode gastar pontos de **recursos diferentes** na mesma ação (ex.: ❤️ + 🟣 = ok; ❤️ + ❤️ = não).
-- Recursos **não regeneram durante o combate**.
-- Recuperam apenas em **descanso completo**.
-- Se um recurso chega a **0**, ele **não pode mais ser usado**.
-- Ações universais:
-  - 🟣 **Destino**: gaste **🟣1** para dar **Ajuda** (**+1D6**) ou **Atrapalho** (**-1D6, mínimo 1 dado**) em uma rolagem.
-  - 🔵 **Magia improvisada**: gaste **🔵1** para reproduzir uma magia básica em uma ação (ou dano arcano máximo **1**).
+- Regras de recursos (limite de gasto, recuperação, Destino e magia improvisada): `recursos.md`.
 
 ## ⚔ Combate (sem complicação)
 
-### 🗡 Atacar um inimigo
+Regras completas (atacar, defender, condições e grid opcional): `combate.md`.
 
-Escolha o tipo do ataque e role **1D6**:
+Lembretes rápidos:
 
-- **Físico** → dano vai para ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
-- **Arcano**
-  - **Magia improvisada (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
-  - **Magia arcana (especialização/habilidade)**: gaste **🔵1** → dano normal do sistema
-
-Efeitos espirituais/mentais (medo, controle, drenagem) atingem 🟣 **Alma**.
-
-Resultados:
-
-- **6**: causa **2 de dano** (e sua arma/pet pode ativar algo legal)
-- **4–5**: causa **1 de dano**
-- **2–3**: escolha 1:
-  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵)
-  - causa **0 de dano**
-- **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque
-
-Lembrete: se foi **Magia improvisada**, o dano máximo é **1** (mesmo no 6).
-
-### 🛡️️️ Quando um inimigo te ataca
-
-Você **rola o dado**, não o monstro:
-
-- **6**: você resiste e pode contra-atacar
-- **4–5**: você resiste
-- **2–3**: você sofre **1 de dano** (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma. Se 🔵/🟣 estiver em 0, vai para ❤️ Vida. No físico, você pode gastar 🛡️1 para anular **1** desse dano.)
-- **1**: você sofre **2 de dano** (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma; e o monstro pode impor uma condição)
+- dano físico vai para ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
+- dano arcano vai para 🔵 **Mana** (se 🔵 estiver em 0, impacto vai para ❤️ Vida)
+- efeitos espirituais/mentais vão para 🟣 **Alma** (se 🟣 estiver em 0, impacto vai para ❤️ Vida)
 
 ## 🩸 Vida 0 e Armadura
 
@@ -137,82 +102,10 @@ Você **rola o dado**, não o monstro:
 
 Exemplo: 🟦🟦🟦 → 🟦🟦 → 🟦 → quebrada
 
-## 🗡 Armas (cada uma faz UMA coisa)
+## 🎒 Equipamentos e recompensas
 
-Quando você tira **6**, sua arma faz algo especial:
-
-- 🗡 **Espada**: empurra o inimigo
-- 🪓 **Machado**: derruba
-- 🔨 **Martelo**: deixa tonto
-- 🏹 **Arco**: acerta alguém longe
-- 🗡 **Lança**: impede de fugir
-
-Sem listas. Sem exceções.
-
-## ✨ Magias
-
-Cada herói tem magias (frases curtas).
-
-Para usar uma magia:
-
-- gaste **1 ponto** do recurso da magia e descreva o efeito
-  - 🔵 Mana: truques/magias arcanas
-  - 🟣 Alma: milagres (ex.: cura é coisa de Curandeiro)
-
-Exemplos de magia:
-
-- “Eu posso curar um amigo”
-- “Eu posso proteger alguém do dano”
-- “Eu posso empurrar um inimigo com vento”
-
-## 🐾 Pets (opcional, mas incrível)
-
-Um pet:
-
-- não tem vida
-- não rola dado
-- **Modo 6–8 (recomendado)**: ajuda quando você tira **6**
-- **Modo 8–10 (opcional)**: ajuda **1 vez por cena**
-
-Exemplos:
-
-- 🐺 Lobo: ajuda a atacar
-- 🦉 Coruja: avisa perigos
-- 🐉 Dragão pequeno: solta fogo fraco
-- 🐱 Gato mágico: protege uma vez
-
-## 🚶 Movimento (bem livre)
-
-No seu turno você pode:
-
-- se mover
-- fazer **1 ação**
-
-Distâncias são narrativas:
-
-- perto
-- longe
-- muito longe
-
-Sem contar quadrados.
-
-## 🎁 Recompensas (parte divertida!)
-
-No fim da aventura, escolha **1**:
-
-- 🗡 arma nova
-- 🛡️️️ armadura nova (consertada)
-- 🐾 pet
-- ✨ magia nova
-- 🎒 item especial (corda mágica, bomba de fumaça, etc.)
-
-Sempre algo legal. Nunca só número.
-
-### 🌳 Progressão (começo do jogo)
-
-Para não confundir no início, use só a árvore:
-
-- `arvore-de-recompensas.md`
+- armas e armaduras: `equipamentos.md`
+- pets e recompensas: `arvore-de-recompensas.md`
 
 ## 🧠 Regra de ouro do mestre
 

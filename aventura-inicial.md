@@ -88,10 +88,12 @@ Cada ratinho:
 
 ### 🧠 Ensinar combate sem travar
 
-- No turno do herói: ele se move + faz 1 ação (atacar, correr, empurrar saco, gritar, pegar algo).
-- Para atacar: escolha o tipo (físico/arcano) e role **1D6 por ponto do recurso** (use só o melhor dado).
-- Para usar uma habilidade/magia: gaste **1 ponto** do recurso indicado (❤️/🛡️/🟣/🔵).
-- No turno do monstro: peça a esquiva (6 evita e pode contra-atacar; 4–5 evita; 2–3 toma 1; 1 toma 2 ou condição).
+Use `nucleo-infantil.md` (regra principal) e `combate.md` (passo a passo).
+
+Atalho do tutorial:
+
+- No turno do herói: move + faz 1 ação.
+- No turno do monstro: sempre peça a rolagem do jogador.
 
 Use o cenário:
 
@@ -105,11 +107,7 @@ Durante o combate (ou logo depois), apareça com:
 
 > “Um ratinho menor aparece… ele não quer brigar. Parece perdido.”
 
-Se o grupo quiser, ele vira um **pet**:
-
-- não tem vida, não rola dados
-- **Modo 6–8 (recomendado)**: ajuda quando um herói tirar **6**
-- **Modo 8–10 (opcional)**: ajuda **1 vez por cena** (ex.: achar chave, distrair ratinho, pegar item pequeno)
+Se o grupo quiser, ele vira um **pet** (regras e exemplos em `arvore-de-recompensas.md`).
 
 ## 🤝 Cena 4 — A escolha final (5 min)
 

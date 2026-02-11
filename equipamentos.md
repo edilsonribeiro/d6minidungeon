@@ -55,22 +55,6 @@ Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
 
 > Se você quiser variedade sem regra extra: mude só o “skin” (espada de cristal, martelo gigante, arco de elfo, etc.).
 
-## 🐾 Pets (opcional, muito recomendado)
+## 🐾 Pets
 
-Pets são companheiros simples e desejáveis para crianças:
-
-- não têm vida
-- não rolam dado
-- fazem **1 coisa fixa**
-
-Uso sugerido:
-
-- **Modo 6–8 (recomendado)**: o pet “entra” quando você tira **6**
-- **Modo 8–10 (opcional)**: o pet pode ajudar **1 vez por cena**
-
-Exemplos:
-
-- 🐺 **Lobo**: ajuda a atacar (no seu 6, transforme seu ataque em um sucesso ainda mais incrível)
-- 🦉 **Coruja**: avisa perigos (o mestre dá uma pista clara antes de uma armadilha)
-- 🐉 **Dragão pequeno**: assusta/espalha inimigos (no 6, empurra ou derruba um alvo)
-- 🐱 **Gato mágico**: protege (no seu 6, transforme 1 dano em 0)
+Pets fazem parte das recompensas (ver `arvore-de-recompensas.md`).

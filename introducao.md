@@ -14,48 +14,15 @@ Para começar sem confundir:
 
 ## 🧒 Núcleo infantil (padrão)
 
-### 🌟 O que você precisa
+O núcleo completo (regra principal + combate simples + recursos) está em: `nucleo-infantil.md`.
 
-- 1 dado de seis lados (D6)
-- papel e lápis
-- imaginação ✨
+Para aprofundar por tema:
 
-### 🧙 Personagem (bem simples)
-
-Cada herói tem:
-
-- ❤️ **Vida** (0–4)
-- 🛡️ **Esquiva** (0–4)
-- 🟣 **Alma** (0–4)
-- 🔵 **Mana** (0–4)
-- 🟦 **Armadura** (opcional, equipamento com escudos que você apaga)
-- 🗡 **Arma**: 1 (faz algo especial no 6)
-- ✨ **Habilidades**: frases curtas (cada uso custa **1 ponto** do recurso indicado)
-- 🐾 **Pet** (opcional): ajuda de vez em quando
-
-Nada de contas ou tabelas.
-
-### 🎲 A regra principal (vale para tudo)
-
-Sempre que fizer algo arriscado ou importante:
-
-👉 **Role 1D6 por ponto do recurso usado** e use **apenas o melhor dado**
-
-| Resultado | O que acontece |
-|---|---|
-| **6** | Você consegue **e algo muito legal acontece** |
-| **4–5** | Você consegue |
-| **2–3** | Você não consegue completamente |
-| **1** | Algo dá errado ou engraçado acontece |
-
-### 🧩 Ajuda e atrapalho (opcional, mas fácil)
-
-Quando estiver muito fácil ou muito difícil:
-
-- **Ajuda (Vantagem)**: role **+1D6** (um dado extra) e use **apenas o melhor dado**
-- **Atrapalho (Desvantagem)**: role **-1D6** (um dado a menos, mínimo 1 dado)
-
-Use isso no lugar de bônus numéricos.
+- recursos, Destino e magia improvisada: `recursos.md`
+- combate, condições e módulo de grid: `combate.md`
+- classes e habilidades: `classes.md`
+- equipamentos (armas/armadura): `equipamentos.md`
+- monstros (como narrar e montar ficha simples): `monstros.md`
 
 ## 💤 Descanso
 
@@ -64,19 +31,7 @@ Use isso no lugar de bônus numéricos.
 
 ## 🎁 Evolução (recompensas)
 
-Ao final de **cada aventura**, escolha **1**:
-
-- 🗡 arma nova
-- 🛡️️️ armadura nova (consertada)
-- 🐾 pet
-- ✨ magia nova (1 frase)
-- 🎒 item especial (corda mágica, bomba de fumaça, etc.)
-
-### 🌳 Progressão (começo do jogo)
-
-Para as primeiras mesas, use só isto:
-
-- após cada aventura, escolha **1 recompensa** na árvore: `arvore-de-recompensas.md`
+Ao final de **cada aventura**, escolha **1 recompensa** na árvore: `arvore-de-recompensas.md`.
 
 ## 🎯 Filosofia do sistema
 

@@ -16,14 +16,7 @@ Em vez de “números”, dê ao monstro **um truque visível**:
 - 😱 **Assusta** (ataque espiritual/mental → ameaça 🟣 Alma; no 1, você fica **Tonto**)
 
 Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano / espiritual-mental) e peça a rolagem de esquiva do jogador (ver `combate.md`).
-
-Resultados rápidos na esquiva (resumo):
-
-- O jogador rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e usa **apenas o melhor dado**.
-- **6**: evita e faz algo legal
-- **4–5**: evita
-- **2–3**: toma 1 dano (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma)
-- **1**: toma 2 dano (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma; e o truque do monstro pode acontecer)
+As regras completas de ataque/defesa e resultados ficam em `combate.md`.
 
 ## 🧩 Recursos dos monstros (simples)
 

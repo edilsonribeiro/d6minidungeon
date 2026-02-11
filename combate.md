@@ -2,80 +2,23 @@
 
 O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-facing).
 
-## 🎲 A regra principal (vale para tudo)
+## 📌 Onde estão as regras-base
 
-Sempre que fizer algo arriscado ou importante:
-
-👉 **Role 1D6 por ponto do recurso usado** e use **apenas o melhor dado**
-
-| Resultado | O que acontece |
-|---|---|
-| **6** | Você consegue **e algo muito legal acontece** |
-| **4–5** | Você consegue |
-| **2–3** | Você não consegue completamente |
-| **1** | Algo dá errado ou engraçado acontece |
-
-## 📐 Recursos (base do sistema)
-
-Todo personagem possui **4 recursos** (cada um vai de **0 a 4**):
-
-| Recurso | Uso padrão ofensivo | Uso padrão defensivo | Conceito |
-|---|---|---|---|
-| ❤️ **Vida** | ataque físico | “dano real” (quando tudo falha) | corpo, força, fôlego |
-| 🛡️ **Esquiva** | — | desviar / bloquear ameaças físicas | reflexo, agilidade |
-| 🟣 **Alma** | — | resistir efeitos espirituais/mentais | vontade, fé, espírito |
-| 🔵 **Mana** | magia arcana | — | energia mágica bruta |
-
-Regras fixas:
-
-- **Habilidades especiais** custam **1 ponto** do recurso associado.
-- **Limite de gasto**: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso**.
-  - Você pode gastar pontos de **recursos diferentes** na mesma ação (ex.: ❤️ + 🟣 = ok; ❤️ + ❤️ = não).
-- Recursos **não regeneram durante o combate**.
-- Recursos recuperam apenas em **descanso completo**.
-- Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
-  - Se você precisar resistir algo e o recurso correto estiver em **0**, o impacto vai para ❤️ **Vida**.
-
-## ⚔️ Combate básico (motor)
-
-No combate básico, **classes não existem ainda**. Só o motor:
-
-1) Escolha o recurso usado (❤️/🛡️/🟣/🔵).  
-2) Role **1D6 por ponto** desse recurso.  
-3) Use **apenas o melhor resultado** e aplique a tabela do jogo.
-
-Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo assim — mas **qualquer dano/impacto vai direto para ❤️ Vida** (se a Vida já estiver em 0, você desmaia).
+- Regra principal (rolagem + tabela do D6): `nucleo-infantil.md`
+- Regras globais de recursos (limite de gasto, Destino, magia improvisada): `recursos.md`
 
 ## 🧩 Gastos universais (qualquer personagem)
 
 - ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
 - 🛡️ **Esquiva**: quando você tomaria **dano físico**, gaste **🛡️1** → anule **1** desse dano.
-- 🟣 **Destino (Alma)**: gaste **🟣1** → dê **Ajuda** (**+1D6**) a uma rolagem **OU** dê **Atrapalho** (**-1D6, mínimo 1 dado**) a uma rolagem.
-  - declare antes; vale para **1** rolagem
-  - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem
-  - 🛑 **Alma não cura Vida por padrão**. Curar Vida é **milagre** (habilidade) ou coisa de **item/ritual**.
-- 🔵 **Magia improvisada**: gaste **🔵1** → reproduza o efeito de uma **magia básica existente** em uma única ação.
-  - dura só aquela ação (não fica ativo)
-  - não tem área e não sustenta efeito
-  - se causar dano, o dano máximo é **1**
-  - por padrão, você **não repete o mesmo efeito** mais de uma vez por combate (a não ser que alguma habilidade permita)
-  - lista oficial: `recursos.md`
 
-## 📋 Tabela resumo (combate básico)
+## 📋 Tabela resumo (combate)
 
-| Situação | Recurso | Rolagem | Gasto opcional |
+| Situação | Recurso | Rolagem | Observação |
 |---|---|---|---|
-| Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | ❤️1: +1 dano |
-| Esquiva física | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | 🛡️1: anule 1 dano físico |
-| Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | — |
-| Magia improvisada | 🔵 Mana | 1D6 por Mana (melhor) | 🔵1: magia básica (dano máx 1) |
-| Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | 🟣1: Destino (+1D6 / -1D6) |
-
-## 🟣 Destino (Alma) — texto oficial
-
-> **Destino (🟣 Alma)**  
-> Ao gastar **🟣1**, você interfere no destino: dê **Ajuda** (**+1D6**) a uma rolagem ou dê **Atrapalho** (**-1D6**) a uma rolagem.  
-> Declare antes do dado; vale só para aquela rolagem. Um personagem não recebe mais de 1 Destino na mesma rolagem.
+| Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
+| Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | se 🔵 estiver 0, impacto vai para ❤️ Vida |
+| Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | se 🟣 estiver 0, impacto vai para ❤️ Vida |
 
 ## ⚔ Combate (sem complicação)
 
@@ -85,8 +28,8 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 
 - **Físico** (arma, soco, chute) → usa ❤️ **Vida**
 - **Arcano**
-  - **Magia improvisada (qualquer personagem)**: gaste **🔵1** → aplique o efeito de uma magia básica (dano máx **1**)
-  - **Magia dominada (especialização/habilidade)**: gaste **🔵1** (ou custo indicado) → efeito completo/forte
+  - **Magia improvisada (qualquer personagem)**: gaste **🔵1** (ver `recursos.md`)
+  - **Magia dominada (especialização/habilidade)**: gaste **🔵1** (ou custo indicado)
 
 2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
@@ -100,7 +43,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
   - causa **0 de dano** (você não se expõe)
 - **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
 
-Se o ataque arcano foi **Magia improvisada**, o dano máximo é **1** (mesmo no **6**).
+Detalhes de **Magia improvisada** (limites e lista de efeitos): `recursos.md`.
 
 ### 🛡️️️ Quando um inimigo te ataca
 
@@ -161,25 +104,6 @@ Distâncias são narrativas:
 - muito longe
 
 Sem contar quadrados.
-
-## 🧩 Ajuda e atrapalho (opcional)
-
-Quando estiver muito fácil ou muito difícil:
-
-- **Ajuda (Vantagem)**: role **+1D6** (um dado extra) e use **apenas o melhor dado**
-- **Atrapalho (Desvantagem)**: role **-1D6** (um dado a menos, mínimo 1 dado)
-
-Use isso no lugar de bônus numéricos.
-
-## ✨ Habilidades especiais (custam recurso)
-
-- Quando você usar uma habilidade especial, gaste **1 ponto** do recurso associado (❤️/🛡️/🟣/🔵).
-- Limite: em uma ação, você **não pode gastar mais de 1 ponto do mesmo recurso** (mas pode combinar recursos diferentes).
-- Se o recurso está em **0**, aquela habilidade **não funciona**.
-
-Detalhes por classe e ideias de poderes:
-
-- `classes.md`
 
 ## 🧎 Condições (modo infantil recomendado — 4 estados)
 

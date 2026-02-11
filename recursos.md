@@ -1,14 +1,13 @@
-```markdown
 # 🧩 Recursos (Vida / Esquiva / Alma / Mana)
 
 Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 
 | Recurso | Função ofensiva | Função defensiva |
 |---|---|---| 
-| ❤️ **Vida** | ataque físico | “dano de verdade” (quando as esquivas acabam) |
-| 🛡️ **Esquiva** | — | desviar / bloquear ataques físicos |
+| ❤️ **Vida** | ataque físico | recebe dano físico (quando o golpe passa) |
+| 🛡️ **Esquiva** | — | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
 | 🟣 **Alma** | — | controle, medo, drenagem, efeitos espirituais |
-| 🔵 **Mana** | magia arcana | resistir magia arcana | energia arcana bruta |
+| 🔵 **Mana** | magia arcana | resistir magia arcana |
 
 ## 🎯 Regras globais (fixas)
 
@@ -19,19 +18,11 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 - Recursos **não regeneram durante combate**.
 - Recursos recuperam apenas em **descanso completo**.
 - Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
+- Exceção útil (para a cena não travar): se você precisar resistir algo com o recurso correto em **0**, role **1D6** mesmo assim, mas **qualquer dano/impacto vai direto para ❤️ Vida** (se a Vida já estiver em 0, você desmaia — ver `combate.md`).
 
 ## 📊 Distribuição por classe (10 pontos)
 
-Cada classe tem exatamente **10 pontos**, distribuídos como **4 / 3 / 2 / 1** na ordem:
-
-**❤️ Vida – 🛡️ Esquiva – 🟣 Alma – 🔵 Mana**
-
-| Classe | ❤️ Vida | 🛡️ Esquiva | 🟣 Alma | 🔵 Mana | Total |
-|---|---:|---:|---:|---:|---:|
-| ⚔ Guerreiro | 4 | 3 | 2 | 1 | 10 |
-| 🏹 Patrulheiro | 3 | 4 | 1 | 2 | 10 |
-| ✝ Curandeiro | 2 | 1 | 4 | 3 | 10 |
-| 🔥 Mago | 1 | 2 | 3 | 4 | 10 |
+Valores iniciais e distribuição por classe: `classes.md`.
 
 ## 🔵 Mana (como funciona agora)
 
@@ -155,4 +146,3 @@ Qualquer personagem pode gastar Alma para mexer na **rolagem**, não no dano:
 
 - 🧪 **Poção**: recupere **+1** em **um** recurso (❤️/🛡️/🟣/🔵), uma vez.
 
-```

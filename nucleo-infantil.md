@@ -91,7 +91,7 @@ Use isso no lugar de bônus numéricos.
 
 Escolha o tipo do ataque e role **1D6**:
 
-- **Físico** → dano vai para 🛡️ **Esquiva** do alvo (se estiver em 0, vai para ❤️ **Vida**)
+- **Físico** → dano vai para ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
 - **Arcano**
   - **Magia improvisada (qualquer herói)**: gaste **🔵1** → dano máximo **1** (sem área)
   - **Magia arcana (especialização/habilidade)**: gaste **🔵1** → dano normal do sistema
@@ -115,8 +115,8 @@ Você **rola o dado**, não o monstro:
 
 - **6**: você resiste e pode contra-atacar
 - **4–5**: você resiste
-- **2–3**: você sofre **1 de dano** (no recurso do tipo do ataque; se ele estiver em 0, vai para ❤️ Vida)
-- **1**: você sofre **2 de dano** (e o monstro pode impor uma condição)
+- **2–3**: você sofre **1 de dano** (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma. Se 🔵/🟣 estiver em 0, vai para ❤️ Vida. No físico, você pode gastar 🛡️1 para anular **1** desse dano.)
+- **1**: você sofre **2 de dano** (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma; e o monstro pode impor uma condição)
 
 ## 🩸 Vida 0 e Armadura
 

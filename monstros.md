@@ -10,7 +10,7 @@ Monstros normalmente:
 
 Em vez de “números”, dê ao monstro **um truque visível**:
 
-- 👊 **Bate forte** (ataque físico → ameaça 🛡️ Esquiva / ❤️ Vida)
+- 👊 **Bate forte** (ataque físico → ameaça ❤️ Vida; o herói pode gastar 🛡️1 para anular 1 dano)
 - 🪨 **Derruba** (no 1 da esquiva física, você fica **Caído**)
 - 🕸 **Prende** (no 1 da esquiva física, você fica **Preso**)
 - 😱 **Assusta** (ataque espiritual/mental → ameaça 🟣 Alma; no 1, você fica **Tonto**)
@@ -22,8 +22,8 @@ Resultados rápidos na esquiva (resumo):
 - O jogador rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e usa **apenas o melhor dado**.
 - **6**: evita e faz algo legal
 - **4–5**: evita
-- **2–3**: toma 1 dano no recurso do tipo do ataque
-- **1**: toma 2 dano (e o truque do monstro pode acontecer)
+- **2–3**: toma 1 dano (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma)
+- **1**: toma 2 dano (físico em ❤️ Vida; arcano em 🔵 Mana; espiritual/mental em 🟣 Alma; e o truque do monstro pode acontecer)
 
 ## 🧩 Recursos dos monstros (simples)
 
@@ -33,7 +33,7 @@ Você pode dar ao monstro só **1–2 recursos** e pronto:
 - Monstro **arcano**: 🔵 Mana + ❤️ Vida
 - Monstro **sombrio**: 🟣 Alma + ❤️ Vida
 
-Quando o recurso principal do monstro chega a **0** (🛡/🔵/🟣), o impacto começa a ir para ❤️ **Vida** (igual ao jogador).
+Quando 🔵/🟣 do monstro chega a **0**, o impacto vai para ❤️ **Vida** (igual ao jogador). 🛡️ Esquiva é gasta para anular dano físico; em 0, ele não consegue mais evitar dano desse jeito.
 
 ## ❤️ Vida (referência rápida)
 

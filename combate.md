@@ -47,7 +47,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 ## 🧩 Gastos universais (qualquer personagem)
 
 - ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
- - 🛡️ **Esquiva total**: antes de uma esquiva física, gaste **🛡️1** → você resiste automaticamente (como **4–5**) e não sofre dano.
+- 🛡️ **Esquiva**: quando você tomaria **dano físico**, gaste **🛡️1** → anule **1** desse dano.
 - 🟣 **Destino (Alma)**: gaste **🟣1** → dê **Ajuda** (**+1D6**) a uma rolagem **OU** dê **Atrapalho** (**-1D6, mínimo 1 dado**) a uma rolagem.
   - declare antes; vale para **1** rolagem
   - limite: um personagem **não pode receber mais de um Destino** na mesma rolagem
@@ -64,7 +64,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 | Situação | Recurso | Rolagem | Gasto opcional |
 |---|---|---|---|
 | Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | ❤️1: +1 dano |
-| Esquiva física | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | 🛡️1: desvio automático |
+| Esquiva física | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | 🛡️1: anule 1 dano físico |
 | Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | — |
 | Magia improvisada | 🔵 Mana | 1D6 por Mana (melhor) | 🔵1: magia básica (dano máx 1) |
 | Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | 🟣1: Destino (+1D6 / -1D6) |
@@ -88,7 +88,7 @@ Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo as
 
 2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
-- Ataque **físico** tira pontos de 🛡️ **Esquiva** do alvo; se a Esquiva estiver em **0**, o dano vai para ❤️ **Vida**.
+- Ataque **físico** causa dano em ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano).
 - Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
 
 - **6**: causa **2 de dano** e ativa algo legal da sua arma/pet; se ativar uma habilidade, pague o custo do recurso
@@ -111,19 +111,19 @@ Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e us
 - **6**: você resiste e pode contra-atacar (se fizer sentido)
 - **4–5**: você resiste
 - **2–3**: você sofre **1 de dano** no recurso de resistência:
-  - físico → 🛡️ **Esquiva** (se estiver 0, vai para ❤️ **Vida**)
+  - físico → ❤️ **Vida** (você pode gastar 🛡️1 para anular **1** desse dano)
   - arcano → 🔵 **Mana** (se estiver 0, vai para ❤️ **Vida**)
   - espiritual/mental → 🟣 **Alma** (se estiver 0, vai para ❤️ **Vida**)
-- **1**: você sofre **2 de dano** (e o monstro pode impor uma condição se tiver esse “truque”)
+- **1**: você sofre **2 de dano** no recurso do tipo do ataque (e o monstro pode impor uma condição se tiver esse “truque”)
 
-Lembrete: antes de uma esquiva física, você pode gastar **🛡️1** para resistir automaticamente (ação universal).
+Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
 
 ## 🛡️️️ Armadura (escudo visual)
 
 Armadura é **equipamento** (🟦), diferente de 🛡️ **Esquiva** (recurso).
 
 - armadura tem **escudos desenhados** (🟦)
-- quando você tomaria **dano físico** (que reduziria 🛡️ Esquiva ou ❤️ Vida), pode apagar **1 🟦** para zerar aquele dano
+- quando você tomaria **dano físico**, pode apagar **1 🟦** para zerar aquele dano
 - quando acaba → armadura quebra (ver `equipamentos.md`)
 
 ## 🩸 Vida 0

@@ -18,7 +18,6 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 |---|---|---|---|
 | Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
 | Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | se 🔵 estiver 0, impacto vai para ❤️ Vida |
-| Resistir medo/controle | 🟣 Alma | 1D6 por Alma (melhor) | se 🟣 estiver 0, impacto vai para ❤️ Vida |
 
 ## ⚔ Combate (sem complicação)
 
@@ -49,16 +48,15 @@ Detalhes de **Magia improvisada** (limites e lista de efeitos): `recursos.md`.
 
 Você **rola o dado**, não o monstro:
 
-O mestre diz qual é o tipo do ataque (físico / arcano / espiritual-mental).
+O mestre diz qual é o tipo do ataque (físico / arcano).
 
-Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵/🟣) e usa **apenas o melhor dado**. A rolagem define se você resiste:
+Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵) e usa **apenas o melhor dado**. A rolagem define se você resiste:
 
 - **6**: você resiste e pode contra-atacar (se fizer sentido)
 - **4–5**: você resiste
 - **2–3**: você sofre **1 de dano** no recurso de resistência:
   - físico → ❤️ **Vida** (você pode gastar 🛡️1 para anular **1** desse dano)
   - arcano → 🔵 **Mana** (se estiver 0, vai para ❤️ **Vida**)
-  - espiritual/mental → 🟣 **Alma** (se estiver 0, vai para ❤️ **Vida**)
 - **1**: você sofre **2 de dano** no recurso do tipo do ataque (e o monstro pode impor uma condição se tiver esse “truque”)
 
 Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
@@ -75,7 +73,7 @@ Armadura é **equipamento** (🟦), diferente de 🛡️ **Esquiva** (recurso).
 
 - chegou a **0 vida** → cai no chão
 - se você estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida, você **desmaia**
-  - isso inclui dano físico e também dano arcano/espiritual quando 🔵/🟣 estiverem em 0 e o impacto “vazar” para ❤️ Vida
+  - isso inclui dano físico e também dano arcano quando 🔵 estiver em 0 e o impacto “vazar” para ❤️ Vida
 - desmaiado: não pode agir, não pode se defender e não pode gastar recursos
 - para acordar: um aliado gasta 1 ação para ajudar **ou** uma cura **ou** fim do combate/descanso
 - no modo infantil, personagens **não morrem**: desmaio é o “fim dramático” do combate

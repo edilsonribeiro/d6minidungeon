@@ -13,9 +13,9 @@ Em vez de “números”, dê ao monstro **um truque visível**:
 - 👊 **Bate forte** (ataque físico → ameaça ❤️ Vida; o herói pode gastar 🛡️1 para anular 1 dano)
 - 🪨 **Derruba** (no 1 da esquiva física, você fica **Caído**)
 - 🕸 **Prende** (no 1 da esquiva física, você fica **Preso**)
-- 😱 **Assusta** (ataque espiritual/mental → ameaça 🟣 Alma; no 1, você fica **Tonto**)
+- 😱 **Assusta** (no 1 da esquiva física, você fica **Tonto**)
 
-Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano / espiritual-mental) e peça a rolagem de esquiva do jogador (ver `combate.md`).
+Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / arcano) e peça a rolagem de esquiva do jogador (ver `combate.md`).
 As regras completas de ataque/defesa e resultados ficam em `combate.md`.
 
 ## 🧩 Recursos dos monstros (simples)
@@ -24,9 +24,8 @@ Você pode dar ao monstro só **1–2 recursos** e pronto:
 
 - Monstro **físico**: 🛡️ Esquiva + ❤️ Vida
 - Monstro **arcano**: 🔵 Mana + ❤️ Vida
-- Monstro **sombrio**: 🟣 Alma + ❤️ Vida
 
-Quando 🔵/🟣 do monstro chega a **0**, o impacto vai para ❤️ **Vida** (igual ao jogador). 🛡️ Esquiva é gasta para anular dano físico; em 0, ele não consegue mais evitar dano desse jeito.
+Quando 🔵 do monstro chega a **0**, o impacto vai para ❤️ **Vida** (igual ao jogador). 🛡️ Esquiva é gasta para anular dano físico; em 0, ele não consegue mais evitar dano desse jeito.
 
 ## ❤️ Vida (referência rápida)
 

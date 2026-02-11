@@ -83,7 +83,7 @@ Lembretes rápidos:
 
 - dano físico vai para ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
 - dano arcano vai para 🔵 **Mana** (se 🔵 estiver em 0, impacto vai para ❤️ Vida)
-- efeitos espirituais/mentais vão para 🟣 **Alma** (se 🟣 estiver em 0, impacto vai para ❤️ Vida)
+- 🟣 **Alma** é usada para milagres e para **Destino** (ver `recursos.md`)
 
 ## 🩸 Vida 0 e Armadura
 

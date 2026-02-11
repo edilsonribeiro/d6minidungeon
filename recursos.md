@@ -6,7 +6,7 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 |---|---|---| 
 | ❤️ **Vida** | ataque físico | recebe dano físico (quando o golpe passa) |
 | 🛡️ **Esquiva** | — | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
-| 🟣 **Alma** | — | controle, medo, drenagem, efeitos espirituais |
+| 🟣 **Alma** | — | milagres e Destino (mudar a rolagem) |
 | 🔵 **Mana** | magia arcana | resistir magia arcana |
 
 ## 🎯 Regras globais (fixas)

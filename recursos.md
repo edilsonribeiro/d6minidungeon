@@ -7,7 +7,7 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 | ❤️ **Vida** | ataque físico (curto alcance) | recebe dano físico (quando o golpe passa) |
 | 🛡️ **Esquiva** | ataque físico (longo alcance) | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
 | 🟣 **Alma** | milagres e Destino (mudar a rolagem) | — |
-| 🔵 **Mana** | magia arcana | resistir magia arcana |
+| 🔵 **Mana** | magia arcana | resistir ataques mágicos (rolagem) e anular 1 dano mágico (🔵1) |
 
 ## 🎯 Regras globais (fixas)
 
@@ -32,7 +32,7 @@ Valores iniciais e distribuição por classe: `classes.md`.
 - Magias arcanas “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
 - Se sua Mana chegar a **0**:
   - você não consegue usar magia arcana
-  - você não consegue resistir magia arcana (o impacto vai para ❤️ Vida)
+  - você não consegue gastar 🔵 para se defender (ex.: anular 1 dano mágico); você ainda pode rolar **1D6** para resistir (exceção anti-trava)
 
 ## ✨ Magia improvisada (qualquer personagem)
 
@@ -93,9 +93,9 @@ Regra de ouro (para preservar o Mago):
 - segurar algo por um instante
 - desequilibrar uma criatura brevemente
 
-**🛡️ Esquiva leve (não cumulativa)**
+**🛡️ Defesa arcana leve (não cumulativa)**
 
-- reduzir em **1** o dano arcano que você sofreria (declare antes de aplicar o dano)
+- reduzir em **1** o dano mágico que você sofreria (declare antes de aplicar o dano)
 - bloquear um **efeito mágico simples** (outra magia improvisada)
 - dissipar uma magia fraca/instável **se ela for simples**
 

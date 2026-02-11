@@ -81,7 +81,7 @@ Regras completas (atacar, defender, condições e grid opcional): `combate.md`.
 Lembretes rápidos:
 
 - dano físico vai para ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
-- dano arcano vai para 🔵 **Mana** (se 🔵 estiver em 0, impacto vai para ❤️ Vida)
+- dano mágico vai para ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano)
 - 🟣 **Alma** é usada para milagres e para **Destino** (ver `recursos.md`)
 
 ## 🩸 Vida 0

@@ -11,6 +11,7 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 
 - ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
 - 🛡️ **Esquiva**: quando você tomaria **dano físico**, gaste **🛡️1** → anule **1** desse dano.
+- 🔵 **Anular dano mágico**: quando você tomaria **dano mágico**, gaste **🔵1** → anule **1** desse dano.
 
 ## 📋 Tabela resumo (combate)
 
@@ -18,7 +19,7 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 |---|---|---|---|
 | Ataque físico (curto alcance) | ❤️ Vida | 1D6 por Vida (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
 | Ataque físico (longo alcance) | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
-| Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | se 🔵 estiver 0, impacto vai para ❤️ Vida |
+| Resistência mágica | 🔵 Mana | 1D6 por Mana (melhor) | alvo pode gastar 🔵1 para anular 1 dano mágico |
 
 ## ⚔ Combate (sem complicação)
 
@@ -36,7 +37,7 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 2) Role **1D6 por ponto** do recurso do ataque (❤️/🛡️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
 - Ataque **físico** causa dano em ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano).
-- Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
+- Ataque **arcano** causa **dano mágico** em ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano).
 
 - **6**: causa **2 de dano** e ativa algo legal do seu **item/pet**; se ativar uma habilidade, pague o custo do recurso (ver `equipamentos.md`)
 - **4–5**: causa **1 de dano**
@@ -59,16 +60,16 @@ Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵) e usa **a
 - **4–5**: você resiste
 - **2–3**: você sofre **1 de dano** no recurso de resistência:
   - físico → ❤️ **Vida** (você pode gastar 🛡️1 para anular **1** desse dano)
-  - arcano → 🔵 **Mana** (se estiver 0, vai para ❤️ **Vida**)
-- **1**: você sofre **2 de dano** no recurso do tipo do ataque (e o monstro pode impor uma condição se tiver esse “truque”)
+  - arcano → ❤️ **Vida** (você pode gastar 🔵1 para anular **1** desse dano)
+- **1**: você sofre **2 de dano** (físico → ❤️ Vida; arcano → ❤️ Vida; e o monstro pode impor uma condição se tiver esse “truque”)
 
 Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
+Lembrete: quando você tomaria **dano mágico**, você pode gastar **🔵1** para anular **1** desse dano (ação universal).
 
 ## 🩸 Vida 0
 
 - chegou a **0 vida** → cai no chão
 - se você estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida, você **desmaia**
-  - isso inclui dano físico e também dano arcano quando 🔵 estiver em 0 e o impacto “vazar” para ❤️ Vida
 - desmaiado: não pode agir, não pode se defender e não pode gastar recursos
 - para acordar: um aliado gasta 1 ação para ajudar **ou** uma cura **ou** fim do combate/descanso
 - no modo infantil, personagens **não morrem**: desmaio é o “fim dramático” do combate

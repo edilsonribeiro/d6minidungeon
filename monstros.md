@@ -23,9 +23,7 @@ As regras completas de ataque/defesa e resultados ficam em `combate.md`.
 Você pode dar ao monstro só **1–2 recursos** e pronto:
 
 - Monstro **físico**: 🛡️ Esquiva + ❤️ Vida
-- Monstro **arcano**: 🔵 Mana + ❤️ Vida
-
-Quando 🔵 do monstro chega a **0**, o impacto vai para ❤️ **Vida** (igual ao jogador). 🛡️ Esquiva é gasta para anular dano físico; em 0, ele não consegue mais evitar dano desse jeito.
+- Monstro **arcano**: 🔵 Mana + ❤️ Vida (pode gastar 🔵1 para anular 1 dano mágico)
 
 ## ❤️ Vida (referência rápida)
 

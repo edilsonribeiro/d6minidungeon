@@ -44,7 +44,7 @@ No combate básico, **classes não existem ainda**. Só o motor:
 2) Role **1D6 por ponto** desse recurso.  
 3) Use **apenas o melhor resultado** e aplique a tabela do jogo.
 
-Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo assim — mas **qualquer dano/impacto vai direto para ❤️ Vida**.
+Se você precisar rolar com um recurso que está em **0**, role **1D6** mesmo assim — mas **qualquer dano/impacto vai direto para ❤️ Vida** (se a Vida já estiver em 0, você desmaia).
 
 ## 🧩 Gastos universais (qualquer personagem)
 
@@ -131,8 +131,11 @@ Armadura é **equipamento** (🟦), diferente de 🛡️ **Esquiva** (recurso).
 ## 🩸 Vida 0
 
 - chegou a **0 vida** → cai no chão
-- um amigo pode ajudar
-- no modo infantil, personagens **não morrem**: só desmaiam
+- se você estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida, você **desmaia**
+  - isso inclui dano físico e também dano arcano/espiritual quando 🔵/🟣 estiverem em 0 e o impacto “vazar” para ❤️ Vida
+- desmaiado: não pode agir, não pode se defender e não pode gastar recursos
+- para acordar: um aliado gasta 1 ação para ajudar **ou** uma cura **ou** fim do combate/descanso
+- no modo infantil, personagens **não morrem**: desmaio é o “fim dramático” do combate
 
 ## 🎯 Ordem do turno
 

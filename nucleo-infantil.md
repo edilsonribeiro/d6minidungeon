@@ -126,7 +126,8 @@ Você **rola o dado**, não o monstro:
 
 - chegou a **0** → cai no chão
 - um amigo pode ajudar
-- crianças **não morrem**: só desmaiam
+- se estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida → **desmaia**
+- crianças **não morrem**: desmaio é o “fim dramático” do combate
 
 ### 🛡️️️ Armadura (escudo visual)
 

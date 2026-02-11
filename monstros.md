@@ -40,7 +40,7 @@ Chefes podem:
 
 - atacar dois alvos
 - aplicar condição em área
-- ignorar a primeira vez que alguém apagaria uma marca de armadura
+- ignorar a primeira vez que alguém anularia dano com 🛡️ Esquiva
 
 Sem ficha complexa.
 
@@ -55,7 +55,7 @@ Cada coração tem um **poder visível**. Quando o chefe perde um coração, ele
 Exemplo (chefe ogro):
 
 - ❤️🔥 **Fúria**: ele empurra/derruba no ataque.
-- ❤️🛡️ **Casca dura**: a primeira vez que alguém apagaria armadura contra ele, não funciona.
+- ❤️🛡️ **Casca dura**: a primeira vez que alguém anularia dano com 🛡️ Esquiva contra ele, não funciona.
 - ❤️😡 **Brutal**: ele pode atacar dois alvos.
 
 Isso fica:

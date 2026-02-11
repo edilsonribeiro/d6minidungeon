@@ -398,19 +398,6 @@ body {
   stroke: #1b5e20;
 }
 
-.token--armor {
-  color: #0d47a1;
-}
-
-.token--armor.is-on {
-  background: rgba(66, 165, 245, 0.16);
-}
-
-.token--armor.is-on svg path {
-  fill: #42a5f5;
-  stroke: #0d47a1;
-}
-
 .token--mana {
   color: #0d47a1;
 }

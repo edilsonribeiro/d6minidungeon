@@ -19,10 +19,9 @@ Pensado para:
 Cada herói tem:
 
 - ❤️ **Vida** (0–4)
- - 🛡️ **Esquiva** (0–4)
+- 🛡️ **Esquiva** (0–4)
 - 🟣 **Alma** (0–4)
 - 🔵 **Mana** (0–4)
-- 🟦 **Armadura** (opcional, equipamento com escudos que você apaga)
 - 🗡 **Arma**: 1 (faz algo especial no 6)
 - ✨ **Habilidades de classe** (cada uso gasta **1 ponto** do recurso indicado)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
@@ -85,7 +84,7 @@ Lembretes rápidos:
 - dano arcano vai para 🔵 **Mana** (se 🔵 estiver em 0, impacto vai para ❤️ Vida)
 - 🟣 **Alma** é usada para milagres e para **Destino** (ver `recursos.md`)
 
-## 🩸 Vida 0 e Armadura
+## 🩸 Vida 0
 
 ### ❤️ Vida 0
 
@@ -94,17 +93,9 @@ Lembretes rápidos:
 - se estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida → **desmaia**
 - crianças **não morrem**: desmaio é o “fim dramático” do combate
 
-### 🛡️️️ Armadura (escudo visual)
-
-- armadura tem **escudos desenhados** (🟦)
-- quando tomaria **dano físico**, pode apagar **1 escudo** para zerar aquele dano
-- quando acaba → armadura quebra
-
-Exemplo: 🟦🟦🟦 → 🟦🟦 → 🟦 → quebrada
-
 ## 🎒 Equipamentos e recompensas
 
-- armas e armaduras: `equipamentos.md`
+- armas: `equipamentos.md`
 - pets e recompensas: `arvore-de-recompensas.md`
 
 ## 🧠 Regra de ouro do mestre

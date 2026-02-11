@@ -61,14 +61,6 @@ Você rola **1D6 por ponto** do recurso de resistência (🛡️/🔵) e usa **a
 
 Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
 
-## 🛡️️️ Armadura (escudo visual)
-
-Armadura é **equipamento** (🟦), diferente de 🛡️ **Esquiva** (recurso).
-
-- armadura tem **escudos desenhados** (🟦)
-- quando você tomaria **dano físico**, pode apagar **1 🟦** para zerar aquele dano
-- quando acaba → armadura quebra (ver `equipamentos.md`)
-
 ## 🩸 Vida 0
 
 - chegou a **0 vida** → cai no chão

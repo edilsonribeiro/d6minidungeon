@@ -21,13 +21,13 @@ Para aprofundar por tema:
 - recursos, Destino e magia improvisada: `recursos.md`
 - combate, condições e módulo de grid: `combate.md`
 - classes e habilidades: `classes.md`
-- equipamentos (armas/armadura): `equipamentos.md`
+- equipamentos (armas): `equipamentos.md`
 - monstros (como narrar e montar ficha simples): `monstros.md`
 
 ## 💤 Descanso
 
 - **Descanso curto**: sem recuperação automática (use só como “pausa na história”)
-- **Descanso completo**: recupera **todos os recursos** (❤️/🛡️/🟣/🔵) e recupera **Armadura Arcana** (se tiver)
+- **Descanso completo**: recupera **todos os recursos** (❤️/🛡️/🟣/🔵)
 
 ## 🎁 Evolução (recompensas)
 

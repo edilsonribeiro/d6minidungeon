@@ -85,14 +85,12 @@ Lembretes rápidos:
 - dano mágico vai para ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano)
 - 🟣 **Alma** é usada para milagres e para **Destino** (ver `recursos.md`)
 
-## 🩸 Vida 0
+## 😵 Desmaio (golpes que derrubam)
 
-### ❤️ Vida 0
+- Qualquer **dano** derruba: você **desmaia**.
+- Heróis podem gastar **❤️1** para **resistir** e não desmaiar (se ❤️>0).
 
-- chegou a **0** → cai no chão
-- um amigo pode ajudar
-- se estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida → **desmaia**
-- crianças **não morrem**: desmaio é o “fim dramático” do combate
+Detalhes completos (incluindo acordar e como NPCs funcionam): `combate.md` na seção **😵 Desmaio (golpes que derrubam)**.
 
 ## 🎒 Equipamentos e recompensas
 

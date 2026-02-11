@@ -83,11 +83,18 @@ Você rola **1D6 por ponto que você tem no recurso de resistência** (🛡️/�
 Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
 Lembrete: quando você tomaria **dano mágico**, você pode gastar **🔵1** para anular **1** desse dano (ação universal).
 
-## 🩸 Vida 0
+## 😵 Desmaio (golpes que derrubam)
 
-- chegou a **0 vida** → cai no chão
-- se você estiver com ❤️ **Vida em 0** e sofrer dano que iria para ❤️ Vida, você **desmaia**
-- desmaiado: não pode agir, não pode se defender e não pode gastar recursos
+Neste mundo, **qualquer golpe que causa dano** derruba uma pessoa.
+
+- Se você sofrer **dano** (físico ou mágico), você **desmaia**.
+- Heróis podem gastar **❤️1** para **resistir** e **não desmaiar** (o dano ainda acontece normalmente).
+- Se você estiver com ❤️ **Vida em 0**, você **não consegue resistir**: desmaia.
+- Pessoas comuns (NPCs) **não** têm esse bônus: por isso **desmaiam em qualquer golpe** que cause dano.
+
+Desmaiado:
+
+- não pode agir, não pode se defender e não pode gastar recursos
 - para acordar: um aliado gasta 1 ação para ajudar **ou** uma cura **ou** fim do combate/descanso
 - no modo infantil, personagens **não morrem**: desmaio é o “fim dramático” do combate
 

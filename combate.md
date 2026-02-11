@@ -16,7 +16,8 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 
 | Situação | Recurso | Rolagem | Observação |
 |---|---|---|---|
-| Ataque físico | ❤️ Vida | 1D6 por Vida (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
+| Ataque físico (curto alcance) | ❤️ Vida | 1D6 por Vida (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
+| Ataque físico (longo alcance) | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | alvo pode gastar 🛡️1 para anular 1 dano |
 | Resistência arcana | 🔵 Mana | 1D6 por Mana (melhor) | se 🔵 estiver 0, impacto vai para ❤️ Vida |
 
 ## ⚔ Combate (sem complicação)
@@ -25,17 +26,19 @@ O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-faci
 
 1) Escolha o **tipo** do seu ataque:
 
-- **Físico** (arma, soco, chute) → usa ❤️ **Vida**
+- **Físico (curto alcance)** (corpo a corpo) → usa ❤️ **Vida**
+- **Físico (longo alcance)** (à distância) → usa 🛡️ **Esquiva**
 - **Arcano**
   - **Magia improvisada (qualquer personagem)**: gaste **🔵1** (ver `recursos.md`)
   - **Magia dominada (especialização/habilidade)**: gaste **🔵1** (ou custo indicado)
+- **Milagre** (se você tiver um) → gaste 🟣 **Alma** (cura/protege/purifica etc.)
 
-2) Role **1D6 por ponto** do recurso do ataque (❤️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
+2) Role **1D6 por ponto** do recurso do ataque (❤️/🛡️/🔵) e use **apenas o melhor dado**. Depois aplique no **recurso do alvo**:
 
 - Ataque **físico** causa dano em ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano).
 - Ataque **arcano** tira pontos de 🔵 **Mana** do alvo; se a Mana estiver em **0**, o dano vai para ❤️ **Vida**.
 
-- **6**: causa **2 de dano** e ativa algo legal da sua arma/pet; se ativar uma habilidade, pague o custo do recurso
+- **6**: causa **2 de dano** e ativa algo legal do seu **item/pet**; se ativar uma habilidade, pague o custo do recurso (ver `equipamentos.md`)
 - **4–5**: causa **1 de dano**
 - **2–3**: escolha 1:
   - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵)
@@ -104,7 +107,7 @@ Para crianças de 6–8, use **só quatro** condições fáceis de lembrar:
 - 🔵 **Preso**: não pode se mover; ainda pode agir.
 - 🟢 **Protegido**: o próximo dano vira **0** (depois acaba).
 
-Coisas como “arma caiu”, “escorregou”, “ficou com medo” podem existir, mas ficam só na **narração** (sem virar estado fixo).
+Coisas como “item caiu”, “escorregou”, “ficou com medo” podem existir, mas ficam só na **narração** (sem virar estado fixo).
 
 ### 🔁 Se você já usava as condições antigas
 

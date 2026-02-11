@@ -178,26 +178,30 @@
             <div class="col">
               <div class="card card--weapon">
                 <div class="card__head">
-                  <div class="card__title">🗡️ Arma</div>
-                  <div class="card__hint">no 6, faz algo legal</div>
+                  <div class="card__title">🧰 Item de combate</div>
+                  <div class="card__hint">escolha 1 tipo</div>
                 </div>
 
                 <div class="field">
-                  <div class="label">nome</div>
-                  <input class="input" type="text" data-field="weaponName" placeholder="Ex.: Espada" />
+                  <div class="label">tipo</div>
+                  <input class="input" type="text" data-field="itemType" placeholder="Ex.: ⚔️ Curto alcance" />
                 </div>
 
-                <div class="chips" aria-label="Sugestões de arma">
-                  <button class="chip" type="button" data-target="weaponName" data-value="Espada">Espada</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Machado">Machado</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Martelo">Martelo</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Arco">Arco</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Lança">Lança</button>
+                <div class="chips" aria-label="Tipos de item">
+                  <button class="chip" type="button" data-target="itemType" data-value="⚔️ Curto alcance">⚔️ Curto</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🏹 Longo alcance">🏹 Longo</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🔮 Foco arcano">🔮 Arcano</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="✝️ Foco divino">✝️ Divino</button>
+                </div>
+
+                <div class="card__note">
+                  No 6: ⚔️ +1 dano • 🏹 alvo não pode gastar 🛡️1 para anular • 🔮 escolha: empurra / Caído / Preso /
+                  Protegido • ✝️ escolha: +1 cura / remover condição / Protegido
                 </div>
 
                 <div class="field">
-                  <div class="label">no 6, minha arma faz</div>
-                  <input class="input" type="text" data-field="weaponEffect" placeholder="Ex.: empurra" />
+                  <div class="label">skin (opcional)</div>
+                  <input class="input" type="text" data-field="itemSkin" placeholder="Ex.: espada, arco, cajado, amuleto" />
                 </div>
 
                 <div class="draw-box" aria-label="Área de desenho">
@@ -257,7 +261,7 @@
 
             <div class="mini" aria-label="Resumo">
               <div class="mini__line">🧩 Recursos: <strong>❤️4 🛡️3 🟣2 🔵1</strong></div>
-              <div class="mini__line">🗡️ Arma: Espada / Machado / Martelo</div>
+              <div class="mini__line">🧰 Item: ⚔️ / 🏹 / 🔮 / ✝️</div>
             </div>
           </div>
 
@@ -334,34 +338,35 @@
             <div class="col">
               <div class="card card--weapon">
                 <div class="card__head">
-                  <div class="card__title">🗡️ Arma</div>
+                  <div class="card__title">🧰 Item de combate</div>
                   <div class="card__hint">escolha 1</div>
                 </div>
 
                 <div class="field">
-                  <div class="label">arma</div>
+                  <div class="label">tipo</div>
                   <input
                     class="input"
                     type="text"
-                    data-field="weaponName"
-                    data-default="Espada"
+                    data-field="itemType"
+                    data-default="⚔️ Curto alcance"
                   />
                 </div>
 
                 <div class="chips">
-                  <button class="chip" type="button" data-target="weaponName" data-value="Espada">Espada</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Machado">Machado</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Martelo">Martelo</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="⚔️ Curto alcance">⚔️ Curto</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🏹 Longo alcance">🏹 Longo</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🔮 Foco arcano">🔮 Arcano</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="✝️ Foco divino">✝️ Divino</button>
+                </div>
+
+                <div class="card__note">
+                  No 6: ⚔️ +1 dano • 🏹 alvo não pode gastar 🛡️1 para anular • 🔮 escolha: empurra / Caído / Preso /
+                  Protegido • ✝️ escolha: +1 cura / remover condição / Protegido
                 </div>
 
                 <div class="field">
-                  <div class="label">no 6, minha arma faz</div>
-                  <input
-                    class="input"
-                    type="text"
-                    data-field="weaponEffect"
-                    data-default="Empurra / Derruba / Atordoa"
-                  />
+                  <div class="label">skin (opcional)</div>
+                  <input class="input" type="text" data-field="itemSkin" data-default="Espada" />
                 </div>
 
                 <div class="draw-box" aria-label="Área de desenho">
@@ -424,7 +429,7 @@
 
             <div class="mini" aria-label="Resumo">
               <div class="mini__line">🧩 Recursos: <strong>❤️3 🛡️4 🟣1 🔵2</strong></div>
-              <div class="mini__line">🗡️ Arma: Arco / Duas adagas / Lança</div>
+              <div class="mini__line">🧰 Item: ⚔️ / 🏹 / 🔮 / ✝️</div>
             </div>
           </div>
 
@@ -501,29 +506,30 @@
             <div class="col">
               <div class="card card--weapon">
                 <div class="card__head">
-                  <div class="card__title">🗡️ Arma</div>
+                  <div class="card__title">🧰 Item de combate</div>
                   <div class="card__hint">escolha 1</div>
                 </div>
 
                 <div class="field">
-                  <div class="label">arma</div>
-                  <input class="input" type="text" data-field="weaponName" data-default="Arco" />
+                  <div class="label">tipo</div>
+                  <input class="input" type="text" data-field="itemType" data-default="🏹 Longo alcance" />
                 </div>
 
                 <div class="chips">
-                  <button class="chip" type="button" data-target="weaponName" data-value="Arco">Arco</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Duas adagas">Duas adagas</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Lança">Lança</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="⚔️ Curto alcance">⚔️ Curto</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🏹 Longo alcance">🏹 Longo</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🔮 Foco arcano">🔮 Arcano</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="✝️ Foco divino">✝️ Divino</button>
+                </div>
+
+                <div class="card__note">
+                  No 6: ⚔️ +1 dano • 🏹 alvo não pode gastar 🛡️1 para anular • 🔮 escolha: empurra / Caído / Preso /
+                  Protegido • ✝️ escolha: +1 cura / remover condição / Protegido
                 </div>
 
                 <div class="field">
-                  <div class="label">no 6, minha arma faz</div>
-                  <input
-                    class="input"
-                    type="text"
-                    data-field="weaponEffect"
-                    data-default="Acerta de longe / Impede de fugir"
-                  />
+                  <div class="label">skin (opcional)</div>
+                  <input class="input" type="text" data-field="itemSkin" data-default="Arco" />
                 </div>
 
                 <div class="draw-box" aria-label="Área de desenho">
@@ -591,7 +597,7 @@
 
             <div class="mini" aria-label="Resumo">
               <div class="mini__line">🧩 Recursos: <strong>❤️1 🛡️2 🟣3 🔵4</strong></div>
-              <div class="mini__line">🗡️ Foco: Cajado / Varinha / Livro</div>
+              <div class="mini__line">🧰 Item: ⚔️ / 🏹 / 🔮 / ✝️</div>
             </div>
           </div>
 
@@ -668,19 +674,30 @@
             <div class="col">
               <div class="card card--weapon">
                 <div class="card__head">
-                  <div class="card__title">🗡️ Foco mágico</div>
+                  <div class="card__title">🧰 Item de combate</div>
                   <div class="card__hint">escolha 1</div>
                 </div>
 
                 <div class="field">
-                  <div class="label">foco</div>
-                  <input class="input" type="text" data-field="weaponName" data-default="Cajado" />
+                  <div class="label">tipo</div>
+                  <input class="input" type="text" data-field="itemType" data-default="🔮 Foco arcano" />
                 </div>
 
                 <div class="chips">
-                  <button class="chip" type="button" data-target="weaponName" data-value="Cajado">Cajado</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Varinha">Varinha</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Livro">Livro</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="⚔️ Curto alcance">⚔️ Curto</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🏹 Longo alcance">🏹 Longo</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🔮 Foco arcano">🔮 Arcano</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="✝️ Foco divino">✝️ Divino</button>
+                </div>
+
+                <div class="card__note">
+                  No 6: ⚔️ +1 dano • 🏹 alvo não pode gastar 🛡️1 para anular • 🔮 escolha: empurra / Caído / Preso /
+                  Protegido • ✝️ escolha: +1 cura / remover condição / Protegido
+                </div>
+
+                <div class="field">
+                  <div class="label">skin (opcional)</div>
+                  <input class="input" type="text" data-field="itemSkin" data-default="Cajado" />
                 </div>
 
                 <div class="field">
@@ -761,7 +778,7 @@
 
             <div class="mini" aria-label="Resumo">
               <div class="mini__line">🧩 Recursos: <strong>❤️2 🛡️1 🟣4 🔵3</strong></div>
-              <div class="mini__line">🗡️ Foco: Cajado / Símbolo / Maça</div>
+              <div class="mini__line">🧰 Item: ⚔️ / 🏹 / 🔮 / ✝️</div>
             </div>
           </div>
 
@@ -838,29 +855,30 @@
             <div class="col">
               <div class="card card--weapon">
                 <div class="card__head">
-                  <div class="card__title">🗡️ Foco sagrado</div>
+                  <div class="card__title">🧰 Item de combate</div>
                   <div class="card__hint">escolha 1</div>
                 </div>
 
                 <div class="field">
-                  <div class="label">foco</div>
-                  <input class="input" type="text" data-field="weaponName" data-default="Símbolo" />
+                  <div class="label">tipo</div>
+                  <input class="input" type="text" data-field="itemType" data-default="✝️ Foco divino" />
                 </div>
 
                 <div class="chips">
-                  <button class="chip" type="button" data-target="weaponName" data-value="Cajado">Cajado</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Símbolo">Símbolo</button>
-                  <button class="chip" type="button" data-target="weaponName" data-value="Maça">Maça</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="⚔️ Curto alcance">⚔️ Curto</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🏹 Longo alcance">🏹 Longo</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="🔮 Foco arcano">🔮 Arcano</button>
+                  <button class="chip" type="button" data-target="itemType" data-value="✝️ Foco divino">✝️ Divino</button>
+                </div>
+
+                <div class="card__note">
+                  No 6: ⚔️ +1 dano • 🏹 alvo não pode gastar 🛡️1 para anular • 🔮 escolha: empurra / Caído / Preso /
+                  Protegido • ✝️ escolha: +1 cura / remover condição / Protegido
                 </div>
 
                 <div class="field">
-                  <div class="label">no 6, eu faço</div>
-                  <input
-                    class="input"
-                    type="text"
-                    data-field="weaponEffect"
-                    data-default="Curo / Protejo / Afasto um inimigo"
-                  />
+                  <div class="label">skin (opcional)</div>
+                  <input class="input" type="text" data-field="itemSkin" data-default="Símbolo" />
                 </div>
 
                 <div class="draw-box" aria-label="Área de desenho">

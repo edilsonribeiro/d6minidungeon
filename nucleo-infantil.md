@@ -22,7 +22,7 @@ Cada herói tem:
 - 🛡️ **Esquiva** (0–4)
 - 🟣 **Alma** (0–4)
 - 🔵 **Mana** (0–4)
-- 🗡 **Arma**: 1 (faz algo especial no 6)
+- 🧰 **Item de combate**: escolha 1 tipo (⚔️ curto / 🏹 longo / 🔮 arcano / ✝️ divino)
 - ✨ **Habilidades de classe** (cada uso gasta **1 ponto** do recurso indicado)
 - 🐾 **Pet** (opcional): ajuda de vez em quando
 
@@ -47,7 +47,7 @@ Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer a
 
 Para crianças menores (ou mesas bem rápidas), use este atalho:
 
-- Se tirou **6**, acontece **o extra** (arma, magia, pet, truque da raça, etc.).
+- Se tirou **6**, acontece **o extra** (item, magia, pet, truque da raça, etc.).
 - Se não tirou 6, acontece só o **básico** do resultado.
 
 Isso reduz muito a quantidade de “gatilhos diferentes” para lembrar.
@@ -95,7 +95,7 @@ Lembretes rápidos:
 
 ## 🎒 Equipamentos e recompensas
 
-- armas: `equipamentos.md`
+- itens de combate: `equipamentos.md`
 - pets e recompensas: `arvore-de-recompensas.md`
 
 ## 🧠 Regra de ouro do mestre

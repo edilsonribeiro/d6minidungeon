@@ -12,11 +12,16 @@ Pergunta do mestre:
 
 👉 **“O que você quer ganhar agora?”**
 
-## 🗡 Ramo 1 — Armas (o que acontece quando sai 6)
+## 🧰 Ramo 1 — Itens de combate (4 tipos)
 
-Armas não dão bônus. Elas mudam **o efeito do seu 6** quando você ataca.
+Em vez de lista de armas, você pode ganhar/trocar um item e mudar seu estilo:
 
-Lista de armas e extras: `equipamentos.md`.
+- ⚔️ curto alcance (ataca com ❤️)
+- 🏹 longo alcance (ataca com 🛡️)
+- 🔮 foco arcano (magia com 🔵)
+- ✝️ foco divino (milagres com 🟣)
+
+Regras completas dos itens: `equipamentos.md`.
 
 ## 🐾 Ramo 2 — Pets (companheiros inesquecíveis)
 

@@ -4,9 +4,9 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 
 | Recurso | Função ofensiva | Função defensiva |
 |---|---|---| 
-| ❤️ **Vida** | ataque físico | recebe dano físico (quando o golpe passa) |
-| 🛡️ **Esquiva** | — | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
-| 🟣 **Alma** | — | milagres e Destino (mudar a rolagem) |
+| ❤️ **Vida** | ataque físico (curto alcance) | recebe dano físico (quando o golpe passa) |
+| 🛡️ **Esquiva** | ataque físico (longo alcance) | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
+| 🟣 **Alma** | milagres e Destino (mudar a rolagem) | — |
 | 🔵 **Mana** | magia arcana | resistir magia arcana |
 
 ## 🎯 Regras globais (fixas)

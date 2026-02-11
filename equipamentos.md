@@ -1,32 +1,17 @@
-# 🧰 Equipamentos
+# 🧰 Itens de combate (simples)
 
-## ⚔ Armas (efeito no 6)
+Em vez de lista de armas, existem **4 tipos**. Na hora de atacar (ou usar magia/milagre), diga qual tipo você está usando:
 
-No núcleo infantil, a regra é:
+- ⚔️ **Curto alcance** (corpo a corpo) → ataca com ❤️ **Vida**
+  - no **6**: além do dano normal, causa **+1 dano** (total **3**)
+- 🏹 **Longo alcance** (à distância) → ataca com 🛡️ **Esquiva**
+  - no **6**: o alvo **não pode gastar 🛡️1** para anular o dano **deste ataque**
+- 🔮 **Foco arcano** (varinha, cajado, orbe…) → magia com 🔵 **Mana**
+  - no **6**: além do normal, escolha 1 efeito leve: **empurra** / 🟡 **Caído** / 🔵 **Preso** / 🟢 **Protegido**
+- ✝️ **Foco divino** (símbolo, amuleto…) → milagres com 🟣 **Alma**
+  - no **6**: além do normal, escolha 1: **+1** na cura / remover **1** condição / dar 🟢 **Protegido**
 
-- **4–5**: acerta e causa **1 dano**
-- **6**: acerta e causa **2 dano** + ativa o efeito da arma
-
-Por padrão, armas causam **dano físico** (vai para ❤️ Vida; o alvo pode gastar 🛡️1 para anular **1** desse dano — veja `combate.md`).
-
-Escolha a arma pelo que ela faz de **legal e visível** quando você tira **6**:
-
-- **Modo 6–8 (recomendado)**: use as 5 armas básicas (efeitos bem visíveis).
-- **Modo 8–10 (opcional)**: use também os “extras”.
-
-- 🗡 **Espada**: empurra o inimigo para longe (ou abre espaço para um aliado)
-- 🪓 **Machado**: derruba (**Caído**)
-- 🔨 **Martelo**: deixa tonto (**Tonto**)
-- 🏹 **Arco**: acerta de longe (ou atinge um alvo difícil)
-- 🗡 **Lança**: impede de fugir (**Preso**)
-
-🧠 **Extras (8–10 opcional)**:
-
-- 🛡️️️ **Espada + escudo**: no 6, você causa o dano e ainda dá **Protegido** para um aliado perto
-- 🗡 **Duas adagas**: no 6, depois do ataque você pode fazer **mais 1 ataque**
- - 🎯 **Besta pesada**: no 6, o alvo **não pode gastar 🛡️ Esquiva** para anular dano deste ataque
-
-> Se você quiser variedade sem regra extra: mude só o “skin” (espada de cristal, martelo gigante, arco de elfo, etc.).
+✅ **Skin livre**: você pode chamar seu item de “espada”, “machado”, “arco”, “livro”, etc. — o que muda é só o **tipo**.
 
 ## 🐾 Pets
 

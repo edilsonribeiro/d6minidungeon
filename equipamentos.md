@@ -5,7 +5,7 @@ Em vez de lista de armas, existem **4 tipos**. Na hora de atacar, diga qual tipo
 - ⚔️ **Corpo a corpo** (espada, machado, lança…) → ataca com ❤️ **Vida**
   - no **6**: além do dano normal, causa **+1 dano** (total **3**)
 - 🏹 **À distância** (arco, besta…) → ataca com ❤️ **Vida**
-  - no **6**: o alvo **não pode gastar 🛡️1** para anular o dano **deste ataque**
+  - no **6**: o alvo **não rola 🛡️ Esquiva** contra **este ataque**
 - 🔮 **Arcano** (foco arcano: varinha, cajado, orbe…) → magia com 🔵 **Mana**
   - no **6**: além do normal, escolha 1:
     - 🔥 **Fogo**: cause **1 dano mágico** em outro inimigo perto

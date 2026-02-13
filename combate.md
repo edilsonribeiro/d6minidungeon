@@ -1,26 +1,32 @@
 # ⚔ Combate
 
-O combate segue a mesma regra do núcleo: **sempre o jogador rola** (player-facing).
+O combate segue a mesma regra do núcleo, mas com **rolagens opostas**:  
+quem ataca rola o **Ataque** e quem apanha rola a **Defesa** (jogadores e monstros rolam).
 
 ## 📌 Onde estão as regras-base
 
 - Regra principal (rolagem + tabela do D6): `nucleo-infantil.md`
 - Regras globais de recursos (limite de gasto, Destino, magia improvisada): `recursos.md`
 
-## 🧩 Gastos universais (qualquer personagem)
-
-- ❤️ **Esforço extremo**: gaste **❤️1** → seu ataque físico causa **+1 dano**.
-- 🛡️ **Esquiva**: quando você tomaria **dano físico**, gaste **🛡️1** → anule **1** desse dano.
-- 🔵 **Anular dano mágico**: quando você tomaria **dano mágico**, gaste **🔵1** → anule **1** desse dano.
-
 ## 📋 Tabela resumo (combate)
 
-| Situação | Recurso | Rolagem | Observação |
-|---|---|---|---|
-| Ataque físico (corpo a corpo ou à distância) | ❤️ Vida | 1D6 por Vida (melhor) | no **6**, o efeito vem do item |
-| Ataque mágico (arcano ou divino) | 🔵 Mana | 1D6 por Mana (melhor) | no **6**, o efeito vem do item |
-| Resistência física | 🛡️ Esquiva | 1D6 por Esquiva (melhor) | pode gastar 🛡️1 para anular 1 dano físico |
-| Resistência mágica | 🔵 Mana | 1D6 por Mana (melhor) | pode gastar 🔵1 para anular 1 dano mágico |
+| Tipo | Ataque (quem ataca) | Defesa (quem apanha) |
+|---|---|---|
+| **Físico** | ❤️ Vida | 🛡️ Esquiva |
+| **Mágico** | 🔵 Mana (heróis) / **Vontade** (monstros) | 🔵 Mana (heróis) / **Vontade** (monstros) |
+
+**Como rolar (para os dois lados):** role **1D6 por ponto** do recurso e use **só o melhor dado**.  
+Se o recurso estiver em **0**, você não rola: trate como **1**.
+
+**Como resolver:** compare os melhores resultados.
+
+- **Ataque > Defesa**: acertou
+- **Ataque ≤ Defesa**: errou / foi bloqueado
+
+**Dano quando acerta:**
+
+- se o ataque foi **6**: causa **2 de dano** e ativa o **efeito do item/monstro**
+- se o ataque foi **1–5**: causa **1 de dano**
 
 ## ⚔ Combate (sem complicação)
 
@@ -35,27 +41,22 @@ Existem só **2 tipos de ataque**: **físico** e **mágico**. O que muda é o **
 - 🔮 **Arcano** (foco arcano) → ataque **mágico**
 - ✝️ **Divino** (amuleto/símbolo) → ataque **mágico**
 
-2) Role **1D6 por ponto que você tem** no recurso do ataque e use **apenas o melhor dado**:
+2) Role seu **Ataque**:
 
 - ataque **físico** (⚔️/🏹) → role por ❤️ **Vida**
 - ataque **mágico** (🔮/✝️) → role por 🔵 **Mana**
 
-Depois aplique no **recurso do alvo**:
+3) O mestre rola a **Defesa** do monstro:
 
-- ataque **físico** causa **dano físico** em ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
-- ataque **mágico** causa **dano mágico** em ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano)
+- contra ataque **físico**: 🛡️ **Esquiva**
+- contra ataque **mágico**: **Vontade**
 
-- **6**: causa **2 de dano** e ativa o **efeito do item** (ver abaixo e `equipamentos.md`)
-- **4–5**: causa **1 de dano**
-- **2–3**: escolha 1:
-  - causa **1 de dano**, mas você perde **1 ponto** do recurso usado no ataque (❤️/🔵)
-  - causa **0 de dano** (você não se expõe)
-- **1**: causa **0 de dano** e você perde **2 pontos** do recurso usado no ataque (ou algo pior acontece)
+4) Compare (Ataque x Defesa) e aplique o dano em ❤️ **Vida** se acertar.
 
 Efeito do item no **6** (além do dano normal):
 
 - ⚔️ **Corpo a corpo**: +**1 dano** (total **3**)
-- 🏹 **À distância**: o alvo **não pode gastar 🛡️1** para anular o dano **deste ataque**
+- 🏹 **À distância**: o alvo **não rola 🛡️ Esquiva** contra **este ataque**
 - 🔮 **Arcano**: escolha 1:
   - 🔥 **Fogo**: cause **1 dano mágico** em outro inimigo perto
   - 🌪️ **Vento**: **empurre** um alvo perto
@@ -67,21 +68,17 @@ Efeito do item no **6** (além do dano normal):
 
 ### 🛡️️️ Quando um inimigo te ataca
 
-Você **rola o dado**, não o monstro:
+1) O mestre diz o tipo do ataque (**físico** ou **mágico**) e rola o **Ataque** do monstro:
 
-O mestre diz qual é o tipo do ataque (**físico** ou **mágico**).
+- ataque **físico** → ❤️ **Vida**
+- ataque **mágico** → **Vontade**
 
-Você rola **1D6 por ponto que você tem no recurso de resistência** (🛡️/🔵) e usa **apenas o melhor dado**. Se o recurso estiver em **0**, você não rola: trate como resultado **1**. A rolagem define se você resiste:
+2) Você rola sua **Defesa**:
 
-- **6**: você resiste e pode contra-atacar (se fizer sentido)
-- **4–5**: você resiste
-- **2–3**: você sofre **1 de dano**:
-  - físico → ❤️ **Vida** (você pode gastar 🛡️1 para anular **1** desse dano)
-  - mágico → ❤️ **Vida** (você pode gastar 🔵1 para anular **1** desse dano)
-- **1**: você sofre **2 de dano** (físico → ❤️ Vida; mágico → ❤️ Vida; e o monstro pode impor uma condição se tiver esse “truque”)
+- contra ataque **físico** → 🛡️ **Esquiva**
+- contra ataque **mágico** → 🔵 **Mana**
 
-Lembrete: quando você tomaria **dano físico**, você pode gastar **🛡️1** para anular **1** desse dano (ação universal).
-Lembrete: quando você tomaria **dano mágico**, você pode gastar **🔵1** para anular **1** desse dano (ação universal).
+3) Compare (Ataque x Defesa) e aplique o dano em ❤️ **Vida** se o monstro acertar.
 
 ## 😵 Desmaio (golpes que derrubam)
 

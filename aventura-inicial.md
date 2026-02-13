@@ -5,7 +5,7 @@
 🎲 Sistema: RPG D6 Heroico (modo infantil)  
 👥 Grupo: 1–4 crianças
 
-Objetivo: ensinar as regras **jogando** (rolagem, combate, esquiva player-facing, recursos, escolhas, pet e recompensa).
+Objetivo: ensinar as regras **jogando** (rolagem, combate, recursos, escolhas, pet e recompensa).
 
 ## 🌟 Sinopse (para o mestre)
 
@@ -84,7 +84,8 @@ Cada ratinho:
 
 - 🛡️ Esquiva: **1**
 - ❤️ Vida: **1**
-- “Ataque” (no turno deles): tentam morder/empurrar/roubar comida → forçam **esquiva do jogador** (monstro não rola).
+- 🧠 Vontade: **1**
+- “Ataque” (no turno deles): tentam morder/empurrar/roubar comida → o mestre **rola o ataque do ratinho** e o jogador rola a **defesa**.
 
 ### 🧠 Ensinar combate sem travar
 
@@ -92,8 +93,8 @@ Use `nucleo-infantil.md` (regra principal) e `combate.md` (passo a passo).
 
 Atalho do tutorial:
 
-- No turno do herói: move + faz 1 ação.
-- No turno do monstro: sempre peça a rolagem do jogador.
+- No turno do herói: move + faz 1 ação (o herói rola o **Ataque** e o monstro rola a **Defesa**).
+- No turno do monstro: o mestre rola o **Ataque** do monstro e o herói rola a **Defesa**.
 
 Use o cenário:
 

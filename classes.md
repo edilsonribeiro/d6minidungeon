@@ -38,7 +38,7 @@ Ideia-chave:
 
 Escolha **2** técnicas:
 
-- 🛡️ **Disparo preciso** (custa 🛡️1): seu dano físico não pode ser anulado com 🛡️ Esquiva.
+- 🛡️ **Disparo preciso** (custa 🛡️1): em um ataque físico, o alvo rola a defesa (🛡️ Esquiva) com **Atrapalho** (-1D6, mínimo 1).
 - 🛡️ **Movimento fantasma** (custa 🛡️1): ataque e depois se mova livremente para longe/para cobertura, sem complicação.
 - 🛡️ **Olhos do caçador** (custa 🛡️1): em um ataque ou teste de rastrear/evitar emboscada, trate um **2–3** como **4–5**.
 - 🛡️ **Ataque duplo** (custa 🛡️1): após acertar um ataque físico, faça **mais 1 ataque** leve (se errar no segundo, nada ruim acontece).

@@ -42,7 +42,9 @@ Ou seja: **1D6 por ponto que você tem nesse recurso agora**.
 | **2–3** | Você não consegue completamente |
 | **1** | Algo dá errado ou engraçado acontece |
 
-Essa regra vale para: atacar, defender, pular, lançar magia, fugir, convencer alguém, etc.
+Essa regra vale para tudo.  
+Quando for **rolagem simples** (sem oposição), use a **tabela** acima.  
+No **combate**, normalmente é **rolagem oposta** (Ataque x Defesa): compare os melhores dados (ver `combate.md`).
 
 ## 🧠 Modo 6–8 anos (super simples): “Regra do 6”
 
@@ -81,8 +83,8 @@ Regras completas (atacar, defender, condições e grid opcional): `combate.md`.
 
 Lembretes rápidos:
 
-- dano físico vai para ❤️ **Vida** (o alvo pode gastar 🛡️1 para anular **1** desse dano)
-- dano mágico vai para ❤️ **Vida** (o alvo pode gastar 🔵1 para anular **1** desse dano)
+- combate é **rolagem oposta**: quem ataca rola o **Ataque** e quem apanha rola a **Defesa**
+- dano (físico ou mágico) vai para ❤️ **Vida**
 - 🟣 **Alma** é usada para milagres e para **Destino** (ver `recursos.md`)
 
 ## 😵 Desmaio (golpes que derrubam)

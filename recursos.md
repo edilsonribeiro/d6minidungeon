@@ -5,9 +5,9 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
 | Recurso | Função ofensiva | Função defensiva |
 |---|---|---| 
 | ❤️ **Vida** | ataque físico (corpo a corpo e à distância) | recebe dano físico (quando o golpe passa) e resistir desmaio (❤️1) |
-| 🛡️ **Esquiva** | — | resistir ataques físicos (rolagem) e anular 1 dano físico (🛡️1) |
+| 🛡️ **Esquiva** | — | resistir ataques físicos (rolagem) |
 | 🟣 **Alma** | milagres e Destino (mudar a rolagem) | — |
-| 🔵 **Mana** | ataque mágico (arcano e divino) | resistir ataques mágicos (rolagem) e anular 1 dano mágico (🔵1) |
+| 🔵 **Mana** | ataque mágico (arcano e divino) | resistir ataques mágicos (rolagem) |
 
 ## 🎯 Regras globais (fixas)
 
@@ -17,7 +17,7 @@ Este sistema é fechado: tudo gira em torno de **4 recursos** universais.
   - Você pode gastar pontos de **recursos diferentes** na mesma ação (ex.: ❤️ + 🟣 = ok; ❤️ + ❤️ = não).
 - Recursos **não regeneram durante combate**.
 - Recursos recuperam apenas em **descanso completo**.
-- Quando um recurso chega a **0**, ele **não pode mais ser usado** (nem ofensiva, nem defensivamente).
+- Quando um recurso chega a **0**, você **não rola dados** com ele (resultado mínimo = **1**) e não consegue pagar custos desse recurso.
 
 ## 📊 Distribuição por classe (10 pontos)
 
@@ -31,7 +31,7 @@ Valores iniciais e distribuição por classe: `classes.md`.
 - Magias “fortes” gastam **🔵 1** por uso (ou o custo indicado) e normalmente são coisa do **Mago** (ou de uma habilidade/recompensa).
 - Se sua Mana chegar a **0**:
   - você não consegue usar magia
-  - você não consegue gastar 🔵 para se defender (ex.: anular 1 dano mágico)
+  - sua defesa mágica fica no mínimo (sem dados; trate como **1**)
 
 ## ✨ Magia improvisada (qualquer personagem)
 

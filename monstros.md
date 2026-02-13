@@ -4,26 +4,33 @@ Monstros normalmente:
 
 - atacam
 - impõem condição
-- forçam esquiva
+- rolam defesa (Esquiva/Vontade)
 
 ## 🎭 Como narrar para crianças
 
 Em vez de “números”, dê ao monstro **um truque visível**:
 
-- 👊 **Bate forte** (ataque físico → ameaça ❤️ Vida; o herói pode gastar 🛡️1 para anular 1 dano)
+- 👊 **Bate forte** (ataque físico → ameaça ❤️ Vida; o herói defende com 🛡️ Esquiva)
 - 🪨 **Derruba** (no 1 da esquiva física, você fica **Caído**)
 - 🕸 **Prende** (no 1 da esquiva física, você fica **Preso**)
 - 😱 **Assusta** (no 1 da esquiva física, você fica **Tonto**)
 
-Na prática: no turno do monstro, escolha o **tipo** do ataque (físico / mágico) e peça a rolagem de esquiva do jogador (ver `combate.md`).
-As regras completas de ataque/defesa e resultados ficam em `combate.md`.
+Na prática: o mestre rola pelos monstros (ataque e defesa). As regras completas ficam em `combate.md`.
 
-## 🧩 Recursos dos monstros (simples)
+## 🧩 Ficha do monstro (simples)
 
-Você pode dar ao monstro só **1–2 recursos** e pronto:
+Você pode dar ao monstro só **3 números** e pronto:
 
-- Monstro **físico**: 🛡️ Esquiva + ❤️ Vida
-- Monstro **mágico**: 🔵 Mana + ❤️ Vida (pode gastar 🔵1 para anular 1 dano mágico)
+- ❤️ **Vida** (quanto aguenta)
+- 🛡️ **Esquiva** (defesa contra ataque físico)
+- 🧠 **Vontade** (defesa contra ataque mágico e “força do sobrenatural”)
+
+Rolagens do monstro:
+
+- para **atacar fisicamente**: role por ❤️ **Vida**
+- para **atacar magicamente**: role por 🧠 **Vontade**
+- para **defender ataque físico**: role por 🛡️ **Esquiva**
+- para **defender ataque mágico**: role por 🧠 **Vontade**
 
 ## ❤️ Vida (referência rápida)
 
@@ -38,7 +45,7 @@ Chefes podem:
 
 - atacar dois alvos
 - aplicar condição em área
-- ignorar a primeira vez que alguém anularia dano com 🛡️ Esquiva
+- ignorar o **primeiro dano** que tomariam no combate (dano vira 0)
 
 Sem ficha complexa.
 
@@ -53,7 +60,7 @@ Cada coração tem um **poder visível**. Quando o chefe perde um coração, ele
 Exemplo (chefe ogro):
 
 - ❤️🔥 **Fúria**: ele empurra/derruba no ataque.
-- ❤️🛡️ **Casca dura**: a primeira vez que alguém anularia dano com 🛡️ Esquiva contra ele, não funciona.
+- ❤️🛡️ **Casca dura**: a primeira vez que ele tomaria dano no combate, o dano vira **0**.
 - ❤️😡 **Brutal**: ele pode atacar dois alvos.
 
 Isso fica:

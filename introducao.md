@@ -1,6 +1,7 @@
 # 🎲 Introdução — RPG D6 Heroico
 
-O sistema usa apenas **D6** e é **player-facing**: monstros normalmente **não rolam dados**; quem rola é o jogador.
+O sistema usa apenas **D6** e é **rápido**: a mesma rolagem serve para tudo.  
+Em combate, ele não é mais *player-facing*: **jogadores e monstros rolam** (ataque x defesa).
 
 Este projeto tem um resumo em 1 página: `nucleo-infantil.md`.
 
